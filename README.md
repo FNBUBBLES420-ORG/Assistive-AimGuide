@@ -12,6 +12,7 @@
 Welcome to the **Assistive AimGuide** project!  
 This tool is designed to enhance accessibility for gamers with **physical disabilities** by providing advanced AI-driven aiming assistance. It helps to level the playing field, allowing everyone to enjoy competitive and casual gaming environments.
 
+# [Funding](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/.github/FUNDING.yml)
 
 ----------
 ----------
