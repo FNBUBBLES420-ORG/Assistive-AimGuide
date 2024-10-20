@@ -4,8 +4,8 @@
 
 </div>
 
-- **包括**: `Readme.md`, `License`, `Code_of_Conduct.md`, `Security.md`.
-- 
+### **包括**: `Readme.md`, `License`, `Code_of_Conduct.md`, `Security.md`.
+  
 # **重要**: 使用机器人前，请确保阅读以下文件：
 - **[Readme.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/readme.md)**
 - **[License.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/LICENSE.md)**
@@ -30,7 +30,7 @@
 我们**不支持作弊**或任何形式的作弊行为。  
 如果您因为使用该工具而被某个游戏禁用，我们不承担责任。  
 此工具应仅在**受控环境**中用于测试目的。
-- **[注意事项](https://github.com/KernFerm/chBhEi7vB/blob/main/NOTES.TXT)**
+- **[NOTES](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/NOTES.TXT)**
 ---
 
 ## Bubbles Advanced AI Anti Cheat Engine
