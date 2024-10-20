@@ -4,7 +4,7 @@
 
 </div>
 
-- **Uključuje**: `Readme.md`, `License`, `Code_of_Conduct.md`, `Security.md`.
+### **Uključuje**: `Readme.md`, `License`, `Code_of_Conduct.md`, `Security.md`.
 
 # **Važno**: Molimo vas da prije korištenja bota pročitate sljedeće dokumente:
 - **[Readme.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/readme.md)**
