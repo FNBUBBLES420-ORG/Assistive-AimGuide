@@ -3,9 +3,11 @@
 </p>
 
 ----
-----
 
 # ***🚨 请仔细阅读整个 README.MD 和所有文件！ 🚨***
+
+
+# 🌟 [Funding](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/.github/FUNDING.yml) 🌟
 
 
 ## 介绍
