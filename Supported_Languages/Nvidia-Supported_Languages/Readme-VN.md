@@ -34,7 +34,7 @@ Chúng tôi **ủng hộ trò chơi công bằng** và khả năng tiếp cận 
 Sử dụng công cụ này trong các trò chơi trực tuyến là rủi ro của bạn. Vui lòng tham khảo ý kiến nhà phát triển trò chơi nếu không chắc chắn về tính tương thích với các chính sách trò chơi.
 Công cụ này nên được sử dụng chủ yếu như một thiết bị hỗ trợ trong các môi trường hỗ trợ sự bao gồm.
 
-- **[NOTES](https://github.com/KernFerm/chBhEi7vB/blob/main/NOTES.TXT)**
+- **[NOTES](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/NOTES.TXT)**
 ---
 
 ## Bubbles Advanced AI Anti Cheat Engine
