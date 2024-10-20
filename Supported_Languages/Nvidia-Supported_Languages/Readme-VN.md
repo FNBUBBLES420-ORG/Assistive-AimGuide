@@ -10,10 +10,10 @@ Chào mừng bạn đến với dự án **Assistive AimGuide**!
 Công cụ này được thiết kế để tăng cường khả năng tiếp cận cho người chơi có khuyết tật vật lý bằng cách cung cấp sự hỗ trợ nhắm mục tiêu do AI điều khiển. Nó giúp san bằng sân chơi, cho phép mọi người tận hưởng môi trường chơi game cạnh tranh và giải trí.
 
 ## 🚨**Quan trọng**🚨: Vui lòng đảm bảo rằng bạn đã đọc những tài liệu sau trước khi sử dụng công cụ:
-- **[Readme.md](https://github.com/KernFerm/chBhEi7vB/blob/main/readme.md)**
-- **[License.md](https://github.com/KernFerm/chBhEi7vB/blob/main/LICENSE.md)**
-- **[Code_of_Conduct.md](https://github.com/KernFerm/chBhEi7vB/blob/main/CODE_OF_CONDUCT.md)**
-- **[Security.md](https://github.com/KernFerm/chBhEi7vB/blob/main/SECURITY.md)**
+- **[Readme.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/readme.md)**
+- **[License.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/LICENSE.md)**
+- **[Code_of_Conduct.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/CODE_OF_CONDUCT.md)**
+- **[Security.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/SECURITY.md)**
 
 ## 🚀 Tính năng
 - 🎯 **Hỗ trợ Nhắm mục tiêu Linh hoạt**: Tùy chỉnh hỗ trợ nhắm mục tiêu theo nhu cầu cụ thể của người chơi khuyết tật, sử dụng các mô hình phát hiện YOLOv5 và YOLOv8.
