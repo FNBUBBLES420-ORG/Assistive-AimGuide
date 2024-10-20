@@ -9,7 +9,7 @@
 Bienvenue dans le projet **Assistive AimGuide** !  
 Cet outil est conçu pour améliorer l'accessibilité des joueurs ayant des handicaps physiques en fournissant une assistance à la visée pilotée par IA. Il aide à équilibrer les chances, permettant à tous de profiter d'environnements de jeu compétitifs et occasionnels.
 
-## 🚨**Important**🚨: Please ensure you read the following documents before using the tool:
+## 🚨Important🚨: Veuillez vous assurer de lire les documents suivants avant d'utiliser l'outil:
 - **[Readme.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/readme.md)**
 - **[License.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/LICENSE.md)**
 - **[Code_of_Conduct.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/CODE_OF_CONDUCT.md)**
