@@ -32,7 +32,7 @@
 Использование этого инструмента в онлайн-играх осуществляется на ваш страх и риск. Пожалуйста, проконсультируйтесь с разработчиками игр, если вы не уверены в совместимости с политиками игры.  
 Этот инструмент следует использовать преимущественно как помощное устройство в средах, поддерживающих инклюзивность.
 
-- **[NOTES](https://github.com/KernFerm/chBhEi7vB/blob/main/NOTES.TXT)**
+- **[NOTES](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/NOTES.TXT)**
 ---
 
 ## Bubbles Advanced AI Anti Cheat Engine
