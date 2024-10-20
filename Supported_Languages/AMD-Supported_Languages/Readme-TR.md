@@ -4,8 +4,8 @@
 
 </div>
 
-- **Dahil olanlar**: `Readme.md`, `License`, `Code_of_Conduct.md`, `Security.md`.
-- 
+### **Dahil olanlar**: `Readme.md`, `License`, `Code_of_Conduct.md`, `Security.md`.
+  
 # **Önemli**: Botu kullanmadan önce lütfen aşağıdaki belgeleri okuduğunuzdan emin olun:
 - **[Readme.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/readme.md)**
 - **[License.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/LICENSE.md)**
@@ -30,7 +30,7 @@ Bu proje yalnızca **eğitim amaçlıdır** ve AI tekniklerini sergilemeyi amaç
 Herhangi bir oyun şekli için hile yapmayı veya hileyi teşvik etmeyi **desteklemiyoruz**.  
 Bu botu kullanmanız sonucu herhangi bir oyunda yasaklanırsanız sorumlu değiliz.  
 Bu bot yalnızca **kontrollü bir ortamda** test amaçlı kullanılmalıdır.
-- **[NOTLAR](https://github.com/KernFerm/chBhEi7vB/blob/main/NOTES.TXT)**
+- **[NOTES](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/NOTES.TXT)**
 ---
 
 ## Bubbles Advanced AI Anti Cheat Engine
