@@ -8,10 +8,10 @@ Bem-vindo ao projeto **Assistive AimGuide**!
 Este ferramenta foi projetada para melhorar a acessibilidade para jogadores com deficiências físicas ao fornecer assistência avançada de mira conduzida por IA. Ela ajuda a nivelar o campo de jogo, permitindo que todos desfrutem de ambientes de jogo competitivos e casuais.
 
 ## 🚨**Importante**🚨: Por favor, assegure-se de ler os seguintes documentos antes de usar a ferramenta:
-- **[Readme.md](https://github.com/KernFerm/chBhEi7vB/blob/main/readme.md)**
-- **[License.md](https://github.com/KernFerm/chBhEi7vB/blob/main/LICENSE.md)**
-- **[Code_of_Conduct.md](https://github.com/KernFerm/chBhEi7vB/blob/main/CODE_OF_CONDUCT.md)**
-- **[Security.md](https://github.com/KernFerm/chBhEi7vB/blob/main/SECURITY.md)**
+- **[Readme.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/readme.md)**
+- **[License.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/LICENSE.md)**
+- **[Code_of_Conduct.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/CODE_OF_CONDUCT.md)**
+- **[Security.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/SECURITY.md)**
 
 ## 🚀 Funcionalidades
 - 🎯 **Assistência Adaptativa de Mira**: Adapta a assistência de mira às necessidades específicas de jogadores com deficiências físicas, usando modelos de detecção YOLOv5 e YOLOv8.
