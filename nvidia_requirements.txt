@@ -1,0 +1,24 @@
+torch  # With CUDA support for NVIDIA GPUs (2.4.1 with CUDA 11.8)
+numpy
+opencv-python
+comtypes
+pandas
+cupy-cuda118  # GPU accelerated array library for NVIDIA GPUs (with CUDA 11.8 support)
+bettercam
+psutil
+colorama
+ultralytics
+PyAutoGUI
+PyGetWindow
+pywin32
+pyyaml
+tqdm
+matplotlib
+seaborn
+requests
+ipython
+dxcam
+onnx
+onnxruntime-gpu  # NVIDIA GPU support
+pyarmor
+dill
