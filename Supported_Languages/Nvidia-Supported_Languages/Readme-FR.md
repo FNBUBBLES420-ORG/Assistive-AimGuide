@@ -5,6 +5,9 @@
 
 # ***🚨 LISEZ ATTENTIVEMENT L'INTÉGRALITÉ DU FICHIER README.MD ET TOUS LES DOCUMENTS !!! 🚨***
 
+
+# 🌟 [Funding](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/.github/FUNDING.yml) 🌟
+
 ----
 
 ## Introduction
