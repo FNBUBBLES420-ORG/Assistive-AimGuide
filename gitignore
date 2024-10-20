@@ -1,0 +1,112 @@
+# Ignore Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore Python virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# Ignore package dependencies
+node_modules/
+*.log
+
+# Ignore compiled files
+*.class
+*.o
+*.so
+*.out
+
+# Ignore binaries
+*.exe
+*.dll
+*.bin
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.suo
+*.user
+*.DS_Store
+
+# Ignore script logs
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore config files
+config.py
+
+# Ignore PyTorch and cuDNN related
+install_pytorch.bat
+cudnn_instructions.js
+
+# Ignore Batchfiles
+*.bat
+*.ps1
+
+# Ignore .pt, .onnx, .engine files
+*.pt
+*.onnx
+*.engine
+
+# Ignore specific folders
+/utils
+/ultralytics1/utils
+/models
+/imgs
+/banner
+/.github
+
+# Ignore main_tensorrt_script folder and its contents
+/main_tensorrt_script/
+/main_tensorrt_script/dist/
+/main_tensorrt_script/dist/imgs/
+/main_tensorrt_script/dist/models/
+/main_tensorrt_script/dist/pyarmor_runtime_000000/
+/main_tensorrt_script/dist/pyarmor_runtime_0000001/
+/main_tensorrt_script/dist/ultralytics1/utils/
+/main_tensorrt_script/dist/utils/
+/main_tensorrt_script/dist/config.py
+/main_tensorrt_script/dist/gameSelection.py
+/main_tensorrt_script/dist/main_tensorrt.py
+/main_tensorrt_script/dist/readme.md
+
+# Ignore main_onnx_script folder and its contents
+/main_onnx_script/
+/main_onnx_script/dist/
+/main_onnx_script/dist/imgs/
+/main_onnx_script/dist/models/
+/main_onnx_script/dist/pyarmor_runtime_000000/
+/main_onnx_script/dist/pyarmor_runtime_0000001/
+/main_onnx_script/dist/ultralytics1/utils/
+/main_onnx_script/dist/utils/
+/main_onnx_script/dist/butter-scotch-cookies.txt
+/main_onnx_script/dist/config.py
+/main_onnx_script/dist/gameSelection.py
+/main_onnx_script/dist/main_onnx.py
+/main_onnx_script/dist/readme.md
+
+# Ignore main_amd_script folder and its contents
+main_amd_scripts
+main_amd_scripts/dist
+main_amd_scripts/dist/imgs
+main_amd_scripts/dist/models
+main_amd_scripts/dist/pyarmor_runtime_000000/
+main_amd_scripts/dist/pyarmor_runtime_0000001/
+main_amd_scripts/dist/ultralytics1/utils/
+main_amd_scripts/dist/utils/
+main_amd_scripts/dist/amd_requirements.txt
+main_amd_scripts/dist/butter-scotch-cookies.txt
+main_amd_scripts/dist/config.py
+main_amd_scripts/dist/export.py
+main_amd_scripts/dist/gameSelection.py
+main_amd_scripts/dist/main_amd.py
+main_amd_scripts/dist/readme.md
+main_amd_scripts/dist/readme2.md
+main_amd_scripts/dist/run-2.bat
