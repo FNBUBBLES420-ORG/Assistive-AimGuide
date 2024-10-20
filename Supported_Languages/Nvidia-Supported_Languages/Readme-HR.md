@@ -71,7 +71,7 @@ Ako želite sudjelovati ili saznati više o volontiranju, posjetite našu **[Str
 
 Kliknite na link za čitanje [**Upute**](https://www.gitprojects.fnbubbles420.org/how-to-download-repos) 📄.
 
-# Za PODRŠKU AMD GPU [kliknite ovdje](https://github.com/KernFerm/gVSUea52m/blob/main/main_amd_scripts/dist/readme.md)
+# Za PODRŠKU AMD GPU [kliknite ovdje](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_amd_scripts/dist/readme.md)
 
 - `update_ultralytics.bat` **UVIJEK PROVJERAVAJTE AŽURIRANJA SVAKIH NEKOLIKO TJEDANA !!**
 
