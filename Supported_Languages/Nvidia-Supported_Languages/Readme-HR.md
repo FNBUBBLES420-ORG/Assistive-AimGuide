@@ -8,11 +8,11 @@
 Dobrodošli u projekt **Assistive AimGuide**!  
 Ovaj alat je dizajniran kako bi poboljšao pristupačnost za igrače s tjelesnim poteškoćama pružajući naprednu AI potpomognutu asistenciju za ciljanje. Pomaže izjednačiti šanse, omogućujući svima da uživaju u natjecateljskim i casual igračkim okruženjima.
 
-## 🚨**Važno**🚨: Molimo vas da pažljivo pročitate sljedeće dokumente prije korištenja alata:
-- **[Readme.md](https://github.com/KernFerm/chBhEi7vB/blob/main/readme.md)**
-- **[License.md](https://github.com/KernFerm/chBhEi7vB/blob/main/LICENSE.md)**
-- **[Code_of_Conduct.md](https://github.com/KernFerm/chBhEi7vB/blob/main/CODE_OF_CONDUCT.md)**
-- **[Security.md](https://github.com/KernFerm/chBhEi7vB/blob/main/SECURITY.md)**
+## 🚨**Important**🚨: Please ensure you read the following documents before using the tool:
+- **[Readme.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/readme.md)**
+- **[License.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/LICENSE.md)**
+- **[Code_of_Conduct.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/CODE_OF_CONDUCT.md)**
+- **[Security.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/SECURITY.md)**
 
 ## 🚀 Značajke
 - 🎯 **Prilagodljiva asistencija za ciljanje**: Prilagođava asistenciju za ciljanje specifičnim potrebama igrača s tjelesnim izazovima, koristeći modele detekcije YOLOv5 i YOLOv8.
