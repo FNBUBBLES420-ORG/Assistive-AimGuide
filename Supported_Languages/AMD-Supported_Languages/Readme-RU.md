@@ -7,11 +7,10 @@
 - **Включает в себя**: `Readme.md`, `License`, `Code_of_Conduct.md`, `Security.md`.
 - 
 # **Важно**: Пожалуйста, убедитесь, что вы прочитали следующие документы перед использованием бота:
-- **[Readme.md](https://github.com/KernFerm/chBhEi7vB/blob/main/readme.md)**
-- **[License.md](https://github.com/KernFerm/chBhEi7vB/blob/main/LICENSE.md)**
-- **[Code_of_Conduct.md](https://github.com/KernFerm/chBhEi7vB/blob/main/CODE_OF_CONDUCT.md)**
-- **[Security.md](https://github.com/KernFerm/chBhEi7vB/blob/main/SECURITY.md)**
-
+- **[Readme.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/readme.md)**
+- **[License.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/LICENSE.md)**
+- **[Code_of_Conduct.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/CODE_OF_CONDUCT.md)**
+- **[Security.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/SECURITY.md)**
 ## 🎯 Assistive AimGuide - Поддержка GPU AMD
 
 Добро пожаловать в проект **Assistive AimGuide**, разработанный для повышения точности прицеливания с использованием моделей машинного обучения, специально оптимизированных для GPU AMD с **onnxruntime_directml**. Независимо от того, играете ли вы в соревновательных играх или просто хотите улучшить свою меткость, этот бот обеспечивает плавное прицеливание для пользователей AMD.
