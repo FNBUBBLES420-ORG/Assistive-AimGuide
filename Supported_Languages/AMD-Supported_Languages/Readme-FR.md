@@ -4,7 +4,7 @@
 
 </div>
 
-- **Inclus**: `Readme.md`, `License`, `Code_of_Conduct.md`, `Security.md`.
+### - **Inclus**: `Readme.md`, `License`, `Code_of_Conduct.md`, `Security.md`.
   
 # **Important** : Veuillez lire les documents suivants avant d'utiliser le bot :
 - **[Readme.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/readme.md)**
