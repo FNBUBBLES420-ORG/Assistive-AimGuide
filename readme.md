@@ -74,13 +74,13 @@ If you'd like to get involved or learn more about volunteering, visit our **[Vol
 Click the link to read [**Instructions**](https://www.gitprojects.fnbubbles420.org/how-to-download-repos) 📄.
 
 ----
-# For AMD GPU SUPPORT [click here](https://github.com/KernFerm/gVSUea52m/blob/main/main_amd_scripts/dist/readme.md)
+# For AMD GPU SUPPORT [click here](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_amd_scripts/dist/readme.md)
 ----
 ### Supported Languages on Readme.md
 1. **Nvidia**
-- ***[Nvidia_Supported_Languages](https://github.com/KernFerm/2ZDf.os60/tree/main/Supported_Languages/Nvidia-Supported_Languages)***
+- ***[Nvidia_Supported_Languages](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/tree/main/Supported_Languages/Nvidia-Supported_Languages)***
 2. **AMD**
-- ***[AMD_Supported_Languages](https://github.com/KernFerm/2ZDf.os60/tree/main/Supported_Languages/AMD-Supported_Languages)***
+- ***[AMD_Supported_Languages](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/tree/main/Supported_Languages/AMD-Supported_Languages)***
 ----
 - `update_ultralytics.bat` **ALWAYS CHECK FOR UPDATES COUPLE TIME EVERY FEW WEEKS !!**
 ----
