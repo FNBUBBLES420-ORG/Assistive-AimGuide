@@ -5,7 +5,7 @@
 </div>
 
 - **Bao gồm**: `Readme.md`, `License`, `Code_of_Conduct.md`, `Security.md`.
-- 
+  
 # **Quan trọng**: Vui lòng đảm bảo rằng bạn đã đọc các tài liệu sau trước khi sử dụng bot:
 - **[Readme.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/readme.md)**
 - **[License.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/LICENSE.md)**
@@ -30,7 +30,7 @@ Dự án này chỉ dành cho **mục đích giáo dục** và nhằm trình bà
 Chúng tôi **không tán thành hành vi gian lận** hay quảng bá gian lận dưới bất kỳ hình thức nào.  
 Nếu bạn bị cấm trong một trò chơi do sử dụng bot này, chúng tôi không chịu trách nhiệm.  
 Bot này chỉ nên được sử dụng trong **môi trường kiểm soát** cho mục đích thử nghiệm.
-- **[GHI CHÚ](https://github.com/KernFerm/chBhEi7vB/blob/main/NOTES.TXT)**
+- **[NOTES](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/NOTES.TXT)**
 ---
 
 ## Bubbles Advanced AI Anti Cheat Engine
