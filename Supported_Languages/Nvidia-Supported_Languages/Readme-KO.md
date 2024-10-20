@@ -73,7 +73,7 @@
 
 [**지침**](https://www.gitprojects.fnbubbles420.org/how-to-download-repos) 링크를 클릭하여 읽으세요 📄.
 
-# AMD GPU 지원 [여기를 클릭](https://github.com/KernFerm/gVSUea52m/blob/main/main_amd_scripts/dist/readme.md)
+# AMD GPU 지원 [여기를 클릭](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_amd_scripts/dist/readme.md)
 
 - `update_ultralytics.bat` **몇 주에 한 번씩 업데이트를 반드시 확인하세요!!**
 
