@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/banner/Assitive-AimGuide.png" alt="Assistive-AimGuide" width="400">
+</p>
 ----
 
 # ***🚨 LISEZ ATTENTIVEMENT L'INTÉGRALITÉ DU FICHIER README.MD ET TOUS LES DOCUMENTS !!! 🚨***
