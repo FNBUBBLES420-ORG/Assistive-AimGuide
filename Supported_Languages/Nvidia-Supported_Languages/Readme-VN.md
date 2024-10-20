@@ -5,6 +5,9 @@
 
 # ***🚨 VUI LÒNG ĐỌC TOÀN BỘ README.MD VÀ TẤT CẢ CÁC TÀI LIỆU MỘT CÁCH CẨN THẬN !!! 🚨***
 
+
+# 🌟 [Funding](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/.github/FUNDING.yml) 🌟
+
 ----
 
 </div>
