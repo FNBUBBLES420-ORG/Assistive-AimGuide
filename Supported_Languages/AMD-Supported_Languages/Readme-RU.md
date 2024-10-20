@@ -4,8 +4,8 @@
 
 </div>
 
-- **Включает в себя**: `Readme.md`, `License`, `Code_of_Conduct.md`, `Security.md`.
-- 
+### **Включает в себя**: `Readme.md`, `License`, `Code_of_Conduct.md`, `Security.md`.
+
 # **Важно**: Пожалуйста, убедитесь, что вы прочитали следующие документы перед использованием бота:
 - **[Readme.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/readme.md)**
 - **[License.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/LICENSE.md)**
