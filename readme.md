@@ -158,7 +158,7 @@ Click the link to read [**Instructions**](https://www.gitprojects.fnbubbles420.o
 ├── install_pytorch.bat                # NEWEST VERSION OF PYTORCH (Nvidia)
 ├── nodejs-instructions.ps1            # PowerShell script for Node.js instructions
 ├── readme.md                          # Project README file
-├── nvidia_requirements.txt                   # Python dependencies for the project
+├── nvidia_requirements.txt            # Python dependencies for the project
 ├── run.bat                            # Batch script to run the project
 ├── update_ultralytics.bat             # Batch script to update Ultralytics
 └── v5.pt                              # Pre-trained model file (for machine learning)
