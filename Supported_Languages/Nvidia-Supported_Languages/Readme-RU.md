@@ -75,7 +75,7 @@
 
 Нажмите на ссылку, чтобы прочитать [**инструкции**](https://www.gitprojects.fnbubbles420.org/how-to-download-repos) 📄.
 
-# Поддержка AMD GPU [нажмите здесь](https://github.com/KernFerm/gVSUea52m/blob/main/main_amd_scripts/dist/readme.md)
+# Поддержка AMD GPU [нажмите здесь](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_amd_scripts/dist/readme.md)
 
 - `update_ultralytics.bat` **ВСЕГДА ПРОВЕРЯЙТЕ НАЛИЧИЕ ОБНОВЛЕНИЙ КАЖДЫЕ НЕСКОЛЬКО НЕДЕЛЬ !!**
 
