@@ -7,6 +7,10 @@
 
 # **🚨** ***LISEZ TOUT ATTENTIVEMENT !!!*** **🚨**
 
+
+# 🌟 [Funding](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/.github/FUNDING.yml) 🌟
+
+
 </div>
 
 ### **Inclus**: `Readme.md`, `License`, `Code_of_Conduct.md`, `Security.md`.
