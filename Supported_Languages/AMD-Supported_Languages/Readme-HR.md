@@ -5,7 +5,7 @@
 </div>
 
 - **Uključuje**: `Readme.md`, `License`, `Code_of_Conduct.md`, `Security.md`.
-- 
+
 # **Važno**: Molimo vas da prije korištenja bota pročitate sljedeće dokumente:
 - **[Readme.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/readme.md)**
 - **[License.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/LICENSE.md)**
@@ -30,7 +30,7 @@ Ovaj projekt je **samo za edukativne svrhe** i služi za predstavljanje AI tehni
 Mi **ne podržavamo varanje** niti promociju varanja u bilo kojem obliku.  
 Ako budete zabranjeni u nekoj igri zbog korištenja ovog bota, nismo odgovorni.  
 Ovaj bot treba koristiti **samo u kontroliranom okruženju** za testne svrhe.
-- **[NAPOMENE](https://github.com/KernFerm/chBhEi7vB/blob/main/NOTES.TXT)**
+- **[NOTES](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/NOTES.TXT)**
 ---
 
 ## Bubbles Advanced AI Anti Cheat Engine
