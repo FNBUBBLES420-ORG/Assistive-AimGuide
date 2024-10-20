@@ -1,11 +1,14 @@
 <p align="center">
   <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/banner/Assitive-AimGuide.png" alt="Assistive-AimGuide" width="400">
 </p>
-----
+
 ----
 
 
 # ***🚨 請仔細閱讀整個 README.MD 及所有文件！ 🚨***
+
+
+# 🌟 [Funding](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/.github/FUNDING.yml) 🌟
 
 
 ## 介紹
