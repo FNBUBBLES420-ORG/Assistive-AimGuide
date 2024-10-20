@@ -74,7 +74,7 @@ Si vous souhaitez vous impliquer ou en savoir plus sur le bénévolat, visitez n
 
 Cliquez sur le lien pour lire les [**Instructions**](https://www.gitprojects.fnbubbles420.org/how-to-download-repos) 📄.
 
-# Pour le SUPPORT GPU AMD [cliquez ici](https://github.com/KernFerm/gVSUea52m/blob/main/main_amd_scripts/dist/readme.md)
+# Pour le SUPPORT GPU AMD [cliquez ici](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_amd_scripts/dist/readme.md)
 
 - `update_ultralytics.bat` **VÉRIFIEZ LES MISES À JOUR PLUSIEURS FOIS TOUS LES QUELQUES SEMAINES !!**
 
