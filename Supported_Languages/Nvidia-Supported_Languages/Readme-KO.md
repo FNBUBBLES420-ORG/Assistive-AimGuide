@@ -9,10 +9,10 @@
 이 도구는 AI 기반 조준 보조를 통해 신체 장애가 있는 게이머의 접근성을 향상시키도록 설계되었습니다. 모든 사람이 경쟁적이고 캐주얼 게임 환경을 즐길 수 있도록 경쟁의 장을 평준화하는 데 도움을 줍니다.
 
 ## 🚨**중요**🚨: 도구 사용 전 다음 문서들을 반드시 읽어주세요:
-- **[Readme.md](https://github.com/KernFerm/chBhEi7vB/blob/main/readme.md)**
-- **[License.md](https://github.com/KernFerm/chBhEi7vB/blob/main/LICENSE.md)**
-- **[Code_of_Conduct.md](https://github.com/KernFerm/chBhEi7vB/blob/main/CODE_OF_CONDUCT.md)**
-- **[Security.md](https://github.com/KernFerm/chBhEi7vB/blob/main/SECURITY.md)**
+- **[Readme.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/readme.md)**
+- **[License.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/LICENSE.md)**
+- **[Code_of_Conduct.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/CODE_OF_CONDUCT.md)**
+- **[Security.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/SECURITY.md)**
 
 ## 🚀 기능
 - 🎯 **적응형 조준 보조**: 신체 장애가 있는 게이머의 특정 요구에 맞춰 조준 보조를 맞춤화합니다. YOLOv5 및 YOLOv8 탐지 모델을 사용합니다.
