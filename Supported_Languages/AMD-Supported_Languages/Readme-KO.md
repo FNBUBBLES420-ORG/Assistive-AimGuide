@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/banner/Assitive-AimGuide.png" alt="Assistive-AimGuide" width="400">
+</p>
+
+
+
 <div align="center">
 
 # **🚨** ***모든 내용을 주의 깊게 읽어주세요!!!*** **🚨**
