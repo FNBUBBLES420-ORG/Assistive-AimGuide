@@ -31,7 +31,7 @@ Bu araç, engelli oyuncuların oyunlarda daha etkili rekabet etmelerine yardımc
 Bu aracın çevrimiçi oyunlarda kullanılması kendi riskiniz altındadır. Oyun politikalarıyla uyumluluk konusunda emin değilseniz, lütfen oyun geliştiricileriyle görüşün.  
 Bu araç, kapsayıcılığı destekleyen ortamlarda başlıca bir yardımcı cihaz olarak kullanılmalıdır.
 
-- **[NOTES](https://github.com/KernFerm/chBhEi7vB/blob/main/NOTES.TXT)**
+- **[NOTES](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/NOTES.TXT)**
 ---
 
 ## Bubbles Advanced AI Anti Cheat Engine
