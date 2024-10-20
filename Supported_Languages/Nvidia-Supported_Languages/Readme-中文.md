@@ -10,10 +10,10 @@
 此工具旨在通過提供先進的 AI 驅動瞄準輔助來增強身體殘疾玩家的可訪問性。它有助於平衡競技和休閒遊戲環境，讓每個人都能享受遊戲的樂趣。
 
 ## 🚨**重要**🚨: 使用該工具前，請確保閱讀以下文件：
-- **[Readme.md](https://github.com/KernFerm/chBhEi7vB/blob/main/readme.md)**
-- **[License.md](https://github.com/KernFerm/chBhEi7vB/blob/main/LICENSE.md)**
-- **[Code_of_Conduct.md](https://github.com/KernFerm/chBhEi7vB/blob/main/CODE_OF_CONDUCT.md)**
-- **[Security.md](https://github.com/KernFerm/chBhEi7vB/blob/main/SECURITY.md)**
+- **[Readme.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/readme.md)**
+- **[License.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/LICENSE.md)**
+- **[Code_of_Conduct.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/CODE_OF_CONDUCT.md)**
+- **[Security.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/SECURITY.md)**
 
 ## 🚀 特點
 - 🎯 **適應性瞄準輔助**：根據身體殘疾玩家的具體需求調整瞄準輔助，使用 YOLOv5 和 YOLOv8 檢測模型。
