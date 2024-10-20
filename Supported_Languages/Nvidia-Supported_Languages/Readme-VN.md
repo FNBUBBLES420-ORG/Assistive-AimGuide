@@ -1,7 +1,11 @@
-----
+<p align="center">
+  <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/banner/Assitive-AimGuide.png" alt="Assistive-AimGuide" width="400">
+</p>
 ----
 
 # ***🚨 VUI LÒNG ĐỌC TOÀN BỘ README.MD VÀ TẤT CẢ CÁC TÀI LIỆU MỘT CÁCH CẨN THẬN !!! 🚨***
+
+----
 
 </div>
 
