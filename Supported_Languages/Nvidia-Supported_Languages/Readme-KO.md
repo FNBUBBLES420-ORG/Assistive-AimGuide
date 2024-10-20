@@ -33,7 +33,7 @@
 이 도구를 온라인 게임에서 사용하는 것은 사용자의 책임입니다. 게임 정책과의 호환성이 확실하지 않다면 게임 개발자와 상의하십시오.
 이 도구는 주로 포용을 지원하는 환경에서 보조 장치로 사용되어야 합니다.
 
-- **[NOTES](https://github.com/KernFerm/chBhEi7vB/blob/main/NOTES.TXT)**
+- **[NOTES](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/NOTES.TXT)**
 ---
 
 ## Bubbles Advanced AI Anti Cheat Engine
