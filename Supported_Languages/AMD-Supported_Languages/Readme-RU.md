@@ -29,7 +29,7 @@
 Мы **не поддерживаем читерство** или продвижение читерства в любой форме.  
 Если вас заблокируют в какой-либо игре за использование этого бота, мы не несем ответственности.  
 Этот бот должен использоваться только **в контролируемой среде** для тестирования.
-- **[ЗАМЕТКИ](https://github.com/KernFerm/chBhEi7vB/blob/main/NOTES.TXT)**
+- **[NOTES](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/NOTES.TXT)**
 ---
 
 ## Bubbles Advanced AI Anti Cheat Engine
