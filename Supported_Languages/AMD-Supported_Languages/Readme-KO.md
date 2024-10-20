@@ -8,6 +8,9 @@
 
 # **🚨** ***모든 내용을 주의 깊게 읽어주세요!!!*** **🚨**
 
+
+# 🌟 [Funding](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/.github/FUNDING.yml) 🌟
+
 </div>
 
 ### **포함된 항목**: `Readme.md`, `License`, `Code_of_Conduct.md`, `Security.md`.
