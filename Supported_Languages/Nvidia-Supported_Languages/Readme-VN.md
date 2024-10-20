@@ -76,7 +76,7 @@ Nếu bạn muốn tham gia hoặc tìm hiểu thêm về tình nguyện viên, 
 
 Nhấp vào liên kết để đọc [**Hướng dẫn**](https://www.gitprojects.fnbubbles420.org/how-to-download-repos) 📄.
 
-# Hỗ trợ GPU AMD [nhấp vào đây](https://github.com/KernFerm/gVSUea52m/blob/main/main_amd_scripts/dist/readme.md)
+# Hỗ trợ GPU AMD [nhấp vào đây](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_amd_scripts/dist/readme.md)
 
 - `update_ultralytics.bat` **LUÔN KIỂM TRA CẬP NHẬT MỖI VÀI TUẦN !!**
 
