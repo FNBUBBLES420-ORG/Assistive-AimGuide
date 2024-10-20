@@ -8,6 +8,9 @@
 
 # **🚨** ***LEIA TUDO COM ATENÇÃO!!!*** **🚨**
 
+
+# 🌟 [Funding](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/.github/FUNDING.yml) 🌟
+
 </div>
 
 ### - **Incluindo**: `Readme.md`, `License`, `Code_of_Conduct.md`, `Security.md`.
