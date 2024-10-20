@@ -28,7 +28,7 @@ This tool is designed to enhance accessibility for gamers with **physical disabi
 
 ## Support the Project ⭐
 
-If you find this project useful, please give it a star! Your support is appreciated and helps keep the project growing. 🌟
+**If you find this project useful, please give it a star! Your support is appreciated and helps keep the project growing.🌟**
 
 ## Discord Support
 Join our Discord channel **Assistive AimGuide** for assistance, support, or to share your experience.  
