@@ -8,6 +8,9 @@
 
 ----
 
+## ***[PLEASE READ JUST POSTED](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/INFO.md)***
+
+
 # 🌟 [Funding](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/.github/FUNDING.yml) 🌟
 
 ## Introduction
