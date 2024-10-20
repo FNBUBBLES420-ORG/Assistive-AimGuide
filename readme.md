@@ -26,6 +26,10 @@ This tool is designed to enhance accessibility for gamers with **physical disabi
 - 🖼️ **Customizable Zones**: Enables users to define areas on the screen for the tool to assist with, adapting to various game layouts and preferences.
 - 💻 **Dynamic Performance Adjustment**: Manages resolution and processing based on system performance to maintain smooth gameplay.
 
+## Support the Project ⭐
+
+If you find this project useful, please give it a star! Your support is appreciated and helps keep the project growing. 🌟
+
 ## Discord Support
 Join our Discord channel **Assistive AimGuide** for assistance, support, or to share your experience.  
 - Please adhere to our [Server Rules](https://www.discord.fnbubbles420.org/server-rules-tos).
