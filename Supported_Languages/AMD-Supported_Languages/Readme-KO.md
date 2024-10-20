@@ -4,8 +4,8 @@
 
 </div>
 
-- **포함된 항목**: `Readme.md`, `License`, `Code_of_Conduct.md`, `Security.md`.
-- 
+### **포함된 항목**: `Readme.md`, `License`, `Code_of_Conduct.md`, `Security.md`.
+  
 # **중요**: 봇을 사용하기 전에 다음 문서를 반드시 읽어주세요:
 - **[Readme.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/readme.md)**
 - **[License.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/LICENSE.md)**
