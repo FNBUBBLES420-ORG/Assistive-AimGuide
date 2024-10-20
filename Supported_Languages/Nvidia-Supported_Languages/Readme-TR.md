@@ -74,7 +74,7 @@ Gönüllü olmak veya daha fazla bilgi edinmek istiyorsanız **[Gönüllü Sayfa
 
 [**Talimatlar**](https://www.gitprojects.fnbubbles420.org/how-to-download-repos) linkine tıklayarak okuyun 📄.
 
-# AMD GPU DESTEĞİ İÇİN [buraya tıklayın](https://github.com/KernFerm/gVSUea52m/blob/main/main_amd_scripts/dist/readme.md)
+# AMD GPU DESTEĞİ İÇİN [buraya tıklayın](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_amd_scripts/dist/readme.md)
 
 - `update_ultralytics.bat` **HER ZAMAN HER BİRKAÇ HAFTA GÜNCELLEMELERİ KONTROL EDİN !!**
 
