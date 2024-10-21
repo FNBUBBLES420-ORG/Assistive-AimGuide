@@ -3,7 +3,7 @@ numpy
 opencv-python
 comtypes
 pandas
-cupy-cuda118  # GPU accelerated array library for NVIDIA GPUs (with CUDA 11.8 support)
+cupy-cuda11x  # GPU accelerated array library for NVIDIA GPUs (with CUDA 11.8 support)
 bettercam
 psutil
 colorama
