@@ -678,7 +678,6 @@ If you encounter any issues during installation, refer to the official troublesh
 ## Now you're ready to start developing C and C++ applications in Visual Studio 2022! 🎉
 ---
 
-<div align="center">
 
 ## 🛠 Requirements
 
@@ -690,8 +689,6 @@ To run the bot, ensure the following dependencies are installed:
 - **Cupy** – For utilizing CUDA-based GPU acceleration (`pip install cupy-cuda11x`).
 - **BetterCam** – For capturing and processing live game frames. `Enhanced Advanced`
 - **Comtypes** – For interacting with the Windows API (`pip install comtypes`).
-
-</div>
 
 
 ----
