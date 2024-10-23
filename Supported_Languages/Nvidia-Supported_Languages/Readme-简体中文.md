@@ -39,7 +39,7 @@
 在在线游戏中使用此工具风险自负。如对游戏政策的兼容性有疑问，请咨询游戏开发者。
 此工具应主要用作支持包容性环境中的辅助设备。
 
-- **[NOTES](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/NOTES.TXT)**
+- **[请阅读重要信息](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/PLEASE-READ-IMPORTANT.md)**
 ---
 
 ## Bubbles Advanced AI Anti Cheat Engine
