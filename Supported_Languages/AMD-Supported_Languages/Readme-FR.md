@@ -39,7 +39,7 @@ Ce projet est à des **fins éducatives uniquement** et vise à présenter des t
 Nous **ne cautionnons pas la triche** ni la promotion de la triche sous aucune forme.  
 Si vous êtes banni d'un jeu à la suite de l'utilisation de cet outil, nous ne sommes pas responsables.  
 Cet outil doit être utilisé dans un **environnement contrôlé** à des fins de test uniquement.
-- **[NOTES](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/NOTES.TXT)**
+- **[VEUILLEZ LIRE IMPORTANT](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/PLEASE-READ-IMPORTANT.md)**
 ---
 
 ## Bubbles Advanced AI Anti Cheat Engine
