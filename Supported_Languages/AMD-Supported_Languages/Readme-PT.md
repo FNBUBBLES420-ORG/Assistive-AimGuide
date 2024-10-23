@@ -39,7 +39,7 @@ Este projeto é apenas para **fins educacionais** e visa apresentar técnicas de
 Nós **não apoiamos trapaças** nem a promoção de trapaças de nenhuma forma.  
 Se você for banido de um jogo como resultado do uso desta ferramenta, não somos responsáveis.  
 Esta ferramenta deve ser utilizada em um **ambiente controlado** apenas para fins de teste.
-- **[NOTAS](https://github.com/KernFerm/chBhEi7vB/blob/main/NOTES.TXT)**
+- **[POR FAVOR, LEIA IMPORTANTE](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/PLEASE-READ-IMPORTANT.md)**
 ---
 
 ## Bubbles Advanced AI Anti Cheat Engine
