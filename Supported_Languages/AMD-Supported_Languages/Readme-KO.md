@@ -39,7 +39,7 @@
 우리는 어떠한 형태의 부정 행위나 부정 행위 조장을 **지지하지 않습니다**.  
 이 도구를 사용하여 게임에서 금지된 경우, 우리는 책임을 지지 않습니다.  
 이 도구는 **통제된 환경**에서 테스트 목적으로만 사용되어야 합니다.
-- **[참고 사항](https://github.com/KernFerm/chBhEi7vB/blob/main/NOTES.TXT)**
+- **[중요 사항을 읽어주세요](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/PLEASE-READ-IMPORTANT.md)**
 ---
 
 ## Bubbles Advanced AI Anti Cheat Engine
