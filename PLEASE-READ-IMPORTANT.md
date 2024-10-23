@@ -148,3 +148,20 @@ Discord link:
 
 Discord 링크:  
 [https://www.discord.fnbubbles420.org/invite](https://www.discord.fnbubbles420.org/invite)
+
+---
+
+## Turkish (Türkçe)  
+**Anında Yasak**  
+- COD  
+- Valorant  
+
+Lütfen **Assistive AimGuide** ile ilgili deneyiminiz hakkında geri bildirimde bulunun. Aşağıdaki soruları göz önünde bulundurun:
+
+1. **Assistive AimGuide**, engelinizi yönetmenize, özellikle de oyun aktivitelerine katılımınızı artırmanıza nasıl yardımcı oldu?
+2. **Assistive AimGuide**, genel oyun deneyiminizi nasıl iyileştirdi? Performans, konfor veya erişilebilirlikte ne gibi değişiklikler fark ettiniz?
+
+Geri bildiriminiz, aracın etkisini anlamak ve etkinliğini artırmak için değerlidir. Lütfen Discord’a katılın ve ayrıntılı deneyiminizi **assistive-aim-guide** kanalında paylaşın.
+
+Discord bağlantısı:  
+[https://www.discord.fnbubbles420.org/invite](https://www.discord.fnbubbles420.org/invite)
