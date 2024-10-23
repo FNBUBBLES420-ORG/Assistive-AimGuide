@@ -38,7 +38,7 @@ Esta ferramenta é desenvolvida como uma **ajuda à acessibilidade** para jogado
 O uso desta ferramenta em jogos online é por sua conta e risco. Consulte os desenvolvedores de jogos se não tiver certeza sobre a compatibilidade com as políticas do jogo.  
 Esta ferramenta deve ser usada principalmente como um dispositivo assistivo em ambientes que apoiam a inclusividade.
 
-- **[NOTAS](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/NOTES.TXT)**
+- **[POR FAVOR, LEIA IMPORTANTE](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/PLEASE-READ-IMPORTANT.md)**
 ---
 
 ## Bubbles Advanced AI Anti Cheat Engine
