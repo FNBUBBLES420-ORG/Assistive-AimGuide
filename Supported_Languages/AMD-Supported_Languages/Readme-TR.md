@@ -39,7 +39,7 @@ Bu proje yalnızca **eğitim amaçlıdır** ve AI tekniklerini sergilemeyi amaç
 Herhangi bir oyun şekli için hile yapmayı veya hileyi teşvik etmeyi **desteklemiyoruz**.  
 Bu botu kullanmanız sonucu herhangi bir oyunda yasaklanırsanız sorumlu değiliz.  
 Bu bot yalnızca **kontrollü bir ortamda** test amaçlı kullanılmalıdır.
-- **[NOTES](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/NOTES.TXT)**
+- **[LÜTFEN ÖNEMLİ BİLGİYİ OKUYUN](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/PLEASE-READ-IMPORTANT.md)**
 ---
 
 ## Bubbles Advanced AI Anti Cheat Engine
