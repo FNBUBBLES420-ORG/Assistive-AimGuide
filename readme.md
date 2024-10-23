@@ -46,7 +46,7 @@ We **advocate for fair play** and accessibility in gaming and do **not endorse c
 Use of this tool in online games is at your own risk. Please consult with game developers if unsure about compatibility with game policies.  
 This tool should be used primarily as an assistive device in environments that support inclusivity.
 
-- **[NOTES](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/NOTES.TXT)**
+- **[PLEASE READ IMPORTANT](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/PLEASE-READ-IMPORTANT.md)**
 
 
 ---
