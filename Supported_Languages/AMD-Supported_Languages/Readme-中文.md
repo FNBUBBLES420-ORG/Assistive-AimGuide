@@ -39,7 +39,7 @@
 我們**不支持作弊**或以任何形式推廣作弊。  
 如果由於使用此工具而在遊戲中被封禁，我們不承擔任何責任。  
 此工具僅應在**受控環境**中進行測試用途。
-- **[NOTES](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/NOTES.TXT)**
+- **[請閱讀重要事項](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/PLEASE-READ-IMPORTANT.md)**
 ---
 
 ## Bubbles Advanced AI Anti Cheat Engine
