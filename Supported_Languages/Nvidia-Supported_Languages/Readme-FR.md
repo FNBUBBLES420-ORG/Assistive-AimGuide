@@ -39,7 +39,7 @@ Nous **prônons le jeu équitable** et l'accessibilité dans les jeux et ne **ca
 L'utilisation de cet outil dans les jeux en ligne se fait à vos propres risques. Veuillez consulter les développeurs de jeux si vous avez des doutes sur la compatibilité avec les politiques du jeu.  
 Cet outil doit être utilisé principalement comme un dispositif d'assistance dans des environnements qui soutiennent l'inclusivité.
 
-- **[NOTES](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/NOTES.TXT)**
+- **[VEUILLEZ LIRE IMPORTANT](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/PLEASE-READ-IMPORTANT.md)**
 ---
 
 ## Bubbles Advanced AI Anti Cheat Engine
