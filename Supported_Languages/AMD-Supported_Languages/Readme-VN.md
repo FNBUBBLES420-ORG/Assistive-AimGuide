@@ -39,7 +39,7 @@ Dự án này chỉ dành cho **mục đích giáo dục** và nhằm trình bà
 Chúng tôi **không tán thành hành vi gian lận** hay quảng bá gian lận dưới bất kỳ hình thức nào.  
 Nếu bạn bị cấm trong một trò chơi do sử dụng bot này, chúng tôi không chịu trách nhiệm.  
 Bot này chỉ nên được sử dụng trong **môi trường kiểm soát** cho mục đích thử nghiệm.
-- **[NOTES](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/NOTES.TXT)**
+- **[XIN VUI LÒNG ĐỌC QUAN TRỌNG](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/PLEASE-READ-IMPORTANT.md)**
 ---
 
 ## Bubbles Advanced AI Anti Cheat Engine
