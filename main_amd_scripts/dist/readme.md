@@ -1,8 +1,4 @@
-<div align="center">
-
 # **🚨** ***READ EVERYTHING CAREFULLY !!!*** **🚨**
-
-</div>
 
 - **Including**: `Readme.md`, `License`, `Code_of_Conduct.md`, `Security.md`.
 
