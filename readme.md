@@ -28,7 +28,7 @@ This tool is designed to enhance accessibility for gamers with **physical disabi
 - 🔫 **Precision Control**: Allows for fine-tuning of aiming settings to ensure accessibility without overpowering gameplay.
 - 🖼️ **Customizable Zones**: Enables users to define areas on the screen for the tool to assist with, adapting to various game layouts and preferences.
 - 💻 **Dynamic Performance Adjustment**: Manages resolution and processing based on system performance to maintain smooth gameplay.
-- **Ardunio** (optional)
+- 🤖 **Arduino** (optional): Integrates with Arduino for additional customization and hardware-based controls.
 
 ## Support the Project ⭐
 
