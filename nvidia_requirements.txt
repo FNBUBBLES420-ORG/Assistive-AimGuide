@@ -22,3 +22,4 @@ onnx
 onnxruntime-gpu  # NVIDIA GPU support
 pyarmor
 dill
+serial
