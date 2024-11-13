@@ -426,133 +426,137 @@ run the `get_device.py` to see if you installed it correctly
 
 ```
 @echo off
-
-echo ONNX Runtime (GPU) yükleniyor...
+echo Installing ONNX Runtime (GPU)...
 pip install onnxruntime-gpu
-echo Geri kalan bağımlılık kurulumlarına devam etmek için enter'a basın
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo NumPy yükleniyor...
+echo Installing NumPy...
 pip install numpy
-echo Geri kalan bağımlılık kurulumlarına devam etmek için enter'a basın
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo comtypes yükleniyor...
+echo Installing comtypes...
 pip install comtypes
-echo Geri kalan bağımlılık kurulumlarına devam etmek için enter'a basın
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo OpenCV (opencv-python) yükleniyor...
+echo Installing OpenCV (opencv-python)...
 pip install opencv-python
-echo Geri kalan bağımlılık kurulumlarına devam etmek için enter'a basın
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo pandas yükleniyor...
+echo Installing pandas...
 pip install pandas
-echo Geri kalan bağımlılık kurulumlarına devam etmek için enter'a basın
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo bettercam yükleniyor...
+echo Installing bettercam...
 pip install bettercam
-echo Geri kalan bağımlılık kurulumlarına devam etmek için enter'a basın
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo onnx yükleniyor...
+echo Installing onnx...
 pip install onnx
-echo Geri kalan bağımlılık kurulumlarına devam etmek için enter'a basın
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo PyWin32 yükleniyor...
+echo Installing PyWin32...
 pip install pywin32
-echo Geri kalan bağımlılık kurulumlarına devam etmek için enter'a basın
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Dill yükleniyor...
+echo Installing Dill...
 pip install dill
-echo Geri kalan bağımlılık kurulumlarına devam etmek için enter'a basın
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo CuPy (CUDA 11.8 için GPU hızlandırmalı dizi kütüphanesi) yükleniyor...
+echo Installing CuPy (GPU accelerated array library for CUDA 11.8)...
 pip install cupy-cuda11x
-echo Geri kalan bağımlılık kurulumlarına devam etmek için enter'a basın
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo psutil yükleniyor...
+echo Installing psutil...
 pip install psutil
-echo Geri kalan bağımlılık kurulumlarına devam etmek için enter'a basın
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo colorama yükleniyor...
+echo Installing colorama...
 pip install colorama
-echo Geri kalan bağımlılık kurulumlarına devam etmek için enter'a basın
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo ultralytics yükleniyor...
+echo Installing ultralytics...
 pip install ultralytics
-echo Geri kalan bağımlılık kurulumlarına devam etmek için enter'a basın
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo PyAutoGUI yükleniyor...
+echo Installing PyAutoGUI...
 pip install PyAutoGUI
-echo Geri kalan bağımlılık kurulumlarına devam etmek için enter'a basın
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo PyGetWindow yükleniyor...
+echo Installing PyGetWindow...
 pip install PyGetWindow
-echo Geri kalan bağımlılık kurulumlarına devam etmek için enter'a basın
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo pyyaml yükleniyor...
+echo Installing pyyaml...
 pip install pyyaml
-echo Geri kalan bağımlılık kurulumlarına devam etmek için enter'a basın
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo tqdm yükleniyor...
+echo Installing tqdm...
 pip install tqdm
-echo Geri kalan bağımlılık kurulumlarına devam etmek için enter'a basın
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo matplotlib yükleniyor...
+echo Installing matplotlib...
 pip install matplotlib
-echo Geri kalan bağımlılık kurulumlarına devam etmek için enter'a basın
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo seaborn yükleniyor...
+echo Installing seaborn...
 pip install seaborn
-echo Geri kalan bağımlılık kurulumlarına devam etmek için enter'a basın
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo requests yükleniyor...
+echo Installing requests...
 pip install requests
-echo Geri kalan bağımlılık kurulumlarına devam etmek için enter'a basın
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo ipython yükleniyor...
+echo Installing ipython...
 pip install ipython
-echo Geri kalan bağımlılık kurulumlarına devam etmek için enter'a basın
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo dxcam yükleniyor...
+echo Installing dxcam...
 pip install dxcam
-echo Geri kalan bağımlılık kurulumlarına devam etmek için enter'a basın
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo pyarmor yükleniyor...
+echo Installing pyarmor...
 pip install pyarmor
-echo Geri kalan bağımlılık kurulumlarına devam etmek için enter'a basın
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo DEVAM ETMEDEN ÖNCE WHL'Yİ İNDİRMİŞ OLDUĞUNUZA EMİN OLUN!!!
+echo Installing serial...
+pip install serial
+echo Press enter to continue with the rest of the dependency installs
 pause
-echo WHL'yi indirmek için bağlantıya tıklayın: fareyle sol tıklayarak ctrl tuşuna basın
+
+echo MAKE SURE TO HAVE THE WHL DOWNLOADED BEFORE YOU CONTINUE!!!
+pause
+echo Click the link to download the WHL: press ctrl then left click with mouse
 echo https://github.com/cupy/cupy/releases/download/v12.0.0b1/cupy_cuda11x-12.0.0b1-cp311-cp311-win_amd64.whl
 pause
 
-echo WHL'den CuPy yükleniyor...
+echo Installing CuPy from WHL...
 pip install https://github.com/cupy/cupy/releases/download/v12.0.0b1/cupy_cuda11x-12.0.0b1-cp311-cp311-win_amd64.whl
 pause
 
-echo Tüm paketler başarıyla yüklendi!
+echo All packages installed successfully!
 pause
 ```
 
