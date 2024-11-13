@@ -83,11 +83,11 @@ Aqui está uma lista de todas as bibliotecas Python necessárias (já incluídas
 torch
 torchvision
 torchaudio
-torch-directml  # Para GPUs AMD com suporte DirectML
-onnx  # Pacote ONNX
-onnx-simplifier  # Simplificador de modelos ONNX
-onnxruntime  # Runtime ONNX geral
-onnxruntime-directml  # Para Windows com suporte DirectML (GPUs AMD)
+torch-directml  # For AMD GPUs with DirectML support
+onnx  # ONNX package
+onnx-simplifier  # Simplify ONNX models
+onnxruntime  # General ONNX runtime
+onnxruntime-directml  # For Windows with DirectML support (AMD GPUs)
 numpy
 opencv-python
 comtypes
@@ -109,6 +109,7 @@ ipython
 dxcam
 pyarmor
 dill
+serial
 ```
 
 ## 🛠 Guia de Instalação para GPU AMD
