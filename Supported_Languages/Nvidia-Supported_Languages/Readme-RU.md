@@ -532,133 +532,137 @@ run the `get_device.py` to see if you installed it correctly
 
 ```
 @echo off
-
-echo Установка ONNX Runtime (GPU)...
+echo Installing ONNX Runtime (GPU)...
 pip install onnxruntime-gpu
-echo Нажмите enter, чтобы продолжить установку остальных зависимостей
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Установка NumPy...
+echo Installing NumPy...
 pip install numpy
-echo Нажмите enter, чтобы продолжить установку остальных зависимостей
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Установка comtypes...
+echo Installing comtypes...
 pip install comtypes
-echo Нажмите enter, чтобы продолжить установку остальных зависимостей
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Установка OpenCV (opencv-python)...
+echo Installing OpenCV (opencv-python)...
 pip install opencv-python
-echo Нажмите enter, чтобы продолжить установку остальных зависимостей
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Установка pandas...
+echo Installing pandas...
 pip install pandas
-echo Нажмите enter, чтобы продолжить установку остальных зависимостей
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Установка bettercam...
+echo Installing bettercam...
 pip install bettercam
-echo Нажмите enter, чтобы продолжить установку остальных зависимостей
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Установка onnx...
+echo Installing onnx...
 pip install onnx
-echo Нажмите enter, чтобы продолжить установку остальных зависимостей
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Установка PyWin32...
+echo Installing PyWin32...
 pip install pywin32
-echo Нажмите enter, чтобы продолжить установку остальных зависимостей
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Установка Dill...
+echo Installing Dill...
 pip install dill
-echo Нажмите enter, чтобы продолжить установку остальных зависимостей
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Установка CuPy (библиотека массивов с ускорением на GPU для CUDA 11.8)...
+echo Installing CuPy (GPU accelerated array library for CUDA 11.8)...
 pip install cupy-cuda11x
-echo Нажмите enter, чтобы продолжить установку остальных зависимостей
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Установка psutil...
+echo Installing psutil...
 pip install psutil
-echo Нажмите enter, чтобы продолжить установку остальных зависимостей
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Установка colorama...
+echo Installing colorama...
 pip install colorama
-echo Нажмите enter, чтобы продолжить установку остальных зависимостей
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Установка ultralytics...
+echo Installing ultralytics...
 pip install ultralytics
-echo Нажмите enter, чтобы продолжить установку остальных зависимостей
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Установка PyAutoGUI...
+echo Installing PyAutoGUI...
 pip install PyAutoGUI
-echo Нажмите enter, чтобы продолжить установку остальных зависимостей
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Установка PyGetWindow...
+echo Installing PyGetWindow...
 pip install PyGetWindow
-echo Нажмите enter, чтобы продолжить установку остальных зависимостей
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Установка pyyaml...
+echo Installing pyyaml...
 pip install pyyaml
-echo Нажмите enter, чтобы продолжить установку остальных зависимостей
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Установка tqdm...
+echo Installing tqdm...
 pip install tqdm
-echo Нажмите enter, чтобы продолжить установку остальных зависимостей
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Установка matplotlib...
+echo Installing matplotlib...
 pip install matplotlib
-echo Нажмите enter, чтобы продолжить установку остальных зависимостей
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Установка seaborn...
+echo Installing seaborn...
 pip install seaborn
-echo Нажмите enter, чтобы продолжить установку остальных зависимостей
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Установка requests...
+echo Installing requests...
 pip install requests
-echo Нажмите enter, чтобы продолжить установку остальных зависимостей
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Установка ipython...
+echo Installing ipython...
 pip install ipython
-echo Нажмите enter, чтобы продолжить установку остальных зависимостей
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Установка dxcam...
+echo Installing dxcam...
 pip install dxcam
-echo Нажмите enter, чтобы продолжить установку остальных зависимостей
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Установка pyarmor...
+echo Installing pyarmor...
 pip install pyarmor
-echo Нажмите enter, чтобы продолжить установку остальных зависимостей
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo УБЕДИТЕСЬ, ЧТО У ВАС СКАЧАН ФАЙЛ WHL ПЕРЕД ТЕМ, КАК ПРОДОЛЖИТЬ!!!
+echo Installing serial...
+pip install serial
+echo Press enter to continue with the rest of the dependency installs
 pause
-echo Нажмите на ссылку, чтобы скачать WHL: нажмите ctrl, затем щелкните левой кнопкой мыши
+
+echo MAKE SURE TO HAVE THE WHL DOWNLOADED BEFORE YOU CONTINUE!!!
+pause
+echo Click the link to download the WHL: press ctrl then left click with mouse
 echo https://github.com/cupy/cupy/releases/download/v12.0.0b1/cupy_cuda11x-12.0.0b1-cp311-cp311-win_amd64.whl
 pause
 
-echo Установка CuPy из WHL...
+echo Installing CuPy from WHL...
 pip install https://github.com/cupy/cupy/releases/download/v12.0.0b1/cupy_cuda11x-12.0.0b1-cp311-cp311-win_amd64.whl
 pause
 
-echo Все пакеты успешно установлены!
+echo All packages installed successfully!
 pause
 ```
 
