@@ -107,6 +107,7 @@ ipython
 dxcam
 pyarmor
 dill
+serial
 ```
 
 
