@@ -82,11 +82,11 @@ Dưới đây là danh sách tất cả các thư viện Python cần thiết (�
 torch
 torchvision
 torchaudio
-torch-directml  # Cho GPU AMD với hỗ trợ DirectML
-onnx  # Gói ONNX
-onnx-simplifier  # Đơn giản hóa mô hình ONNX
-onnxruntime  # Runtime ONNX chung
-onnxruntime-directml  # Cho Windows với hỗ trợ DirectML (GPU AMD)
+torch-directml  # For AMD GPUs with DirectML support
+onnx  # ONNX package
+onnx-simplifier  # Simplify ONNX models
+onnxruntime  # General ONNX runtime
+onnxruntime-directml  # For Windows with DirectML support (AMD GPUs)
 numpy
 opencv-python
 comtypes
@@ -108,6 +108,7 @@ ipython
 dxcam
 pyarmor
 dill
+serial
 ```
 
 ## 🛠 Hướng Dẫn Cài Đặt cho GPU AMD
