@@ -496,133 +496,137 @@ run the `get_device.py` to see if you installed it correctly
 
 ```
 @echo off
-
-echo 安装 ONNX 运行时 (GPU)...
+echo Installing ONNX Runtime (GPU)...
 pip install onnxruntime-gpu
-echo 按 Enter 继续安装其余依赖
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo 安装 NumPy...
+echo Installing NumPy...
 pip install numpy
-echo 按 Enter 继续安装其余依赖
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo 安装 comtypes...
+echo Installing comtypes...
 pip install comtypes
-echo 按 Enter 继续安装其余依赖
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo 安装 OpenCV (opencv-python)...
+echo Installing OpenCV (opencv-python)...
 pip install opencv-python
-echo 按 Enter 继续安装其余依赖
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo 安装 pandas...
+echo Installing pandas...
 pip install pandas
-echo 按 Enter 继续安装其余依赖
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo 安装 bettercam...
+echo Installing bettercam...
 pip install bettercam
-echo 按 Enter 继续安装其余依赖
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo 安装 onnx...
+echo Installing onnx...
 pip install onnx
-echo 按 Enter 继续安装其余依赖
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo 安装 PyWin32...
+echo Installing PyWin32...
 pip install pywin32
-echo 按 Enter 继续安装其余依赖
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo 安装 Dill...
+echo Installing Dill...
 pip install dill
-echo 按 Enter 继续安装其余依赖
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo 安装 CuPy (CUDA 11.8 用于 GPU 加速的数组库)...
+echo Installing CuPy (GPU accelerated array library for CUDA 11.8)...
 pip install cupy-cuda11x
-echo 按 Enter 继续安装其余依赖
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo 安装 psutil...
+echo Installing psutil...
 pip install psutil
-echo 按 Enter 继续安装其余依赖
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo 安装 colorama...
+echo Installing colorama...
 pip install colorama
-echo 按 Enter 继续安装其余依赖
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo 安装 ultralytics...
+echo Installing ultralytics...
 pip install ultralytics
-echo 按 Enter 继续安装其余依赖
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo 安装 PyAutoGUI...
+echo Installing PyAutoGUI...
 pip install PyAutoGUI
-echo 按 Enter 继续安装其余依赖
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo 安装 PyGetWindow...
+echo Installing PyGetWindow...
 pip install PyGetWindow
-echo 按 Enter 继续安装其余依赖
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo 安装 pyyaml...
+echo Installing pyyaml...
 pip install pyyaml
-echo 按 Enter 继续安装其余依赖
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo 安装 tqdm...
+echo Installing tqdm...
 pip install tqdm
-echo 按 Enter 继续安装其余依赖
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo 安装 matplotlib...
+echo Installing matplotlib...
 pip install matplotlib
-echo 按 Enter 继续安装其余依赖
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo 安装 seaborn...
+echo Installing seaborn...
 pip install seaborn
-echo 按 Enter 继续安装其余依赖
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo 安装 requests...
+echo Installing requests...
 pip install requests
-echo 按 Enter 继续安装其余依赖
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo 安装 ipython...
+echo Installing ipython...
 pip install ipython
-echo 按 Enter 继续安装其余依赖
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo 安装 dxcam...
+echo Installing dxcam...
 pip install dxcam
-echo 按 Enter 继续安装其余依赖
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo 安装 pyarmor...
+echo Installing pyarmor...
 pip install pyarmor
-echo 按 Enter 继续安装其余依赖
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo 确保在继续前已下载 WHL 文件！
+echo Installing serial...
+pip install serial
+echo Press enter to continue with the rest of the dependency installs
 pause
-echo 点击链接下载 WHL：按 ctrl 然后用鼠标左键点击
+
+echo MAKE SURE TO HAVE THE WHL DOWNLOADED BEFORE YOU CONTINUE!!!
+pause
+echo Click the link to download the WHL: press ctrl then left click with mouse
 echo https://github.com/cupy/cupy/releases/download/v12.0.0b1/cupy_cuda11x-12.0.0b1-cp311-cp311-win_amd64.whl
 pause
 
-echo 从 WHL 安装 CuPy...
+echo Installing CuPy from WHL...
 pip install https://github.com/cupy/cupy/releases/download/v12.0.0b1/cupy_cuda11x-12.0.0b1-cp311-cp311-win_amd64.whl
 pause
 
-echo 所有包已成功安装！
+echo All packages installed successfully!
 pause
 ```
 
