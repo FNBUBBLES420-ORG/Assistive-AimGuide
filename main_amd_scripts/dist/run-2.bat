@@ -144,5 +144,10 @@ pip install dill
 echo Press enter to continue with the rest of the dependency installs
 pause
 
+echo Installing serial...
+pip install serial
+echo Press enter to continue with the rest of the dependency installs
+pause
+
 echo All packages installed successfully!
 pause
