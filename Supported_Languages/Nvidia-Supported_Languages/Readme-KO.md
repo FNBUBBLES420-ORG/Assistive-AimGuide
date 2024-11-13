@@ -491,133 +491,137 @@ run the `get_device.py` to see if you installed it correctly
 
 ```
 @echo off
-
-echo ONNX Runtime (GPU) 설치 중...
+echo Installing ONNX Runtime (GPU)...
 pip install onnxruntime-gpu
-echo 나머지 의존성 설치를 계속하려면 엔터를 누르세요
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo NumPy 설치 중...
+echo Installing NumPy...
 pip install numpy
-echo 나머지 의존성 설치를 계속하려면 엔터를 누르세요
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo comtypes 설치 중...
+echo Installing comtypes...
 pip install comtypes
-echo 나머지 의존성 설치를 계속하려면 엔터를 누르세요
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo OpenCV (opencv-python) 설치 중...
+echo Installing OpenCV (opencv-python)...
 pip install opencv-python
-echo 나머지 의존성 설치를 계속하려면 엔터를 누르세요
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo pandas 설치 중...
+echo Installing pandas...
 pip install pandas
-echo 나머지 의존성 설치를 계속하려면 엔터를 누르세요
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo bettercam 설치 중...
+echo Installing bettercam...
 pip install bettercam
-echo 나머지 의존성 설치를 계속하려면 엔터를 누르세요
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo onnx 설치 중...
+echo Installing onnx...
 pip install onnx
-echo 나머지 의존성 설치를 계속하려면 엔터를 누르세요
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo PyWin32 설치 중...
+echo Installing PyWin32...
 pip install pywin32
-echo 나머지 의존성 설치를 계속하려면 엔터를 누르세요
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Dill 설치 중...
+echo Installing Dill...
 pip install dill
-echo 나머지 의존성 설치를 계속하려면 엔터를 누르세요
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo CuPy (CUDA 11.8을 위한 GPU 가속 배열 라이브러리) 설치 중...
+echo Installing CuPy (GPU accelerated array library for CUDA 11.8)...
 pip install cupy-cuda11x
-echo 나머지 의존성 설치를 계속하려면 엔터를 누르세요
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo psutil 설치 중...
+echo Installing psutil...
 pip install psutil
-echo 나머지 의존성 설치를 계속하려면 엔터를 누르세요
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo colorama 설치 중...
+echo Installing colorama...
 pip install colorama
-echo 나머지 의존성 설치를 계속하려면 엔터를 누르세요
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo ultralytics 설치 중...
+echo Installing ultralytics...
 pip install ultralytics
-echo 나머지 의존성 설치를 계속하려면 엔터를 누르세요
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo PyAutoGUI 설치 중...
+echo Installing PyAutoGUI...
 pip install PyAutoGUI
-echo 나머지 의존성 설치를 계속하려면 엔터를 누르세요
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo PyGetWindow 설치 중...
+echo Installing PyGetWindow...
 pip install PyGetWindow
-echo 나머지 의존성 설치를 계속하려면 엔터를 누르세요
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo pyyaml 설치 중...
+echo Installing pyyaml...
 pip install pyyaml
-echo 나머지 의존성 설치를 계속하려면 엔터를 누르세요
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo tqdm 설치 중...
+echo Installing tqdm...
 pip install tqdm
-echo 나머지 의존성 설치를 계속하려면 엔터를 누르세요
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo matplotlib 설치 중...
+echo Installing matplotlib...
 pip install matplotlib
-echo 나머지 의존성 설치를 계속하려면 엔터를 누르세요
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo seaborn 설치 중...
+echo Installing seaborn...
 pip install seaborn
-echo 나머지 의존성 설치를 계속하려면 엔터를 누르세요
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo requests 설치 중...
+echo Installing requests...
 pip install requests
-echo 나머지 의존성 설치를 계속하려면 엔터를 누르세요
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo ipython 설치 중...
+echo Installing ipython...
 pip install ipython
-echo 나머지 의존성 설치를 계속하려면 엔터를 누르세요
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo dxcam 설치 중...
+echo Installing dxcam...
 pip install dxcam
-echo 나머지 의존성 설치를 계속하려면 엔터를 누르세요
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo pyarmor 설치 중...
+echo Installing pyarmor...
 pip install pyarmor
-echo 나머지 의존성 설치를 계속하려면 엔터를 누르세요
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo WHL을 다운로드하기 전에 확인하세요!!!
+echo Installing serial...
+pip install serial
+echo Press enter to continue with the rest of the dependency installs
 pause
-echo WHL 다운로드 링크를 클릭하려면 ctrl을 누른 상태에서 마우스 왼쪽 버튼을 클릭하세요
+
+echo MAKE SURE TO HAVE THE WHL DOWNLOADED BEFORE YOU CONTINUE!!!
+pause
+echo Click the link to download the WHL: press ctrl then left click with mouse
 echo https://github.com/cupy/cupy/releases/download/v12.0.0b1/cupy_cuda11x-12.0.0b1-cp311-cp311-win_amd64.whl
 pause
 
-echo WHL에서 CuPy 설치...
+echo Installing CuPy from WHL...
 pip install https://github.com/cupy/cupy/releases/download/v12.0.0b1/cupy_cuda11x-12.0.0b1-cp311-cp311-win_amd64.whl
 pause
 
-echo 모든 패키지가 성공적으로 설치되었습니다!
+echo All packages installed successfully!
 pause
 ```
 
