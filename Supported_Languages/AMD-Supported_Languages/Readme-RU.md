@@ -79,35 +79,36 @@
 Вот список всех необходимых библиотек Python (уже включенных в `requirements.txt`):
 
 ```
-torch  
-torchvision  
-torchaudio  
-torch-directml  # Для GPU AMD с поддержкой DirectML  
-onnx  # Пакет ONNX  
-onnx-simplifier  # Упрощение моделей ONNX  
-onnxruntime  # Общий рантайм ONNX  
-onnxruntime-directml  # Для Windows с поддержкой DirectML (GPU AMD)  
-numpy  
-opencv-python  
-comtypes  
-pandas  
-cupy  
-bettercam  
-psutil  
-colorama  
-ultralytics  
-PyAutoGUI  
-PyGetWindow  
-pywin32  
-pyyaml  
-tqdm  
-matplotlib  
-seaborn  
-requests  
-ipython  
-dxcam  
-pyarmor  
+torch
+torchvision
+torchaudio
+torch-directml  # For AMD GPUs with DirectML support
+onnx  # ONNX package
+onnx-simplifier  # Simplify ONNX models
+onnxruntime  # General ONNX runtime
+onnxruntime-directml  # For Windows with DirectML support (AMD GPUs)
+numpy
+opencv-python
+comtypes
+pandas
+cupy
+bettercam
+psutil
+colorama
+ultralytics
+PyAutoGUI
+PyGetWindow
+pywin32
+pyyaml
+tqdm
+matplotlib
+seaborn
+requests
+ipython
+dxcam
+pyarmor
 dill
+serial
 ```
 
 ## 🛠 Руководство по установке для GPU AMD
