@@ -494,133 +494,137 @@ Kịch bản `run.bat` là một tệp lô để giúp bạn cài đặt tất c
 
 ```
 @echo off
-
-echo Cài đặt ONNX Runtime (GPU)...
+echo Installing ONNX Runtime (GPU)...
 pip install onnxruntime-gpu
-echo Nhấn enter để tiếp tục với phần còn lại của các lần cài đặt phụ thuộc
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Cài đặt NumPy...
+echo Installing NumPy...
 pip install numpy
-echo Nhấn enter để tiếp tục với phần còn lại của các lần cài đặt phụ thuộc
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Cài đặt comtypes...
+echo Installing comtypes...
 pip install comtypes
-echo Nhấn enter để tiếp tục với phần còn lại của các lần cài đặt phụ thuộc
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Cài đặt OpenCV (opencv-python)...
+echo Installing OpenCV (opencv-python)...
 pip install opencv-python
-echo Nhấn enter để tiếp tục với phần còn lại của các lần cài đặt phụ thuộc
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Cài đặt pandas...
+echo Installing pandas...
 pip install pandas
-echo Nhấn enter để tiếp tục với phần còn lại của các lần cài đặt phụ thuộc
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Cài đặt bettercam...
+echo Installing bettercam...
 pip install bettercam
-echo Nhấn enter để tiếp tục với phần còn lại của các lần cài đặt phụ thuộc
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Cài đặt onnx...
+echo Installing onnx...
 pip install onnx
-echo Nhấn enter để tiếp tục với phần còn lại của các lần cài đặt phụ thuộc
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Cài đặt PyWin32...
+echo Installing PyWin32...
 pip install pywin32
-echo Nhấn enter để tiếp tục với phần còn lại của các lần cài đặt phụ thuộc
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Cài đặt Dill...
+echo Installing Dill...
 pip install dill
-echo Nhấn enter để tiếp tục với phần còn lại của các lần cài đặt phụ thuộc
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Cài đặt CuPy (thư viện mảng tăng tốc GPU cho CUDA 11.8)...
+echo Installing CuPy (GPU accelerated array library for CUDA 11.8)...
 pip install cupy-cuda11x
-echo Nhấn enter để tiếp tục với phần còn lại của các lần cài đặt phụ thuộc
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Cài đặt psutil...
+echo Installing psutil...
 pip install psutil
-echo Nhấn enter để tiếp tục với phần còn lại của các lần cài đặt phụ thuộc
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Cài đặt colorama...
+echo Installing colorama...
 pip install colorama
-echo Nhấn enter để tiếp tục với phần còn lại của các lần cài đặt phụ thuộc
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Cài đặt ultralytics...
+echo Installing ultralytics...
 pip install ultralytics
-echo Nhấn enter để tiếp tục với phần còn lại của các lần cài đặt phụ thuộc
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Cài đặt PyAutoGUI...
+echo Installing PyAutoGUI...
 pip install PyAutoGUI
-echo Nhấn enter để tiếp tục với phần còn lại của các lần cài đặt phụ thuộc
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Cài đặt PyGetWindow...
+echo Installing PyGetWindow...
 pip install PyGetWindow
-echo Nhấn enter để tiếp tục với phần còn lại của các lần cài đặt phụ thuộc
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Cài đặt pyyaml...
+echo Installing pyyaml...
 pip install pyyaml
-echo Nhấn enter để tiếp tục với phần còn lại của các lần cài đặt phụ thuộc
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Cài đặt tqdm...
+echo Installing tqdm...
 pip install tqdm
-echo Nhấn enter để tiếp tục với phần còn lại của các lần cài đặt phụ thuộc
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Cài đặt matplotlib...
+echo Installing matplotlib...
 pip install matplotlib
-echo Nhấn enter để tiếp tục với phần còn lại của các lần cài đặt phụ thuộc
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Cài đặt seaborn...
+echo Installing seaborn...
 pip install seaborn
-echo Nhấn enter để tiếp tục với phần còn lại của các lần cài đặt phụ thuộc
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Cài đặt requests...
+echo Installing requests...
 pip install requests
-echo Nhấn enter để tiếp tục với phần còn lại của các lần cài đặt phụ thuộc
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Cài đặt ipython...
+echo Installing ipython...
 pip install ipython
-echo Nhấn enter để tiếp tục với phần còn lại của các lần cài đặt phụ thuộc
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Cài đặt dxcam...
+echo Installing dxcam...
 pip install dxcam
-echo Nhấn enter để tiếp tục với phần còn lại của các lần cài đặt phụ thuộc
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Cài đặt pyarmor...
+echo Installing pyarmor...
 pip install pyarmor
-echo Nhấn enter để tiếp tục với phần còn lại của các lần cài đặt phụ thuộc
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo CHẮC CHẮN BẠN ĐÃ TẢI XUỐNG WHL TRƯỚC KHI TIẾP TỤC!!!
+echo Installing serial...
+pip install serial
+echo Press enter to continue with the rest of the dependency installs
 pause
-echo Nhấp vào liên kết để tải xuống WHL: nhấn ctrl rồi nhấp chuột trái
+
+echo MAKE SURE TO HAVE THE WHL DOWNLOADED BEFORE YOU CONTINUE!!!
+pause
+echo Click the link to download the WHL: press ctrl then left click with mouse
 echo https://github.com/cupy/cupy/releases/download/v12.0.0b1/cupy_cuda11x-12.0.0b1-cp311-cp311-win_amd64.whl
 pause
 
-echo Cài đặt CuPy từ WHL...
+echo Installing CuPy from WHL...
 pip install https://github.com/cupy/cupy/releases/download/v12.0.0b1/cupy_cuda11x-12.0.0b1-cp311-cp311-win_amd64.whl
 pause
 
-echo Tất cả các gói đã được cài đặt thành công!
+echo All packages installed successfully!
 pause
 ```
 
