@@ -484,133 +484,137 @@ Skripta `run.bat` je batch datoteka koja će vam pomoći instalirati sve potrebn
 
 ```
 @echo off
-
-echo Instaliram ONNX Runtime (GPU)...
+echo Installing ONNX Runtime (GPU)...
 pip install onnxruntime-gpu
-echo Pritisnite enter za nastavak s ostalim instalacijama ovisnosti
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instaliram NumPy...
+echo Installing NumPy...
 pip install numpy
-echo Pritisnite enter za nastavak s ostalim instalacijama ovisnosti
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instaliram comtypes...
+echo Installing comtypes...
 pip install comtypes
-echo Pritisnite enter za nastavak s ostalim instalacijama ovisnosti
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instaliram OpenCV (opencv-python)...
+echo Installing OpenCV (opencv-python)...
 pip install opencv-python
-echo Pritisnite enter za nastavak s ostalim instalacijama ovisnosti
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instaliram pandas...
+echo Installing pandas...
 pip install pandas
-echo Pritisnite enter za nastavak s ostalim instalacijama ovisnosti
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instaliram bettercam...
+echo Installing bettercam...
 pip install bettercam
-echo Pritisnite enter za nastavak s ostalim instalacijama ovisnosti
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instaliram onnx...
+echo Installing onnx...
 pip install onnx
-echo Pritisnite enter za nastavak s ostalim instalacijama ovisnosti
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instaliram PyWin32...
+echo Installing PyWin32...
 pip install pywin32
-echo Pritisnite enter za nastavak s ostalim instalacijama ovisnosti
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instaliram Dill...
+echo Installing Dill...
 pip install dill
-echo Pritisnite enter za nastavak s ostalim instalacijama ovisnosti
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instaliram CuPy (GPU ubrzana knjižnica nizova za CUDA 11.8)...
+echo Installing CuPy (GPU accelerated array library for CUDA 11.8)...
 pip install cupy-cuda11x
-echo Pritisnite enter za nastavak s ostalim instalacijama ovisnosti
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instaliram psutil...
+echo Installing psutil...
 pip install psutil
-echo Pritisnite enter za nastavak s ostalim instalacijama ovisnosti
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instaliram colorama...
+echo Installing colorama...
 pip install colorama
-echo Pritisnite enter za nastavak s ostalim instalacijama ovisnosti
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instaliram ultralytics...
+echo Installing ultralytics...
 pip install ultralytics
-echo Pritisnite enter za nastavak s ostalim instalacijama ovisnosti
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instaliram PyAutoGUI...
+echo Installing PyAutoGUI...
 pip install PyAutoGUI
-echo Pritisnite enter za nastavak s ostalim instalacijama ovisnosti
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instaliram PyGetWindow...
+echo Installing PyGetWindow...
 pip install PyGetWindow
-echo Pritisnite enter za nastavak s ostalim instalacijama ovisnosti
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instaliram pyyaml...
+echo Installing pyyaml...
 pip install pyyaml
-echo Pritisnite enter za nastavak s ostalim instalacijama ovisnosti
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instaliram tqdm...
+echo Installing tqdm...
 pip install tqdm
-echo Pritisnite enter za nastavak s ostalim instalacijama ovisnosti
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instaliram matplotlib...
+echo Installing matplotlib...
 pip install matplotlib
-echo Pritisnite enter za nastavak s ostalim instalacijama ovisnosti
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instaliram seaborn...
+echo Installing seaborn...
 pip install seaborn
-echo Pritisnite enter za nastavak s ostalim instalacijama ovisnosti
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instaliram requests...
+echo Installing requests...
 pip install requests
-echo Pritisnite enter za nastavak s ostalim instalacijama ovisnosti
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instaliram ipython...
+echo Installing ipython...
 pip install ipython
-echo Pritisnite enter za nastavak s ostalim instalacijama ovisnosti
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instaliram dxcam...
+echo Installing dxcam...
 pip install dxcam
-echo Pritisnite enter za nastavak s ostalim instalacijama ovisnosti
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instaliram pyarmor...
+echo Installing pyarmor...
 pip install pyarmor
-echo Pritisnite enter za nastavak s ostalim instalacijama ovisnosti
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo OBAVEZNO IMATI PREUZETU WHL DATOTEKU PRIJE NASTAVKA!!!
+echo Installing serial...
+pip install serial
+echo Press enter to continue with the rest of the dependency installs
 pause
-echo Kliknite na link za preuzimanje WHL: pritisnite ctrl zatim lijevi klik mišem
+
+echo MAKE SURE TO HAVE THE WHL DOWNLOADED BEFORE YOU CONTINUE!!!
+pause
+echo Click the link to download the WHL: press ctrl then left click with mouse
 echo https://github.com/cupy/cupy/releases/download/v12.0.0b1/cupy_cuda11x-12.0.0b1-cp311-cp311-win_amd64.whl
 pause
 
-echo Instaliram CuPy iz WHL...
+echo Installing CuPy from WHL...
 pip install https://github.com/cupy/cupy/releases/download/v12.0.0b1/cupy_cuda11x-12.0.0b1-cp311-cp311-win_amd64.whl
 pause
 
-echo Sve pakete uspješno instalirano!
+echo All packages installed successfully!
 pause
 ```
 
