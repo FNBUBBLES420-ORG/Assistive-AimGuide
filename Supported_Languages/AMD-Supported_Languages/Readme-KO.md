@@ -82,11 +82,11 @@
 torch
 torchvision
 torchaudio
-torch-directml  # AMD GPU에서 DirectML 지원
-onnx  # ONNX 패키지
-onnx-simplifier  # ONNX 모델 단순화
-onnxruntime  # 일반 ONNX 런타임
-onnxruntime-directml  # DirectML 지원 Windows용 (AMD GPU)
+torch-directml  # For AMD GPUs with DirectML support
+onnx  # ONNX package
+onnx-simplifier  # Simplify ONNX models
+onnxruntime  # General ONNX runtime
+onnxruntime-directml  # For Windows with DirectML support (AMD GPUs)
 numpy
 opencv-python
 comtypes
@@ -108,6 +108,7 @@ ipython
 dxcam
 pyarmor
 dill
+serial
 ```
 
 ## 🛠 AMD GPU 설치 가이드
