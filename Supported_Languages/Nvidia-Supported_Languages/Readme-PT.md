@@ -485,133 +485,137 @@ O script `run.bat` é um ficheiro batch para ajudá-lo a instalar todas as depen
 
 ```
 @echo off
-
-echo Instalando Runtime ONNX (GPU)...
+echo Installing ONNX Runtime (GPU)...
 pip install onnxruntime-gpu
-echo Pressione enter para continuar com o resto das instalações de dependência
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instalando NumPy...
+echo Installing NumPy...
 pip install numpy
-echo Pressione enter para continuar com o resto das instalações de dependência
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instalando comtypes...
+echo Installing comtypes...
 pip install comtypes
-echo Pressione enter para continuar com o resto das instalações de dependência
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instalando OpenCV (opencv-python)...
+echo Installing OpenCV (opencv-python)...
 pip install opencv-python
-echo Pressione enter para continuar com o resto das instalações de dependência
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instalando pandas...
+echo Installing pandas...
 pip install pandas
-echo Pressione enter para continuar com o resto das instalações de dependência
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instalando bettercam...
+echo Installing bettercam...
 pip install bettercam
-echo Pressione enter para continuar com o resto das instalações de dependência
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instalando onnx...
+echo Installing onnx...
 pip install onnx
-echo Pressione enter para continuar com o resto das instalações de dependência
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instalando PyWin32...
+echo Installing PyWin32...
 pip install pywin32
-echo Pressione enter para continuar com o resto das instalações de dependência
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instalando Dill...
+echo Installing Dill...
 pip install dill
-echo Pressione enter para continuar com o resto das instalações de dependência
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instalando CuPy (biblioteca de array acelerada por GPU para CUDA 11.8)...
+echo Installing CuPy (GPU accelerated array library for CUDA 11.8)...
 pip install cupy-cuda11x
-echo Pressione enter para continuar com o resto das instalações de dependência
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instalando psutil...
+echo Installing psutil...
 pip install psutil
-echo Pressione enter para continuar com o resto das instalações de dependência
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instalando colorama...
+echo Installing colorama...
 pip install colorama
-echo Pressione enter para continuar com o resto das instalações de dependência
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instalando ultralytics...
+echo Installing ultralytics...
 pip install ultralytics
-echo Pressione enter para continuar com o resto das instalações de dependência
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instalando PyAutoGUI...
+echo Installing PyAutoGUI...
 pip install PyAutoGUI
-echo Pressione enter para continuar com o resto das instalações de dependência
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instalando PyGetWindow...
+echo Installing PyGetWindow...
 pip install PyGetWindow
-echo Pressione enter para continuar com o resto das instalações de dependência
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instalando pyyaml...
+echo Installing pyyaml...
 pip install pyyaml
-echo Pressione enter para continuar com o resto das instalações de dependência
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instalando tqdm...
+echo Installing tqdm...
 pip install tqdm
-echo Pressione enter para continuar com o resto das instalações de dependência
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instalando matplotlib...
+echo Installing matplotlib...
 pip install matplotlib
-echo Pressione enter para continuar com o resto das instalações de dependência
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instalando seaborn...
+echo Installing seaborn...
 pip install seaborn
-echo Pressione enter para continuar com o resto das instalações de dependência
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instalando requests...
+echo Installing requests...
 pip install requests
-echo Pressione enter para continuar com o resto das instalações de dependência
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instalando ipython...
+echo Installing ipython...
 pip install ipython
-echo Pressione enter para continuar com o resto das instalações de dependência
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instalando dxcam...
+echo Installing dxcam...
 pip install dxcam
-echo Pressione enter para continuar com o resto das instalações de dependência
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo Instalando pyarmor...
+echo Installing pyarmor...
 pip install pyarmor
-echo Pressione enter para continuar com o resto das instalações de dependência
+echo Press enter to continue with the rest of the dependency installs
 pause
 
-echo CERTIFIQUE-SE DE TER O WHL BAIXADO ANTES DE CONTINUAR!!!
+echo Installing serial...
+pip install serial
+echo Press enter to continue with the rest of the dependency installs
 pause
-echo Clique no link para baixar o WHL: pressione ctrl e clique com o botão esquerdo do mouse
+
+echo MAKE SURE TO HAVE THE WHL DOWNLOADED BEFORE YOU CONTINUE!!!
+pause
+echo Click the link to download the WHL: press ctrl then left click with mouse
 echo https://github.com/cupy/cupy/releases/download/v12.0.0b1/cupy_cuda11x-12.0.0b1-cp311-cp311-win_amd64.whl
 pause
 
-echo Instalando CuPy do WHL...
+echo Installing CuPy from WHL...
 pip install https://github.com/cupy/cupy/releases/download/v12.0.0b1/cupy_cuda11x-12.0.0b1-cp311-cp311-win_amd64.whl
 pause
 
-echo Todas as pacotes instaladas com sucesso!
+echo All packages installed successfully!
 pause
 ```
 
