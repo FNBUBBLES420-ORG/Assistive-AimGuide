@@ -79,11 +79,14 @@ Ako želite sudjelovati ili saznati više o volontiranju, posjetite našu **[Str
 Evo popisa svih potrebnih Python knjižnica (već uključenih u `requirements.txt`):
 
 ```
-torch torchvision torchaudio torch-directml  # Za AMD GPU-e s podrškom za DirectML
-onnx  # ONNX paket
-onnx-simplifier  # Pojednostavljivanje ONNX modela
-onnxruntime  # Opći ONNX runtime
-onnxruntime-directml  # Za Windows s podrškom za DirectML (AMD GPU-i)
+torch
+torchvision
+torchaudio
+torch-directml  # For AMD GPUs with DirectML support
+onnx  # ONNX package
+onnx-simplifier  # Simplify ONNX models
+onnxruntime  # General ONNX runtime
+onnxruntime-directml  # For Windows with DirectML support (AMD GPUs)
 numpy
 opencv-python
 comtypes
@@ -105,6 +108,7 @@ ipython
 dxcam
 pyarmor
 dill
+serial
 ```
 
 ## 🛠 Vodič za instalaciju za AMD GPU
