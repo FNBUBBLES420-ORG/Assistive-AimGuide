@@ -4,7 +4,7 @@ pushd %~dp0
 
 REM Run the Python script and check for errors
 echo Running main_onnx.py...
-python PASTE THE PATH TO THE MAIN_ONNX.PY
+python "path\to\your_script.py"
 if %errorlevel% neq 0 (
     echo Error: main_onnx.py did not run successfully. Error level: %errorlevel%
     popd
