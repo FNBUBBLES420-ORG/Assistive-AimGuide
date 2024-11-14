@@ -4,7 +4,7 @@ pushd %~dp0
 
 REM Run the Python script and check for errors
 echo Running main_tensorrt.py...
-python "C:\Users\rubbe\OneDrive\Desktop\Assistive-AimGuide-main\Assistive-AimGuide-main\main_tensorrt_script\dist\main_tensorrt.py"
+python PASTE PATH TO YOUR MAIN_TENSORRT.PY
 if %errorlevel% neq 0 (
     echo Error: main_tensorrt.py did not run successfully. Error level: %errorlevel%
     popd
