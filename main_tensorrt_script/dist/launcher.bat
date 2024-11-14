@@ -4,7 +4,7 @@ pushd %~dp0
 
 REM Run the Python script and check for errors
 echo Running main_tensorrt.py...
-python PASTE PATH TO YOUR MAIN_TENSORRT.PY
+python "path\to\your_script.py"
 if %errorlevel% neq 0 (
     echo Error: main_tensorrt.py did not run successfully. Error level: %errorlevel%
     popd
