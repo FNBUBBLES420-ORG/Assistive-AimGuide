@@ -9,7 +9,13 @@
 ----
 
 # 🌟 [Funding](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/.github/FUNDING.yml) 🌟
+---
+---
+## Support the Project ⭐
 
+**If you find this project useful, please give it a star! Your support is appreciated and helps keep the project growing.🌟**
+---
+---
 ## Introduction
 Welcome to the **Assistive AimGuide** project!  
 This tool is designed to enhance accessibility for gamers with **physical disabilities** by providing advanced AI-driven aiming assistance. It helps to level the playing field, allowing everyone to enjoy competitive and casual gaming environments.
@@ -27,9 +33,6 @@ This tool is designed to enhance accessibility for gamers with **physical disabi
 - 💻 **Dynamic Performance Adjustment**: Manages resolution and processing based on system performance to maintain smooth gameplay.
 - 🤖 **Arduino** (optional): Integrates with Arduino for additional customization and hardware-based controls.
 ---
-## Support the Project ⭐
-
-**If you find this project useful, please give it a star! Your support is appreciated and helps keep the project growing.🌟**
 ---
 ## Discord Support
 Join our Discord channel **Assistive AimGuide** for assistance, support, or to share your experience.  
