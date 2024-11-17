@@ -469,7 +469,7 @@ This should properly set up CUDA 11.8 to be used for your projects via `cmd.exe`
 
 ### Environmental Variable Setup
 
-![pic](https://github.com/KernFerm/v7yw9N8TL/blob/main/Environtmental_Setup/pic.png)
+![pic](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Environtmental_Setup/pic.png)
 
 ```
 import torch
