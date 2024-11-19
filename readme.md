@@ -94,6 +94,21 @@ Click the link to read [**Instructions**](https://www.gitprojects.fnbubbles420.o
 ----
 - `update_ultralytics.bat` **ALWAYS CHECK FOR UPDATES COUPLE TIME EVERY FEW WEEKS !!**
 ----
+---
+## 🛠️ Tested Environment
+
+The project has been successfully tested on the following setup:
+
+- **Processor**: Intel(R) Core(TM) i7-14700F @ 2.10 GHz
+- **GPU**: NVIDIA GeForce RTX 4060 Ti
+- **Operating System**: Windows 11
+- **Python Version**: 3.11.6
+
+### Works On
+- **Nvidia GPU**
+- **AMD GPU**
+- **Multiple Monitor Support**
+---
 
 ## File Structure
 
@@ -708,21 +723,5 @@ To run the bot, ensure the following dependencies are installed:
 ## ***Unless You have written permission from the Developer or the FNBUBBLES420 ORG.***
 
 </div>
-
-----
-
-## 🛠️ Tested Environment
-
-The project has been successfully tested on the following setup:
-
-- **Processor**: Intel(R) Core(TM) i7-14700F @ 2.10 GHz
-- **GPU**: NVIDIA GeForce RTX 4060 Ti
-- **Operating System**: Windows 11
-- **Python Version**: 3.11.6
-
-### Works On
-- **Nvidia GPU**
-- **AMD GPU**
-- **Multiple Monitor Support**
 
 ----
