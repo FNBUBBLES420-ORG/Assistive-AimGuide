@@ -95,6 +95,35 @@ Click the link to read [**Instructions**](https://www.gitprojects.fnbubbles420.o
 - `update_ultralytics.bat` **ALWAYS CHECK FOR UPDATES COUPLE TIME EVERY FEW WEEKS !!**
 ----
 ---
+
+## 🛠 Requirements
+
+To run the bot, ensure the following dependencies are installed:
+
+- **Python 3.11.6** – The required Python version for compatibility.
+- **OpenCV** – For handling image capture and processing (`pip install opencv-python`).
+- **PyTorch** – For deep learning and model inference (`pip install torch`).
+- **Cupy** – For utilizing CUDA-based GPU acceleration (`pip install cupy-cuda11x`).
+- **BetterCam** – For capturing and processing live game frames. `Enhanced Advanced`
+- **Comtypes** – For interacting with the Windows API (`pip install comtypes`).
+
+
+----
+
+<div align="center">
+
+# LICENSE
+## ***This project is proprietary and all rights are reserved by the author.***
+## ***Unauthorized copying, distribution, or modification of this project is strictly prohibited.***
+## ***Unless You have written permission from the Developer or the FNBUBBLES420 ORG.***
+
+</div>
+
+
+
+
+
+
 ## 🛠️ Tested Environment
 
 The project has been successfully tested on the following setup:
@@ -699,29 +728,3 @@ If you encounter any issues during installation, refer to the official troublesh
 
 ## Now you're ready to start developing C and C++ applications in Visual Studio 2022! 🎉
 ---
-
-
-## 🛠 Requirements
-
-To run the bot, ensure the following dependencies are installed:
-
-- **Python 3.11.6** – The required Python version for compatibility.
-- **OpenCV** – For handling image capture and processing (`pip install opencv-python`).
-- **PyTorch** – For deep learning and model inference (`pip install torch`).
-- **Cupy** – For utilizing CUDA-based GPU acceleration (`pip install cupy-cuda11x`).
-- **BetterCam** – For capturing and processing live game frames. `Enhanced Advanced`
-- **Comtypes** – For interacting with the Windows API (`pip install comtypes`).
-
-
-----
-
-<div align="center">
-
-# LICENSE
-## ***This project is proprietary and all rights are reserved by the author.***
-## ***Unauthorized copying, distribution, or modification of this project is strictly prohibited.***
-## ***Unless You have written permission from the Developer or the FNBUBBLES420 ORG.***
-
-</div>
-
-----
