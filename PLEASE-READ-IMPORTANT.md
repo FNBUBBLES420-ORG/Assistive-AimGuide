@@ -1,7 +1,4 @@
-## English  
-**Instant Ban**  
-- COD  
-- Valorant  
+# Assistive AimGuide Feedback
 
 We kindly ask you to provide feedback regarding your experience with the **Assistive AimGuide**. Please consider the following questions:
 
@@ -10,15 +7,12 @@ We kindly ask you to provide feedback regarding your experience with the **Assis
 
 Your feedback is valuable for understanding the tool's impact and further enhancing its effectiveness. Please join our Discord and share your detailed experience in the **assistive-aim-guide** channel.
 
-Discord link:  
+**Discord link:**  
 [https://www.discord.fnbubbles420.org/invite](https://www.discord.fnbubbles420.org/invite)
 
 ---
 
-## Portuguese (Português)  
-**Banimento Instantâneo**  
-- COD  
-- Valorant  
+## Português (Portuguese)
 
 Solicitamos que forneça um depoimento sobre sua experiência com o **Assistive AimGuide**. Por favor, considere as seguintes perguntas:
 
@@ -27,15 +21,12 @@ Solicitamos que forneça um depoimento sobre sua experiência com o **Assistive 
 
 Seu feedback é essencial para entendermos o impacto da ferramenta e aprimorar sua eficácia. Junte-se ao nosso Discord e compartilhe sua experiência detalhada no canal **assistive-aim-guide**.
 
-Link do Discord:  
+**Link do Discord:**  
 [https://www.discord.fnbubbles420.org/invite](https://www.discord.fnbubbles420.org/invite)
 
 ---
 
-## Russian (Русский)  
-**Мгновенный бан**  
-- COD  
-- Valorant  
+## Русский (Russian)
 
 Мы просим вас предоставить отзыв о вашем опыте использования **Assistive AimGuide**. Пожалуйста, обратите внимание на следующие вопросы:
 
@@ -44,15 +35,12 @@ Link do Discord:
 
 Ваш отзыв важен для понимания воздействия инструмента и дальнейшего повышения его эффективности. Присоединяйтесь к нашему Discord и поделитесь своим подробным опытом на канале **assistive-aim-guide**.
 
-Ссылка на Discord:  
+**Ссылка на Discord:**  
 [https://www.discord.fnbubbles420.org/invite](https://www.discord.fnbubbles420.org/invite)
 
 ---
 
-## Vietnamese (Tiếng Việt)  
-**Cấm tức thì**  
-- COD  
-- Valorant  
+## Tiếng Việt (Vietnamese)
 
 Chúng tôi kính đề nghị bạn cung cấp phản hồi về trải nghiệm của bạn với **Assistive AimGuide**. Vui lòng xem xét các câu hỏi sau:
 
@@ -61,15 +49,12 @@ Chúng tôi kính đề nghị bạn cung cấp phản hồi về trải nghiệ
 
 Phản hồi của bạn rất có giá trị trong việc hiểu rõ tác động của công cụ và nâng cao hiệu quả của nó. Vui lòng tham gia Discord của chúng tôi và chia sẻ trải nghiệm chi tiết của bạn trong kênh **assistive-aim-guide**.
 
-Liên kết Discord:  
+**Liên kết Discord:**  
 [https://www.discord.fnbubbles420.org/invite](https://www.discord.fnbubbles420.org/invite)
 
 ---
 
-## Simplified Chinese (简体中文)  
-**即刻封禁**  
-- COD  
-- Valorant  
+## 简体中文 (Simplified Chinese)
 
 请您提供有关使用 **Assistive AimGuide** 的反馈。请考虑以下问题：
 
@@ -78,15 +63,12 @@ Liên kết Discord:
 
 您的反馈对我们了解工具的影响并进一步提高其有效性非常重要。请加入我们的 Discord，并在 **assistive-aim-guide** 频道中分享您的详细经验。
 
-Discord 链接:  
+**Discord 链接:**  
 [https://www.discord.fnbubbles420.org/invite](https://www.discord.fnbubbles420.org/invite)
 
 ---
 
-## Traditional Chinese (繁體中文)  
-**即時封禁**  
-- COD  
-- Valorant  
+## 繁體中文 (Traditional Chinese)
 
 請提供您使用 **Assistive AimGuide** 的回饋。請考慮以下問題：
 
@@ -95,15 +77,12 @@ Discord 链接:
 
 您的回饋對我們了解工具的影響並進一步提高其有效性非常重要。請加入我們的 Discord，並在 **assistive-aim-guide** 頻道中分享您的詳細經驗。
 
-Discord 連結:  
+**Discord 連結:**  
 [https://www.discord.fnbubbles420.org/invite](https://www.discord.fnbubbles420.org/invite)
 
 ---
 
-## French (Français)  
-**Bannissement Instantané**  
-- COD  
-- Valorant  
+## Français (French)
 
 Nous vous prions de bien vouloir fournir un retour d'expérience concernant l'utilisation du **Assistive AimGuide**. Merci de bien vouloir considérer les questions suivantes :
 
@@ -112,15 +91,12 @@ Nous vous prions de bien vouloir fournir un retour d'expérience concernant l'ut
 
 Vos retours sont précieux pour comprendre l'impact de cet outil et améliorer son efficacité. Veuillez rejoindre notre Discord et partager votre expérience détaillée dans le canal **assistive-aim-guide**.
 
-Lien Discord:  
+**Lien Discord:**  
 [https://www.discord.fnbubbles420.org/invite](https://www.discord.fnbubbles420.org/invite)
 
 ---
 
-## Croatian (Hrvatski)  
-**Trenutna zabrana**  
-- COD  
-- Valorant  
+## Hrvatski (Croatian)
 
 Molimo vas da pružite povratne informacije o vašem iskustvu s korištenjem **Assistive AimGuide**. Razmotrite sljedeća pitanja:
 
@@ -129,15 +105,12 @@ Molimo vas da pružite povratne informacije o vašem iskustvu s korištenjem **A
 
 Vaše povratne informacije su važne za razumijevanje učinka alata i daljnje poboljšanje njegove učinkovitosti. Pridružite nam se na Discordu i podijelite svoje iskustvo u kanalu **assistive-aim-guide**.
 
-Discord link:  
+**Discord link:**  
 [https://www.discord.fnbubbles420.org/invite](https://www.discord.fnbubbles420.org/invite)
 
 ---
 
-## Korean (한국어)  
-**즉각적인 차단**  
-- COD  
-- Valorant  
+## 한국어 (Korean)
 
 **Assistive AimGuide** 사용 경험에 대한 피드백을 제공해 주세요. 다음 질문을 고려해 주세요:
 
@@ -146,15 +119,12 @@ Discord link:
 
 귀하의 피드백은 도구의 영향을 이해하고 그 효과를 더욱 향상시키는 데 매우 중요합니다. Discord에 참여하시고 **assistive-aim-guide** 채널에서 귀하의 경험을 자세히 공유해 주세요.
 
-Discord 링크:  
+**Discord 링크:**  
 [https://www.discord.fnbubbles420.org/invite](https://www.discord.fnbubbles420.org/invite)
 
 ---
 
-## Turkish (Türkçe)  
-**Anında Yasak**  
-- COD  
-- Valorant  
+## Türkçe (Turkish)
 
 Lütfen **Assistive AimGuide** ile ilgili deneyiminiz hakkında geri bildirimde bulunun. Aşağıdaki soruları göz önünde bulundurun:
 
@@ -163,5 +133,5 @@ Lütfen **Assistive AimGuide** ile ilgili deneyiminiz hakkında geri bildirimde 
 
 Geri bildiriminiz, aracın etkisini anlamak ve etkinliğini artırmak için değerlidir. Lütfen Discord’a katılın ve ayrıntılı deneyiminizi **assistive-aim-guide** kanalında paylaşın.
 
-Discord bağlantısı:  
+**Discord bağlantısı:**  
 [https://www.discord.fnbubbles420.org/invite](https://www.discord.fnbubbles420.org/invite)
