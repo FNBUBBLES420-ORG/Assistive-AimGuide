@@ -324,7 +324,12 @@ python main_onnx.py
 - 該工具旨在用於支持包容性環境中的教育和可訪問性目的。
 - 我們不支持或推廣任何形式的作弊。使用此工具違反遊戲條款可能會導致封禁或處罰。
 - 如果您對遊戲政策的兼容性有疑問，請諮詢遊戲開發者。
-
+---
+---
+# For Easy Setup Installation 
+[Click Here](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/tree/main/Easy_Setup)
+---
+---
 
 # 🚀 NVIDIA CUDA 安装指南
 
