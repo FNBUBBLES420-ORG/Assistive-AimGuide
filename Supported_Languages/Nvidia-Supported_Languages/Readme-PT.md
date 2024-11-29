@@ -323,7 +323,12 @@ Modifique as configurações no arquivo `config.py` para personalizar o comporta
 - Não apoiamos nem promovemos trapaça. O uso desta ferramenta em violação aos termos do jogo pode resultar em banimentos ou penalidades.
 - Para quaisquer preocupações sobre compatibilidade com políticas de jogos, consulte os desenvolvedores de jogos.
 
-
+---
+---
+# For Easy Setup Installation 
+[Click Here](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/tree/main/Easy_Setup)
+---
+---
 # 🚀 Guia de Instalação do NVIDIA CUDA
 
 ---
