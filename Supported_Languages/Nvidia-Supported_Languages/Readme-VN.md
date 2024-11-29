@@ -325,7 +325,12 @@ Sửa đổi các thiết lập trong tệp `config.py` để tùy chỉnh hành
 - Công cụ này dành cho mục đích giáo dục và tiếp cận trong môi trường hỗ trợ sự bao dung.
 - Chúng tôi không ủng hộ hay khuyến khích gian lận. Việc sử dụng công cụ này trái với điều khoản của trò chơi có thể dẫn đến lệnh cấm hoặc hình phạt.
 - Nếu bạn có mối quan tâm về tính tương thích với chính sách trò chơi, hãy tham khảo ý kiến của các nhà phát triển trò chơi.
-
+---
+---
+# For Easy Setup Installation 
+[Click Here](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/tree/main/Easy_Setup)
+---
+---
 
 # 🚀 Hướng Dẫn Cài Đặt NVIDIA CUDA
 
