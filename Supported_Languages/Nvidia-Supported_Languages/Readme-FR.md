@@ -316,7 +316,12 @@ Modifiez les paramètres dans le fichier `config.py` pour personnaliser le compo
 - Nous ne soutenons ni ne promouvons la triche. L'utilisation de cet outil en violation des termes du jeu peut entraîner des interdictions ou des pénalités.
 - Pour toute préoccupation concernant la compatibilité avec les politiques de jeu, consultez les développeurs de jeux.
 
-
+---
+---
+# For Easy Setup Installation 
+[Click Here](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/tree/main/Easy_Setup)
+---
+---
 # 🚀 Guide d'Installation NVIDIA CUDA
 
 ---
