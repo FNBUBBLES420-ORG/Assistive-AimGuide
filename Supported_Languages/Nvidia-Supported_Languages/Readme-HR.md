@@ -315,7 +315,12 @@ Prilagodite postavke u datoteci `config.py` kako biste prilagodili ponašanje bo
 - **Uređaj**: Postavite izvođenje na 'cpu' ili 'cuda' s `device`.
 - **FP16 način**: Omogućite `fp16` za brže procesiranje na kompatibilnim
 
-
+---
+---
+# For Easy Setup Installation 
+[Click Here](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/tree/main/Easy_Setup)
+---
+---
 # 🚀 Vodič za instalaciju NVIDIA CUDA
 
 ---
