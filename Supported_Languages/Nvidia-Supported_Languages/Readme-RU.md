@@ -360,8 +360,14 @@ python main_onnx.py
 - **Устройство:** Установите `device` в `'cpu'` или `'cuda'` для выполнения модели.
 - **Режим FP16:** Включите `fp16` для более быстрого вывода на поддерживаемых GPU.
 
-<div align="center">
 
+---
+---
+# For Easy Setup Installation 
+[Click Here](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/tree/main/Easy_Setup)
+---
+---
+<div align="center">
 # 🚀 Руководство по установке NVIDIA CUDA
 
 ---
