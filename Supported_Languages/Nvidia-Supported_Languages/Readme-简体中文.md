@@ -383,7 +383,12 @@ python main_onnx.py
 - 我们不支持或推广任何形式的作弊。使用此工具违反游戏条款可能会导致封禁或处罚。
 - 如果您对游戏政策的兼容性有疑问，请咨询游戏开发者。
 
-
+---
+---
+# For Easy Setup Installation 
+[Click Here](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/tree/main/Easy_Setup)
+---
+---
 # 🚀 NVIDIA CUDA 安装指南
 
 ---
