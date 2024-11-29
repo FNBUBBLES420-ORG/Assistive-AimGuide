@@ -255,7 +255,12 @@ python main_onnx.py
 - Hile yapmayı veya hile yapmayı teşvik etmeyi desteklemiyoruz. Bu aracın oyun şartlarını ihlal ederek kullanılması yasaklamalara veya cezalara neden olabilir.
 - Oyun politikalarıyla uyumluluk konusunda endişeleriniz varsa, oyun geliştiricileriyle danışın.
 
-
+---
+---
+# For Easy Setup Installation 
+[Click Here](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/tree/main/Easy_Setup)
+---
+---
 # 🚀 NVIDIA CUDA Kurulum Kılavuzu
 
 ---
