@@ -53,6 +53,11 @@ U **[FNBubbles420 Org](https://github.com/FNBUBBLES420-ORG)**, posvećeni smo po
 
 **Game Vision Aid uskoro dolazi** — još uvijek testiramo i razvijamo ga kako bi osigurali da zadovoljava najviše standarde pristupačnosti.
 
+## Discord Support
+Join our Discord channel **Assistive AimGuide** for assistance, support, or to share your experience.  
+- Please adhere to our [Server Rules](https://www.discord.fnbubbles420.org/server-rules-tos).
+
+- **[Discord Link](https://discord.gg/5yn9ygZgfM)**
 
 ---
 
