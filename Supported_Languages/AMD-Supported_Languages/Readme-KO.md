@@ -56,6 +56,12 @@
 
 **Assistive AimGuide**는 별도의 교육 프로젝트이지만, 커뮤니티에 도움이 되는 혁신적인 기술을 탐구하려는 우리의 의지를 반영합니다.
 
+## Discord Support
+Join our Discord channel **Assistive AimGuide** for assistance, support, or to share your experience.  
+- Please adhere to our [Server Rules](https://www.discord.fnbubbles420.org/server-rules-tos).
+
+- **[Discord Link](https://discord.gg/5yn9ygZgfM)**
+
 ---
 
 ### 💬 살아가는 말  
