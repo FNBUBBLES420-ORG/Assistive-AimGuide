@@ -56,6 +56,11 @@
 
 虽然辅助瞄准指南（Assistive AimGuide）是一个独立的项目，但它体现了我们组织致力于利用创新技术增强残疾人游戏中的可访问性和平等性的决心。这一承诺突出了我们持续为社区服务和提升社区的努力。
 
+## Discord Support
+Join our Discord channel **Assistive AimGuide** for assistance, support, or to share your experience.  
+- Please adhere to our [Server Rules](https://www.discord.fnbubbles420.org/server-rules-tos).
+
+- **[Discord Link](https://discord.gg/5yn9ygZgfM)**
 
 ---
 
