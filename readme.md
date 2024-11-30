@@ -376,7 +376,7 @@ Modify settings in the `config.py` file to customize bot behavior:
 - For any concerns about compatibility with game policies, consult game developers.
 ---
 ---
-# For Easy Setup Installation 
+# For Nvidia Easy Setup Installation 
 [Click Here](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/tree/main/Easy_Setup)
 ---
 ---
