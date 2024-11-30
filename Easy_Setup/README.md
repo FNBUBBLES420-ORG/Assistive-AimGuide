@@ -1,4 +1,4 @@
-# Easy Setup Guide for Assistive AimGuide
+# Nvidia Easy Setup Guide for Assistive AimGuide
 
 Welcome to the setup guide for the Assistive AimGuide project. This guide will help you install all necessary software components using the provided batch files.
 
