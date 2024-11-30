@@ -390,7 +390,7 @@ Modify settings in the `config.py` file to customize bot behavior:
 
 - **FOR `AMD USERS` MAKE SURE YOU `FOLLOW` THE GUIDE FOR `AMD GPUS`**
 
-## For `AMD GPU SUPPORT` [click here](https://github.com/KernFerm/gVSUea52m/blob/main/main_amd_scripts/dist/readme.md)
+## For `AMD GPU SUPPORT` [click here](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_amd_scripts/dist/readme.md)
 
 </div>
 
