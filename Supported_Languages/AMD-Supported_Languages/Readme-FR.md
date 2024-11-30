@@ -56,6 +56,11 @@ Chez **[FNBubbles420 Org](https://github.com/FNBUBBLES420-ORG)**, nous nous enga
 
 Bien que **Assistive AimGuide** soit un projet éducatif distinct, il reflète l'engagement de notre organisation à explorer des technologies innovantes au bénéfice de la communauté.
 
+## Discord Support
+Join our Discord channel **Assistive AimGuide** for assistance, support, or to share your experience.  
+- Please adhere to our [Server Rules](https://www.discord.fnbubbles420.org/server-rules-tos).
+
+- **[Discord Link](https://discord.gg/5yn9ygZgfM)**
 
 ---
 
