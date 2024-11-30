@@ -317,7 +317,7 @@ Prilagodite postavke u datoteci `config.py` kako biste prilagodili ponašanje bo
 
 ---
 ---
-# For Easy Setup Installation 
+# For Nvidia Easy Setup Installation 
 [Click Here](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/tree/main/Easy_Setup)
 ---
 ---
