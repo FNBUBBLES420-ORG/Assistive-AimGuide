@@ -19,6 +19,14 @@ Welcome to the setup guide for the Assistive AimGuide project. This guide will h
   2. The script will prompt for confirmation to proceed with the installation.
   3. If confirmed, it will first download Python 3.11.6 and then proceed to silently install it along with Python libraries.
   4. Follow any on-screen prompts to adjust installation settings or resolve issues.
+  - run the command to check if `python` was successfully installed in cmd.exe
+```
+python --version
+```
+to check list of dependencies that got installed
+```
+pip list
+```
 
 ### NVIDIA Installer
 - **Purpose**: Configures your system with the latest NVIDIA drivers and software for improved performance and compatibility with the AimGuide.
@@ -28,6 +36,10 @@ Welcome to the setup guide for the Assistive AimGuide project. This guide will h
   3. It will automatically download and install the latest drivers, CUDA Toolkit, and cuDNN libraries.
   4. Follow on-screen instructions to select appropriate components if prompted.
   5. The installation might require a reboot to complete the setup successfully.
+  - run the command to check if `nvidia` is successfully installed in cmd.exe
+```
+nvcc --version
+```  
 
 ### Visual Studio Installer
 - **Purpose**: Installs Visual Studio 2022 for C++ programming, crucial for developing or modifying the C++ components of the AimGuide.
