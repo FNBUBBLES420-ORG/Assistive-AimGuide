@@ -56,6 +56,11 @@
 
 尽管 **Assistive AimGuide** 是一个独立的教育项目，但它体现了我们致力于探索创新技术以造福社区的承诺。
 
+## Discord Support
+Join our Discord channel **Assistive AimGuide** for assistance, support, or to share your experience.  
+- Please adhere to our [Server Rules](https://www.discord.fnbubbles420.org/server-rules-tos).
+
+- **[Discord Link](https://discord.gg/5yn9ygZgfM)**
 
 ---
 
