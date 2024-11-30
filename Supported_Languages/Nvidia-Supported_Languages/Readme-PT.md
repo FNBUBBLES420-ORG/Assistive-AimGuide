@@ -325,7 +325,7 @@ Modifique as configurações no arquivo `config.py` para personalizar o comporta
 
 ---
 ---
-# For Easy Setup Installation 
+# For Nvidia Easy Setup Installation 
 [Click Here](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/tree/main/Easy_Setup)
 ---
 ---
