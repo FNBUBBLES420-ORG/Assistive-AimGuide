@@ -144,7 +144,7 @@ The project has been successfully tested on the following setup:
 ```
 .
 ├── .github/                           # GitHub configuration files
-├── Easy_Setup                         # Easy Setup / Read, Follow Instructions in Terminal read the readme.md
+├── Easy_Setup                         # Nvidia Easy Setup / Read, Follow Instructions in Terminal read the readme.md
 ├── Environtmental_Setup               # How The Environmental Variables The Correct Order
 ├── Supported_Languages                # Readme.md Supported Languages
 ├── banner/                            # Placeholder for banner or notice files
