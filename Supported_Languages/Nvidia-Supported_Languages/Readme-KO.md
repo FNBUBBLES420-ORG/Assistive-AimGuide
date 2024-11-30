@@ -56,6 +56,12 @@
 
 **Assistive AimGuide**는 별도의 프로젝트이지만, 장애가 있는 사람들을 위한 게임 내 접근성과 평등을 향상시키기 위해 혁신적인 기술을 활용하는 우리 기관의 헌신을 나타냅니다. 이러한 약속은 커뮤니티에 봉사하고 그 가치를 높이기 위한 지속적인 노력을 강조합니다.
 
+## Discord Support
+Join our Discord channel **Assistive AimGuide** for assistance, support, or to share your experience.  
+- Please adhere to our [Server Rules](https://www.discord.fnbubbles420.org/server-rules-tos).
+
+- **[Discord Link](https://discord.gg/5yn9ygZgfM)**
+
 ---
 
 ### 💬 삶의 글귀
