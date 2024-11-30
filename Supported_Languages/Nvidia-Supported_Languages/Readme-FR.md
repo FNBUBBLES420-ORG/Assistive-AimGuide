@@ -56,6 +56,11 @@ Chez **[FNBubbles420 Org](https://github.com/FNBUBBLES420-ORG)**, nous nous enga
 
 Bien que l'**Assistive AimGuide** soit un projet distinct, il incarne le dévouement de notre organisation à utiliser des technologies innovantes pour améliorer l'accessibilité et l'égalité dans les jeux pour les personnes handicapées. Cet engagement souligne nos efforts continus pour servir et soutenir la communauté.
 
+## Discord Support
+Join our Discord channel **Assistive AimGuide** for assistance, support, or to share your experience.  
+- Please adhere to our [Server Rules](https://www.discord.fnbubbles420.org/server-rules-tos).
+
+- **[Discord Link](https://discord.gg/5yn9ygZgfM)**
 
 ---
 
