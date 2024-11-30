@@ -327,7 +327,7 @@ Sửa đổi các thiết lập trong tệp `config.py` để tùy chỉnh hành
 - Nếu bạn có mối quan tâm về tính tương thích với chính sách trò chơi, hãy tham khảo ý kiến của các nhà phát triển trò chơi.
 ---
 ---
-# For Easy Setup Installation 
+# For Nvidia Easy Setup Installation 
 [Click Here](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/tree/main/Easy_Setup)
 ---
 ---
