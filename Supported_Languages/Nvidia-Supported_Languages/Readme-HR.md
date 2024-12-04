@@ -159,7 +159,7 @@ Kliknite na link za čitanje [**Upute**](https://www.gitprojects.fnbubbles420.or
 ## Upute za instalaciju i pokretanje
 
 ### Preduvjeti
-- Provjerite je li **Node.js** instaliran na vašem sustavu. Možete ga preuzeti s [Node.js v20.17.0 (Windows 64-bit)](https://nodejs.org/dist/v20.17.0/node-v20.17.0-x64.msi).
+- Provjerite je li **Node.js** instaliran na vašem sustavu. Možete ga preuzeti s [Node.js v22.12.0 (Windows 64-bit)](https://nodejs.org/dist/v22.12.0/node-v22.12.0-x64.msi).
   - Tijekom instalacije, ako vas se pita, odaberite **"Dodaj u PATH"** klikom na **Da**.
 
 ### Koraci instalacije
