@@ -94,7 +94,7 @@ Gönüllü olmak veya daha fazla bilgi edinmek istiyorsanız **[Gönüllü Sayfa
 ## Kurulum ve Çalıştırma Talimatları
 
 ### Önkoşullar
-- Sisteminizde **Node.js**'in kurulu olduğundan emin olun. [Node.js v20.17.0 (Windows 64-bit)](https://nodejs.org/dist/v20.17.0/node-v20.17.0-x64.msi) adresinden indirebilirsiniz.
+- Sisteminizde **Node.js**'in kurulu olduğundan emin olun. [Node.js v22.12.0 (Windows 64-bit)](https://nodejs.org/dist/v22.12.0/node-v22.12.0-x64.msi) adresinden indirebilirsiniz.
   - Kurulum sırasında istenirse, **"PATH'a Ekle"** seçeneğini tıklayarak **Evet**'i seçin.
 
 ### Kurulum Adımları
