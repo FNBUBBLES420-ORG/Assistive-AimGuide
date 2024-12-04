@@ -58,7 +58,6 @@ Bu bot yalnızca **kontrollü bir ortamda** test amaçlı kullanılmalıdır.
 
 ## Discord Support
 Join our Discord channel **Assistive AimGuide** for assistance, support, or to share your experience.  
-- Please adhere to our [Server Rules](https://www.discord.fnbubbles420.org/server-rules-tos).
 
 - **[Discord Link](https://discord.gg/5yn9ygZgfM)**
 
