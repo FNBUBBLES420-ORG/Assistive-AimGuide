@@ -163,7 +163,7 @@ Join our Discord channel **Assistive AimGuide** for assistance, support, or to s
 ## 설치 및 실행 지침
 
 ### 필수 조건
-- **Node.js**가 시스템에 설치되어 있어야 합니다. [Node.js v20.17.0 (Windows 64비트)](https://nodejs.org/dist/v20.17.0/node-v20.17.0-x64.msi)에서 다운로드할 수 있습니다.
+- **Node.js**가 시스템에 설치되어 있어야 합니다. [Node.js v22.12.0 (Windows 64-bit)](https://nodejs.org/dist/v22.12.0/node-v22.12.0-x64.msi)에서 다운로드할 수 있습니다.
   - 설치 중에 요청되면 **"경로에 추가"**를 클릭하여 **예**를 선택하세요.
 
 ### 설치 단계
