@@ -26,7 +26,6 @@ Welcome to the **Assistive AimGuide** project, designed to enhance your aiming a
 
 ## Discord Support
 Join our Discord channel **Assistive AimGuide** for assistance, support, or to share your experience.  
-- Please adhere to our [Server Rules](https://www.discord.fnbubbles420.org/server-rules-tos).
 - **[Discord Link](https://www.discord.fnbubbles420.org/invite)**
 
 ## 🚨 Disclaimer
