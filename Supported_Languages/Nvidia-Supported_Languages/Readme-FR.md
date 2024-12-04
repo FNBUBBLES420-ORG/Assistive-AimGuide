@@ -155,7 +155,7 @@ Cliquez sur le lien pour lire les [**Instructions**](https://www.gitprojects.fnb
 ## Instructions d'installation et d'exécution
 
 ### Prérequis
-- Assurez-vous que **Node.js** est installé sur votre système. Vous pouvez le télécharger à partir de [Node.js v20.17.0 (Windows 64-bit)](https://nodejs.org/dist/v20.17.0/node-v20.17.0-x64.msi).
+- Assurez-vous que **Node.js** est installé sur votre système. Vous pouvez le télécharger à partir de [Node.js v22.12.0 (Windows 64-bit)](https://nodejs.org/dist/v22.12.0/node-v22.12.0-x64.msi).
   - Pendant l'installation, si on vous le demande, sélectionnez **"Ajouter au PATH"** en cliquant sur **Oui**.
 
 ### Étapes d'installation
