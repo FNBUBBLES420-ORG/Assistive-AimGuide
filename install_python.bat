@@ -20,7 +20,7 @@ if not exist "%cd%\python-3.11.6.exe" (
 )
 
 echo Installing Python 3.11.6...
-"%cd%\python-3.11.6.exe" /quiet InstallAllUsers=1 PrependPath=1 Include_test=0
+"%cd%\python-3.11.6.exe" /quiet InstallAllUsers=0 PrependPath=1 Include_test=0
 
 :: Check the result of the installation
 if %ERRORLEVEL% equ 0 (
@@ -31,15 +31,18 @@ if %ERRORLEVEL% equ 0 (
     exit /b 3
 )
 
-echo Adding Python Scripts directory to system PATH...
-:: Retrieve the current PATH variable and append Python directories
-set "newpath=%PATH%;C:\Programs\Python\Python311\Scripts;C:\Programs\Python\Python311"
+echo Adding Python Scripts directory to user PATH...
+:: Retrieve the current user PATH variable and append Python directories
+for /f "tokens=2* delims=    " %%a in ('reg query "HKCU\Environment" /v PATH 2^>nul') do set "userpath=%%b"
+if not defined userpath set "userpath="
 
-:: Use setx to update the system PATH permanently
-setx PATH "%newpath%" /M
+set "newuserpath=%userpath%;%LocalAppData%\Programs\Python\Python311\Scripts;%LocalAppData%\Programs\Python\Python311"
+
+:: Use setx to update the user PATH permanently
+setx PATH "%newuserpath%"
 
 :: Update PATH for the current session
-set PATH=%newpath%
+set PATH=%newuserpath%
 
-echo Python Scripts directory has been added to the system PATH.
+echo Python Scripts directory has been added to the user PATH.
 pause
