@@ -164,7 +164,7 @@ Nhấp vào liên kết để đọc [**Hướng dẫn**](https://www.gitproject
 ## Hướng dẫn Cài đặt và Chạy
 
 ### Yêu cầu tiên quyết
-- Đảm bảo **Node.js** đã được cài đặt trên hệ thống của bạn. Bạn có thể tải xuống từ [Node.js v20.17.0 (Windows 64-bit)](https://nodejs.org/dist/v20.17.0/node-v20.17.0-x64.msi).
+- Đảm bảo **Node.js** đã được cài đặt trên hệ thống của bạn. Bạn có thể tải xuống từ [Node.js v22.12.0 (Windows 64-bit)](https://nodejs.org/dist/v22.12.0/node-v22.12.0-x64.msi).
   - Trong quá trình cài đặt, nếu được nhắc, chọn **"Thêm vào PATH"** bằng cách nhấp vào **Yes**.
 
 ### Các Bước Cài đặt
