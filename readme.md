@@ -223,7 +223,7 @@ The project has been successfully tested on the following setup:
 ## Installation and Running Instructions
 
 ### Prerequisites
-- Ensure **Node.js** is installed on your system. You can download it from [Node.js v20.17.0 (Windows 64-bit)](https://nodejs.org/dist/v20.17.0/node-v20.17.0-x64.msi).
+- Ensure **Node.js** is installed on your system. You can download it from [Node.js v22.12.0 (Windows 64-bit)](https://nodejs.org/dist/v22.12.0/node-v22.12.0-x64.msi).
   - During installation, if prompted, select **"Add to PATH"** by clicking **Yes**.
 
 ### Installation Steps
