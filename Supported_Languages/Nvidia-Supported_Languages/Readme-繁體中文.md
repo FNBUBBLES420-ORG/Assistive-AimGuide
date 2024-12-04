@@ -163,7 +163,7 @@ Join our Discord channel **Assistive AimGuide** for assistance, support, or to s
 ## 安装和运行指南
 
 ### 先决条件
-- 确保您的系统已安装 **Node.js**。您可以从 [Node.js v20.17.0 (Windows 64位)](https://nodejs.org/dist/v20.17.0/node-v20.17.0-x64.msi) 下载。
+- 确保您的系统已安装 **Node.js**。您可以从 [Node.js v22.12.0 (Windows 64-bit)](https://nodejs.org/dist/v22.12.0/node-v22.12.0-x64.msi) 下载。
   - 安装过程中，如果出现提示，请选择 **"添加到 PATH"** 并点击 **是**。
 
 ### 安装步骤
