@@ -161,7 +161,7 @@ Clique no link para ler as [**Instruções**](https://www.gitprojects.fnbubbles4
 ## Instruções de Instalação e Execução
 
 ### Pré-requisitos
-- Certifique-se de que **Node.js** está instalado no seu sistema. Você pode baixá-lo de [Node.js v20.17.0 (Windows 64-bit)](https://nodejs.org/dist/v20.17.0/node-v20.17.0-x64.msi).
+- Certifique-se de que **Node.js** está instalado no seu sistema. Você pode baixá-lo de [Node.js v22.12.0 (Windows 64-bit)](https://nodejs.org/dist/v22.12.0/node-v22.12.0-x64.msi).
   - Durante a instalação, se solicitado, selecione **"Adicionar ao PATH"** clicando em **Sim**.
 
 ### Passos para a Instalação
