@@ -2,7 +2,7 @@
   <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/banner/Assitive-AimGuide.png" alt="Assistive-AimGuide" width="395">
 </p>
 
-# **🚨** ***READ EVERYTHING CAREFULLY !!!*** **🚨**
+<p align="center"># **🚨** ***READ EVERYTHING CAREFULLY !!!*** **🚨**</p>
 
 - **Including**: `Readme.md`, `License`, `Code_of_Conduct.md`, `Security.md`.
 
