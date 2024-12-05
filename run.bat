@@ -119,6 +119,16 @@ pip install serial
 echo Press enter to continue with the rest of the dependency installs
 pause
 
+echo Installing onnx-simplifier...
+pip install onnx-simplifier
+echo Press enter to continue with the rest of the dependency installs
+pause
+
+echo Installing onnxruntime...
+pip install onnxruntime
+echo Press enter to continue with the rest of the dependency installs
+pause
+
 echo MAKE SURE TO HAVE THE WHL DOWNLOADED BEFORE YOU CONTINUE!!!
 pause
 echo Click the link to download the WHL: press ctrl then left click with mouse
