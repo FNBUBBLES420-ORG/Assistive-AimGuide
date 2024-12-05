@@ -20,6 +20,8 @@ ipython
 dxcam
 onnx
 onnxruntime-gpu  # NVIDIA GPU support
+onnx-simplifier
+onnxruntime
 pyarmor
 dill
 serial
