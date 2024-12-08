@@ -374,10 +374,7 @@ Modify settings in the `config.py` file to customize bot behavior:
 - We do not endorse or promote cheating. Use of this tool in violation of game terms may result in bans or penalties.
 - For any concerns about compatibility with game policies, consult game developers.
 ---
----
-# For Nvidia Easy Setup Installation 
-[Click Here](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/tree/main/Easy_Setup)
----
+
 ---
 <div align="center">
 
