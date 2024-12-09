@@ -211,6 +211,7 @@ The project has been successfully tested on the following setup:
 │       ├── launcher.bat               # Launcher for Main TensorRT 
 │       └── main_tensorrt.py           # Main TensorRT script
 │       └── readme.md                  # Placing Pt Files
+├── ADDITION.MD                        # Addition.md Creator Developer Join Our Discord Support The Mission
 ├── CODE_OF_CONDUCT.md                 # Code of conduct for the project
 ├── LICENSE.MD                         # Project license file
 ├── PLEASE-READ-IMPORTANT.md           # VERY IMPORTANT MD _ PLEASE-READ-IMPORTANT.md 
