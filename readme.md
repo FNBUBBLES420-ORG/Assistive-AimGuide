@@ -119,10 +119,6 @@ To run the bot, ensure the following dependencies are installed:
 </div>
 
 
-
-
-
-
 ## 🛠️ Tested Environment
 
 The project has been successfully tested on the following setup:
@@ -135,6 +131,7 @@ The project has been successfully tested on the following setup:
 ### Works On
 - **Nvidia GPU**
 - **AMD GPU**
+- **CPU**
 - **Multiple Monitor Support**
 ---
 
@@ -217,6 +214,9 @@ The project has been successfully tested on the following setup:
 └── v5.pt                              # Pre-trained model file (for machine learning)
                                        # Pretrained model file (PyTorch)
 ```
+
+### [CPU-Setup](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_cpu_script/dist/README.md)
+### [AMD-Setup](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_amd_scripts/dist/readme.md)
 
 ## 🛠 Installation
 ----	
