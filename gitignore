@@ -49,6 +49,8 @@ cudnn_instructions.js
 # Ignore Batchfiles
 *.bat
 *.ps1
+*.js
+
 
 # Ignore .pt, .onnx, .engine files
 *.pt
@@ -65,38 +67,38 @@ cudnn_instructions.js
 
 # Ignore main_tensorrt_script folder and its contents
 /main_tensorrt_script/
-/main_tensorrt_script/dist/
-/main_tensorrt_script/dist/imgs/
-/main_tensorrt_script/dist/models/
-/main_tensorrt_script/dist/pyarmor_runtime_000000/
-/main_tensorrt_script/dist/pyarmor_runtime_0000001/
-/main_tensorrt_script/dist/ultralytics1/utils/
-/main_tensorrt_script/dist/utils/
-/main_tensorrt_script/dist/config.py
-/main_tensorrt_script/dist/gameSelection.py
-/main_tensorrt_script/dist/main_tensorrt.py
-/main_tensorrt_script/dist/readme.md
+main_tensorrt_script/dist/
+main_tensorrt_script/dist/imgs/
+main_tensorrt_script/dist/models/
+main_tensorrt_script/dist/pyarmor_runtime_000000/
+main_tensorrt_script/dist/pyarmor_runtime_0000001/
+main_tensorrt_script/dist/ultralytics1/utils/
+main_tensorrt_script/dist/utils/
+main_tensorrt_script/dist/config.py
+main_tensorrt_script/dist/gameSelection.py
+main_tensorrt_script/dist/main_tensorrt.py
+main_tensorrt_script/dist/readme.md
 
 # Ignore main_onnx_script folder and its contents
 /main_onnx_script/
-/main_onnx_script/dist/
-/main_onnx_script/dist/imgs/
-/main_onnx_script/dist/models/
-/main_onnx_script/dist/pyarmor_runtime_000000/
-/main_onnx_script/dist/pyarmor_runtime_0000001/
-/main_onnx_script/dist/ultralytics1/utils/
-/main_onnx_script/dist/utils/
-/main_onnx_script/dist/butter-scotch-cookies.txt
-/main_onnx_script/dist/config.py
-/main_onnx_script/dist/gameSelection.py
-/main_onnx_script/dist/main_onnx.py
-/main_onnx_script/dist/readme.md
+main_onnx_script/dist/
+main_onnx_script/dist/imgs/
+main_onnx_script/dist/models/
+main_onnx_script/dist/pyarmor_runtime_000000/
+main_onnx_script/dist/pyarmor_runtime_0000001/
+main_onnx_script/dist/ultralytics1/utils/
+main_onnx_script/dist/utils/
+main_onnx_script/dist/butter-scotch-cookies.txt
+main_onnx_script/dist/config.py
+main_onnx_script/dist/gameSelection.py
+main_onnx_script/dist/main_onnx.py
+main_onnx_script/dist/readme.md
 
-# Ignore main_amd_script folder and its contents
-main_amd_scripts
-main_amd_scripts/dist
-main_amd_scripts/dist/imgs
-main_amd_scripts/dist/models
+# Ignore main_amd_scripts folder and its contents
+main_amd_scripts/
+main_amd_scripts/dist/
+main_amd_scripts/dist/imgs/
+main_amd_scripts/dist/models/
 main_amd_scripts/dist/pyarmor_runtime_000000/
 main_amd_scripts/dist/pyarmor_runtime_0000001/
 main_amd_scripts/dist/ultralytics1/utils/
@@ -110,3 +112,23 @@ main_amd_scripts/dist/main_amd.py
 main_amd_scripts/dist/readme.md
 main_amd_scripts/dist/readme2.md
 main_amd_scripts/dist/run-2.bat
+
+# Ignore CPU-related scripts
+main_cpu_script
+
+# Ignore pyarmor runtime files
+pyarmor_runtime_000000
+pyarmor_runtime_0000001
+
+# Ignore Ultralytics and utility folders
+ultralytics1
+utils
+
+# Ignore additional config and scripts
+config.py
+gameSelection.py
+main.py
+requirements.txt
+
+# Ignore AI model files
+v5.pt
