@@ -1,4 +1,4 @@
-# Portion of screen to be captured (This forms a square/rectangle around the center of screen)
+# Portion of screen to be captured (This forms a square/rectangle around the center of the screen)
 screenShotHeight = 320
 screenShotWidth = 320
 
@@ -14,10 +14,10 @@ aaMovementAmp = 1.1
 # Person Class Confidence
 confidence = 0.75
 
-# What key to press to quit and shutdown the autoaim
+# Key to quit and shut down the autoaim
 aaQuitKey = "8"
 
-# What key to press to toggle the autoaim
+# Key to toggle the autoaim
 aaActivateKey = "CapsLock"
 
 # If you want to aim slightly upwards towards the head
@@ -26,19 +26,20 @@ headshot_mode = True
 # Displays the Corrections per second in the terminal
 cpsDisplay = False
 
-# Set to True if you want to get the visuals
+# Set to True if you want visuals (frame display)
 visuals = False
 
-# Smarter selection of people
+# Smarter selection of people (targets close to the center of the screen)
 centerOfScreen = True
 
 # Choose your model configuration here:
 # model_path = 'v5.engine'  # For TensorRT engine model
-# model_path = 'v5.onnx'    # For ONNX model
-model_path = 'v5.pt'  # For PyTorch model on CPU
+# model_path = 'v5.onnx'    # For ONNX model (ONNXRuntime)
+model_path = 'v5.pt'        # For PyTorch model
 
 # Device can be 'cpu' or 'cuda' (for GPU)
 device = 'cpu'
 
-# Use FP16 for faster inference on supported GPUs (not relevant for CPU, should be set to False)
+# Use FP16 for faster inference on supported GPUs
+# Note: Not relevant for CPU or ONNX models, set to False
 fp16 = False
