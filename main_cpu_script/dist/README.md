@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/banner/Assitive-AimGuide.png" alt="Assistive-AimGuide" width="395">
+</p>
+
+# 🚨 READ THE ENTIRE README.MD & ALL DOCUMENTS EVERYTHING CAREFULLY !!! 🚨
+
+---
+
+# 🌟 [Funding](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/.github/FUNDING.yml) 🌟
+---
+
 # Assistive Aim-Guide 🎯
 
 **Assistive Aim-Guide** is a real-time **auto-aiming assist tool** designed specifically to help gamers with **physical disabilities**. It leverages AI models, real-time camera integration, and automated mouse movements to optimize target acquisition and gameplay precision.
@@ -15,6 +26,12 @@
 - **Headshot Mode**: Enables slight upward adjustments for better accuracy.
 - **Accessibility Focus**: Reduces motor strain for individuals with physical challenges.
 - **Arduino Leonardo** - Integrates with Arduino for additional customization and hardware-based controls for physical challenges.
+
+## 🚨**Important**🚨: Please ensure you read the following documents before using the tool:
+- **[Readme.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/readme.md)**
+- **[License.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/LICENSE.md)**
+- **[Code_of_Conduct.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/CODE_OF_CONDUCT.md)**
+- **[Security.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/SECURITY.md)**
 
 
 ## Discord Support
