@@ -8,7 +8,7 @@
 
 - **Auto-Aim Integration**: Automates precise aiming to reduce physical strain, helping people with physical disabilities (motor skills).
 - **Customizable Masking**: Mask parts of the screen to minimize distractions.
-- **Multi-Model Support**: Compatible with **PyTorch** models only.
+- **Multi-Model Support**: Compatible with **PyTorch** & **ONNX** models only.
 - **Dynamic CPS Logging**: Logs and monitors corrections per second (CPS).
 - **Visual Feedback**: Optional display of target processing and visuals.
 - **Enhanced BetterCam**: Optimized screen capture for smooth performance.
@@ -73,7 +73,7 @@ pip install -r requirements.txt
 - Customize settings such as model path, device type, and activation keys
 
 ```
-# Portion of screen to be captured (This forms a square/rectangle around the center of screen)
+# Portion of screen to be captured (This forms a square/rectangle around the center of the screen)
 screenShotHeight = 320
 screenShotWidth = 320
 
@@ -89,10 +89,10 @@ aaMovementAmp = 1.1
 # Person Class Confidence
 confidence = 0.75
 
-# What key to press to quit and shutdown the autoaim
+# Key to quit and shut down the autoaim
 aaQuitKey = "8"
 
-# What key to press to toggle the autoaim
+# Key to toggle the autoaim
 aaActivateKey = "CapsLock"
 
 # If you want to aim slightly upwards towards the head
@@ -101,21 +101,22 @@ headshot_mode = True
 # Displays the Corrections per second in the terminal
 cpsDisplay = False
 
-# Set to True if you want to get the visuals
+# Set to True if you want visuals (frame display)
 visuals = False
 
-# Smarter selection of people
+# Smarter selection of people (targets close to the center of the screen)
 centerOfScreen = True
 
 # Choose your model configuration here:
 # model_path = 'v5.engine'  # For TensorRT engine model
-# model_path = 'v5.onnx'    # For ONNX model
-model_path = 'v5.pt'  # For PyTorch model on CPU
+# model_path = 'v5.onnx'    # For ONNX model (ONNXRuntime)
+model_path = 'v5.pt'        # For PyTorch model
 
 # Device can be 'cpu' or 'cuda' (for GPU)
 device = 'cpu'
 
-# Use FP16 for faster inference on supported GPUs (not relevant for CPU, should be set to False)
+# Use FP16 for faster inference on supported GPUs
+# Note: Not relevant for CPU or ONNX models, set to False
 fp16 = False
 ```
 
@@ -146,23 +147,28 @@ python main.py
 ## 🖥 Supported AI Models
 The tool supports the following model formats:
 
-`.pt`: PyTorch models.
+- `.pt`: PyTorch models.
+- `.onnx`: ONNX models.
 
 ## ⚙ Configuration Options
 
 The following options are available in the `config.py` file. This configuration is optimized for **PyTorch** models only.
 
-| **Setting**        | **Description**                               | **Default Value** |
-|---------------------|-----------------------------------------------|-------------------|
-| `model_path`       | Path to the AI model (`.pt` format only)      | `'v5.pt'`        |
-| `device`           | Device for inference (`cpu` or `cuda`)        | `'cpu'`          |
-| `confidence`       | Confidence threshold for detections           | `0.75`           |
-| `useMask`          | Mask part of the screen to focus on targets   | `True`           |
-| `maskSide`         | Mask side (`left` or `right`)                 | `'left'`         |
-| `aaQuitKey`        | Quit key for auto-aim                         | `"8"`            |
-| `aaActivateKey`    | Toggle key for auto-aim                       | `"CapsLock"`     |
-| `headshot_mode`    | Aim slightly upwards for headshots            | `True`           |
-| `visuals`          | Show frame visuals                            | `False`          |
+| **Setting**        | **Description**                                         | **Default Value** |
+|---------------------|---------------------------------------------------------|-------------------|
+| `model_path`       | Path to the AI model (`.pt` for PyTorch, `.onnx` for ONNX) | `'v5.pt'`        |
+| `device`           | Device for inference (`cpu` or `cuda` for GPU)          | `'cpu'`          |
+| `confidence`       | Confidence threshold for detections                     | `0.75`           |
+| `useMask`          | Mask part of the screen to focus on targets             | `True`           |
+| `maskSide`         | Mask side (`left` or `right`)                           | `'left'`         |
+| `maskWidth`        | Width of the mask region                                | `110`            |
+| `maskHeight`       | Height of the mask region                               | `230`            |
+| `aaQuitKey`        | Key to quit and shut down auto-aim                      | `"8"`            |
+| `aaActivateKey`    | Key to toggle auto-aim                                  | `"CapsLock"`     |
+| `headshot_mode`    | Aim slightly upwards for headshots                      | `True`           |
+| `visuals`          | Show frame visuals in a display window                  | `False`          |
+| `fp16`             | Use FP16 precision for faster GPU inference (CUDA only) | `False`          |
+
 ----
 ----
 ---
