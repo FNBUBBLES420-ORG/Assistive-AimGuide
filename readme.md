@@ -163,6 +163,22 @@ The project has been successfully tested on the following setup:
 │       ├── readme.md                  # Main Readme.md for AMD SUPPORT
 │       ├── readme2.md                 # Placing Pt Files
 │       └── run-2.bat                  # Batch script to run the project FOR AMD GPUS
+├── main_cpu_script/                   # CPU-related script folder
+│   └── dist/                          # Distribution files for CPU script
+│       ├── imgs/                      # Contains images used in the project
+│       ├── models/                    # Contains PyTorch model files
+│       ├── pyarmor_runtime_000000/    # PyArmor runtime files for CPU script
+│       ├── pyarmor_runtime_0000001/   # Additional PyArmor runtime files for CPU script
+│       ├── ultralytics1/utils/        # Utility scripts from Ultralytics
+│       ├── utils/                     # General utility scripts
+│       ├── butter-scotch-cookies.txt  # Export Commands for models
+│       ├── config-launcher.bat        # configuration launcher opens up in notepad
+│       ├── config.py                  # Configuration file for CPU script
+│       ├── gameSelection.py           # Obfuscated game selection logic script
+│       ├── launcher.bat               # Launcher for Main CPU
+│       ├── main_cpu.py                # Main CPU script
+│       ├── requirements.txt           # Dependencies for CPU script
+│       └── readme.md                  # Placing Pt Files
 ├── main_onnx_script/                  # ONNX-related script folder
 │   └── dist/                          # Distribution files for ONNX script
 │       ├── imgs/                      # Contains images used in the project
@@ -176,7 +192,7 @@ The project has been successfully tested on the following setup:
 │       ├── config.py                  # Configuration file for ONNX script
 │       ├── export.py                  # Python export script
 │       ├── gameSelection.py           # Obfuscated game selection logic script
-│       ├── launcher.bat               # Launcher for Main Onnx
+│       ├── launcher.bat               # Launcher for Main ONNX
 │       └── main_onnx.py               # Main ONNX script
 │       └── readme.md                  # Placing Pt Files
 ├── main_tensorrt_script/              # TensorRT-related script folder
@@ -213,6 +229,7 @@ The project has been successfully tested on the following setup:
 ├── update_ultralytics.bat             # Batch script to update Ultralytics
 └── v5.pt                              # Pre-trained model file (for machine learning)
                                        # Pretrained model file (PyTorch)
+
 ```
 
 ### [CPU-Setup](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_cpu_script/dist/README.md)
