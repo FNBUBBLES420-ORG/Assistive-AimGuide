@@ -20,3 +20,4 @@ serial
 bettercam
 pyarmor
 ultralytics
+onnx
