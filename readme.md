@@ -211,12 +211,12 @@ The project has been successfully tested on the following setup:
 │       ├── launcher.bat               # Launcher for Main TensorRT 
 │       └── main_tensorrt.py           # Main TensorRT script
 │       └── readme.md                  # Placing Pt Files
+├── pt_models                          # PT MODELS
 ├── ADDITION.MD                        # Addition.md Creator Developer Join Our Discord Support The Mission
 ├── CODE_OF_CONDUCT.md                 # Code of conduct for the project
 ├── LICENSE.MD                         # Project license file
 ├── PLEASE-READ-IMPORTANT.md           # VERY IMPORTANT MD _ PLEASE-READ-IMPORTANT.md 
 ├── SECURITY.md                        # Security policy for the project
-├── basicv5s.pt                        # PT model basic
 ├── cudnn_instructions.js              # Instructions related to cuDNN
 ├── get_device.py                      # Lets you know if you installed CUDA
 ├── gitattributes                      # Git attributes for handling line endings
@@ -228,8 +228,6 @@ The project has been successfully tested on the following setup:
 ├── nvidia_requirements.txt            # Python dependencies for the project
 ├── run.bat                            # Batch script to run the project
 ├── update_ultralytics.bat             # Batch script to update Ultralytics
-└── v5.pt                              # Pre-trained model file (for machine learning)
-                                       # Pretrained model file (PyTorch)
 
 ```
 
