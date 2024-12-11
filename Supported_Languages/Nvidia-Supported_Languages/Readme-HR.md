@@ -56,7 +56,9 @@ U **[FNBubbles420 Org](https://github.com/FNBUBBLES420-ORG)**, posvećeni smo po
 ## Discord Support
 Join our Discord channel **Assistive AimGuide** for assistance, support, or to share your experience.  
 
-- **[Discord Link](https://discord.gg/5yn9ygZgfM)**
+- **[Discord Link](https://discord.fnbubbles420.org/invite)**
+- or Join to Support Fnbubbles420 Org & The Mission.
+- Our community is growing be apart of something BIG!!
 
 ---
 
