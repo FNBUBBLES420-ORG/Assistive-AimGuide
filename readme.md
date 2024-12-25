@@ -140,6 +140,7 @@ The project has been successfully tested on the following setup:
 - **AMD GPU**
 - **CPU**
 - **Multiple Monitor Support**
+- **Mobile** support 
 ---
 
 ## File Structure
