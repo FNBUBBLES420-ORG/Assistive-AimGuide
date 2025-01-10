@@ -16,7 +16,7 @@
 **If you find this project useful, [Join Our Discord](https://discord.fnbubbles420.org/invite) your support is appreciated. 
 
 ## We Have Exciting News!!
-- fnbubbles420 org music player apk for android phones coming soon.
+- **FNBubbles420 Org Music Player APK** for android phones coming soon.
 - check repo for updates.
 - [fnbubbles420org music player apk](https://github.com/FNBUBBLES420-ORG/fnbubbles420org-music-player-apk)
 
