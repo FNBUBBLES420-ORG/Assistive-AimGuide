@@ -1,4 +1,4 @@
-torch  # With CUDA support for NVIDIA GPUs (2.5.1 with CUDA 11.8)
+torch  # With CUDA support for NVIDIA GPUs (2.6.0 with CUDA 11.8)
 numpy
 opencv-python
 comtypes
