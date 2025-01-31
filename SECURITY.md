@@ -19,6 +19,7 @@ currently being supported with security updates.
 |   2.6.0+cu118 | :white_check_mark: |
 | Visual Studio 2022 | :white_check_mark: |
 | Python 3.11.6 | :white_check_mark: |
+| Python 3.11.9 | :white_check_mark: |
 ------------------------------------------------------------
 
 - torch==2.6.0+cu118
@@ -27,3 +28,4 @@ currently being supported with security updates.
 
 - Visual Studio 2022 
 - Python 3.11.6
+- Python 3.11.9
