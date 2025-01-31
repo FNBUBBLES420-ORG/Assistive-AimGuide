@@ -108,7 +108,7 @@ Click the link to read [**Instructions**](https://www.gitprojects.fnbubbles420.o
 
 To run the bot, ensure the following dependencies are installed:
 
-- **Python 3.11.6** – The required Python version for compatibility.
+- **Python 3.11.6** or **Python 3.11.9** – The required Python version for compatibility.
 - **OpenCV** – For handling image capture and processing (`pip install opencv-python`).
 - **PyTorch** – For deep learning and model inference (`pip install torch`).
 - **Cupy** – For utilizing CUDA-based GPU acceleration (`pip install cupy-cuda11x`).
@@ -140,7 +140,7 @@ The project has been successfully tested on the following setup:
 - **Processor**: AMD Ryzen 9 7900X 12-Core Processor @ 4.70 GHz
 - **GPU**: DUEL GPU: "NVIDIA GeForce RTX 4060 Ti" "AMD Radeon"
 - **Operating System**: Windows 11
-- **Python Version**: 3.11.6
+- **Python Version**: 3.11.6 , 3.11.9
 
 ### Works On
 - **Nvidia GPU**
