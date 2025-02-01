@@ -19,12 +19,7 @@
 ---
 ## Support the Project ⭐
 
-# **If you find this project useful, Please Join Our Discord , We Have Lots to Offer, great community , supportive community, mental health support, and more [Join Our Discord](https://discord.fnbubbles420.org/)** your support is appreciated. 
-
-## We Have Exciting News!!
-- **FNBubbles420 Org Music Player APK** for android phones coming soon.
-- check repo for updates.
-- [fnbubbles420org music player apk](https://github.com/FNBUBBLES420-ORG/fnbubbles420org-music-player-apk)
+# **If you find this project useful, Please Join Our Discord , We Have Lots to Offer, great community , supportive community, mental health support, and more [Click To Join](https://discord.fnbubbles420.org/)** your support is appreciated. 
 
 
 ---
