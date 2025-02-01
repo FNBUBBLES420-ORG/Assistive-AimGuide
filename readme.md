@@ -151,8 +151,9 @@ The project has been successfully tested on the following setup:
 ---
 
 ---
-### [CPU-Setup](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_cpu_script/dist/README.md)
-### [AMD-Setup](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_amd_scripts/dist/readme.md)
+### - [CPU-Setup](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_cpu_script/dist/README.md)
+### - [AMD-Setup](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_amd_scripts/dist/readme.md)
+### - [Auto Setup](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/releases/tag/autosetup)
 
 ## 🛠 Installation
 ----	
@@ -310,8 +311,7 @@ Modify settings in the `config.py` file to customize bot behavior:
 - We do not endorse or promote cheating. Use of this tool in violation of game terms may result in bans or penalties.
 - For any concerns about compatibility with game policies, consult game developers.
 ---
-## Auto Setup
-[https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/releases/tag/autosetup](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/releases/tag/autosetup)
+
 ---
 <div align="center">
 
