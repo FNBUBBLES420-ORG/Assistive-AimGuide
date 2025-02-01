@@ -310,7 +310,8 @@ Modify settings in the `config.py` file to customize bot behavior:
 - We do not endorse or promote cheating. Use of this tool in violation of game terms may result in bans or penalties.
 - For any concerns about compatibility with game policies, consult game developers.
 ---
-
+## Auto Setup
+[https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/releases/tag/autosetup](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/releases/tag/autosetup)
 ---
 <div align="center">
 
