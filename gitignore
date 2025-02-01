@@ -113,6 +113,12 @@ main_amd_scripts/dist/readme.md
 main_amd_scripts/dist/readme2.md
 main_amd_scripts/dist/run-2.bat
 
+# Ingore Assistive-Aim-guide-Auto-Setup folder
+Assistive-Aim-guide-Auto-Setup.bat
+LICENSE.md
+fnbubbles420.png
+readme.md
+
 # Ignore CPU-related scripts
 main_cpu_script
 
@@ -132,3 +138,4 @@ requirements.txt
 
 # Ignore AI model files
 v5.pt
+basicv5s.pt
