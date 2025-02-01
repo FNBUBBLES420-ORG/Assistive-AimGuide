@@ -159,7 +159,6 @@ The project has been successfully tested on the following setup:
 ---
 ### - [CPU-Setup](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_cpu_script/dist/README.md)
 ### - [AMD-Setup](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_amd_scripts/dist/readme.md)
-### - [Auto Setup](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/releases/tag/autosetup)
 
 ## 🛠 Installation
 ----	
