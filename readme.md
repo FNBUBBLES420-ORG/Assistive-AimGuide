@@ -1,20 +1,64 @@
-<p align="center">
-  <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/banner/Assitive-AimGuide.png" alt="Assistive-AimGuide" width="395">
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Assistive AimGuide</title>
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  .banner {
+    text-align: center;
+    margin-top: 10px;
+  }
+  .banner img {
+    width: 100%;
+    max-width: 395px;
+    height: auto;
+  }
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding: 0 10px;
+  }
+  .header img {
+    width: 100px;
+  }
+  .header h1 {
+    font-size: 20px; /* Smaller font size for mobile */
+    text-align: center;
+    margin: 0;
+  }
+  @media (min-width: 600px) {
+    .header img {
+      width: 120px; /* Larger image for larger screens */
+    }
+    .header h1 {
+      font-size: 32px; /* Larger font size for desktop */
+    }
+  }
+</style>
+</head>
+<body>
 
-<table width="100%" style="margin-top: 20px;">
-  <tr>
-    <td align="left" width="20%">
-      <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Assistive-Aim-guide-Auto-Setup/fnbubbles420.png" width="120">
-    </td>
-    <td align="center" width="60%">
-      <h1 style="font-size: 32px;"><strong>Fnbubbles420 Org - Assistive Aim-guide</strong></h1>
-    </td>
-    <td align="right" width="20%">
-      <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Assistive-Aim-guide-Auto-Setup/fnbubbles420.png" width="120">
-    </td>
-  </tr>
-</table>
+<div class="banner">
+  <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/banner/Assitive-AimGuide.png" alt="Assistive-AimGuide">
+</div>
+
+<div class="header">
+  <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Assistive-Aim-guide-Auto-Setup/fnbubbles420.png" alt="Fnbubbles420 Logo">
+  <h1><strong>Fnbubbles420 Org - Assistive Aim-guide</strong></h1>
+  <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Assistive-Aim-guide-Auto-Setup/fnbubbles420.png" alt="Fnbubbles420 Logo">
+</div>
+
+</body>
+</html>
+
 
 ----
 
