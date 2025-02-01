@@ -2,23 +2,19 @@
   <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/banner/Assitive-AimGuide.png" alt="Assistive-AimGuide" width="395">
 </p>
 
-
-<table width="100%">
+<table width="100%" style="margin-top: 20px;">
   <tr>
-    <td align="left">
+    <td align="left" width="20%">
       <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Assistive-Aim-guide-Auto-Setup/fnbubbles420.png" width="120">
     </td>
-    <td align="center">
-      <h1><strong>Fnbubbles420 Org - Assistive Aim-guide</strong></h1>
+    <td align="center" width="60%">
+      <h1 style="font-size: 32px;"><strong>Fnbubbles420 Org - Assistive Aim-guide</strong></h1>
     </td>
-    <td align="right">
+    <td align="right" width="20%">
       <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Assistive-Aim-guide-Auto-Setup/fnbubbles420.png" width="120">
     </td>
   </tr>
 </table>
-
-
-
 
 ----
 
