@@ -4,17 +4,17 @@
 
 <table width="100%" style="margin-top: 20px;">
   <tr>
-    <td align="left" width="20%">
+    <td align="left" width="40%">
       <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Assistive-Aim-guide-Auto-Setup/fnbubbles420.png" width="60">
     </td>
     <td align="center" width="60%">
       <h1 style="font-size: 32px;"><strong>Fnbubbles420 Org - Assistive Aim-guide</strong></h1>
     </td>
-    <td align="right" width="20%">
+    <td align="right" width="40%">
       <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Assistive-Aim-guide-Auto-Setup/fnbubbles420.png" width="60">
     </td>
   </tr>
-</table>>
+</table>
 
 
 ----
