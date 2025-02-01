@@ -3,15 +3,20 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Assistive-Aim-guide-Auto-Setup/fnbubbles420.png" width="120">
-</p>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Assistive-Aim-guide-Auto-Setup/fnbubbles420.png" width="120">
+    </td>
+    <td align="center">
+      <h1><strong>Fnbubbles420 Org - Assistive Aim-guide</strong></h1>
+    </td>
+    <td align="right">
+      <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Assistive-Aim-guide-Auto-Setup/fnbubbles420.png" width="120">
+    </td>
+  </tr>
+</table>
 
-<h1 align="center"><strong>Fnbubbles420 Org - Assistive Aim-guide</strong></h1>
-
-<p align="center">
-  <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Assistive-Aim-guide-Auto-Setup/fnbubbles420.png" width="120">
-</p>
 
 
 
