@@ -40,8 +40,8 @@ If Python **is already installed**, it will **skip this step**. ✅
 ### 4️⃣ Install CUDA & cuDNN
 - You **must** create a **free NVIDIA Developer account**.
 - Manually download and install:
-  - **CUDA 11.8**: [[Download Here](https://developer.nvidia.com/cuda-11-8-0-download-archive)](https://developer.nvidia.com/cuda-11-8-0-download-archive)
-  - **cuDNN**: [[Download Here](https://developer.nvidia.com/rdp/cudnn-download)](https://developer.nvidia.com/rdp/cudnn-download)
+  - **CUDA 11.8**: [Download Here](https://developer.nvidia.com/cuda-11-8-0-download-archive)
+  - **cuDNN**: [Download Here](https://developer.nvidia.com/rdp/cudnn-download)
 - **Extract cuDNN** to:
   ```
   C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\
@@ -50,13 +50,13 @@ If Python **is already installed**, it will **skip this step**. ✅
 
 ### 5️⃣ Install Visual Studio 🛠️
 NVIDIA GPUs **require Visual Studio 2022 Community Edition**:
-- [[Download Visual Studio](https://visualstudio.microsoft.com/vs/community/)](https://visualstudio.microsoft.com/vs/community/)
+- [Download Visual Studio](https://visualstudio.microsoft.com/vs/community/)
 - **In the installer, select:**
   - `Desktop development with C++`
 - **Press Enter** after completing the installation.
 
 ### 6️⃣ Install TensorRT 🏎️
-- Download **TensorRT**: [[Download Here](https://developer.nvidia.com/nvidia-tensorrt-download)](https://developer.nvidia.com/nvidia-tensorrt-download)
+- Download **TensorRT**: [Download Here](https://developer.nvidia.com/nvidia-tensorrt-download)
 - **Extract TensorRT** to:
   ```
   C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\
