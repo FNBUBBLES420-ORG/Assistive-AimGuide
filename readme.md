@@ -4,9 +4,10 @@
 
 <p align="center">
   <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Assistive-Aim-guide-Auto-Setup/fnbubbles420.png" width="65">
-  <strong>Fnbubbles420 Org - Assistive Aim-guide </strong>
+  <h1>Fnbubbles420 Org - Assistive Aim-guide</h1>
   <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Assistive-Aim-guide-Auto-Setup/fnbubbles420.png" width="65">
 </p>
+
 
 ----
 
