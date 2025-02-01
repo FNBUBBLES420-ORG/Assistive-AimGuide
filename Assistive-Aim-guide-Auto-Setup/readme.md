@@ -1,12 +1,20 @@
-<p align="center">
-  <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Assistive-Aim-guide-Auto-Setup/fnbubbles420.png" width="65">
-  <strong>Fnbubbles420 Org - Assistive Aim-guide Auto Setup</strong>
-  <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Assistive-Aim-guide-Auto-Setup/fnbubbles420.png" width="65">
-</p>
+<table width="100%" style="margin-top: 20px;">
+  <tr>
+    <td align="left" width="20%">
+      <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Assistive-Aim-guide-Auto-Setup/fnbubbles420.png" width="120">
+    </td>
+    <td align="center" width="60%">
+      <h1 style="font-size: 32px;"><strong>Fnbubbles420 Org - Assistive Aim-guide Auto Setup</strong></h1>
+    </td>
+    <td align="right" width="20%">
+      <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Assistive-Aim-guide-Auto-Setup/fnbubbles420.png" width="120">
+    </td>
+  </tr>
+</table>
 
 
 
-Welcome to the **Fnbubbles420 Org Auto Setup**! This script automates the installation of **Python 3.11.9**, detects your **GPU type**, and installs the necessary dependencies for your system. 🎯
+Welcome to the **Fnbubbles420 Org - Assistive Aim-guide Auto Setup**! This script automates the installation of **Python 3.11.9**, detects your **GPU type**, and installs the necessary dependencies for your system. 🎯
 
 ## 📜 Features
 - ✅ **Automatically installs Python 3.11.9** (if not already installed)
