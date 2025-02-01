@@ -108,3 +108,7 @@ python -m pip install numpy opencv-python comtypes pandas bettercam psutil color
 ✅ Once the setup is complete, you are **ready to use your system** with all dependencies installed!
 
 🚀 **Enjoy gaming and developing with the Assistive Aim-guide!** 🎮🖥️
+## Support the Project ⭐
+---
+# **If you find this project useful, Please Join Our Discord , We Have Lots to Offer, great community , supportive community, mental health support, and more [Join Our Discord](https://discord.fnbubbles420.org/)** your support is appreciated. 
+---
