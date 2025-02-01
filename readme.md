@@ -2,6 +2,12 @@
   <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/banner/Assitive-AimGuide.png" alt="Assistive-AimGuide" width="395">
 </p>
 
+<p align="center">
+  <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Assistive-Aim-guide-Auto-Setup/fnbubbles420.png" width="65">
+  <strong>Fnbubbles420 Org - Assistive Aim-guide </strong>
+  <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Assistive-Aim-guide-Auto-Setup/fnbubbles420.png" width="65">
+</p>
+
 ----
 
 # 🚨 READ THE ENTIRE README.MD & ALL DOCUMENTS EVERYTHING CAREFULLY !!! 🚨
