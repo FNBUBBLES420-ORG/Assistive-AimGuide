@@ -7,7 +7,7 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.3.0   | :white_check_mark: |
+| 1.3.04   | :white_check_mark: |
 
 
 
@@ -22,9 +22,10 @@ currently being supported with security updates.
 | Python 3.11.9 | :white_check_mark: |
 ------------------------------------------------------------
 
-- torch==2.6.0+cu118
-- torchvision==0.21.0+cu118
-- torchaudio==2.6.0+cu118
+- `torch= 2.6.0`
+- `torchvision= 0.21.0`
+- `torchaudio= 2.6.0`
+- `Cuda 11.8`
 
 - Visual Studio 2022 
 - Python 3.11.6
