@@ -3,4 +3,4 @@
 - **AMD GPU**
 - **CPU**
 - **Multiple Monitor Support**
-- **Mobile** support for setup join our discord.fnbubbles420.org
+- [**Mobile** support for setup join our](https://discord.fnbubbles420.org/invite)
