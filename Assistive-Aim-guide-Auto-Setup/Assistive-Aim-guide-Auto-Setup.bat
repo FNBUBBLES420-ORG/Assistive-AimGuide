@@ -88,9 +88,11 @@ if "%gpu_type%"=="NVIDIA" (
     echo 🔹 Download and install manually before proceeding.
     echo.
     echo 🔗 CUDA 11.8: https://developer.nvidia.com/cuda-11-8-0-download-archive
-    echo 🔗 cuDNN: https://developer.nvidia.com/rdp/cudnn-download
+    echo 🔗 cuDNN: https://developer.nvidia.com/downloads/compute/cudnn/secure/8.9.6/local_installers/11.x/cudnn-windows-x86_64-8.9.6.50_cuda11-archive.zip/
+    echo 🔗 tensorrt: https://developer.nvidia.com/downloads/compute/machine-learning/tensorrt/secure/8.6.1/zip/TensorRT-8.6.1.6.Windows10.x86_64.cuda-11.8.zip
     echo 🔹 Extract cuDNN files manually to:
     echo    C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\
+    echo    once done type nvcc --version
     echo.
     echo ==============================================
     echo ⚠️ IMPORTANT: Extract the cuDNN files before continuing!
