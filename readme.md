@@ -38,7 +38,7 @@ This tool is designed to enhance accessibility for gamers with **physical disabi
 - **[Security.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/SECURITY.md)**
 
 ## 🚀 Features
-- 🎯 **Adaptive Aim Assistance**: Tailors aiming assistance to the specific needs of gamers with physical disabilities, using YOLOv5 and YOLOv8 detection models.
+- 🎯 **Adaptive Aim Assistance**: Tailors aiming assistance to the specific needs of gamers with physical disabilities, using `YOLOv5` and `YOLOv8` and `YOLOv11` detection models.
 - 🔫 **Precision Control**: Allows for fine-tuning of aiming settings to ensure accessibility without overpowering gameplay.
 - 🖼️ **Customizable Zones**: Enables users to define areas on the screen for the tool to assist with, adapting to various game layouts and preferences.
 - 💻 **Dynamic Performance Adjustment**: Manages resolution and processing based on system performance to maintain smooth gameplay.
