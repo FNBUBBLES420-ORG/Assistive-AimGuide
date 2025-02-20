@@ -9,7 +9,7 @@ cls
 
 :: Display message
 echo ==============================================
-echo  Welcome to Fnbubbles420 Org Auto Setup
+echo  Welcome to Fnbubbles420 Org Assistive AimGuide Auto Setup
 echo ==============================================
 echo This script will install Python 3.11.9 and required dependencies if not already installed.
 echo.
