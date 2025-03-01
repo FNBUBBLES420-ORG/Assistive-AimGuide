@@ -1,5 +1,6 @@
 ## President & Founder of Fnbubbles420 Org
 - Bubbles The Dev, @KernFerm
+[bubblesthedev@fnbubbles420.org](bubblesthedev@fnbubbles420.org)
 
 ## Discord Support
 Join our Discord channel **Assistive AimGuide** for assistance, support, or to share your experience.  
