@@ -163,7 +163,7 @@ Open the `config.py` file and adjust the following settings according to your pr
 ## Usage Instructions
 
 ### Activation
-- **Start/Stop**: Use the Caps Lock key to toggle the bot on and off based on your game settings.
+- **Start/Stop**: Use the `Caps Lock` key to toggle the bot on and off based on your game settings.
 
 ### Adjustments
 - **Aim Adjustment**: The bot automatically detects targets and prioritizes those near the center of the screen. It adjusts the aim smoothly. Adjust aim behavior through `aaMovementAmp` and other settings in `config.py`.
