@@ -18,7 +18,7 @@ currently being supported with security updates.
 |   0.21.0+cu118 |:white_check_mark: |
 |   2.6.0+cu118 | :white_check_mark: |
 | Visual Studio 2022 | :white_check_mark: |
-| Python 3.11.6 | :white_check_mark: |
+| Python 3.11.6 | nope |
 | Python 3.11.9 | :white_check_mark: |
 ------------------------------------------------------------
 
