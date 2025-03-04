@@ -136,29 +136,6 @@ To run the bot, ensure the following dependencies are installed:
 This image, including its design, text, and visual elements, is protected under copyright law. Unauthorized use, reproduction, distribution, or modification without the express written permission of Bubbles The Dev and FNBUBBLES420ORG is prohibited. For licensing or usage inquiries, please contact [media@fnbubbles420.org](mailto:media@fnbubbles420.org).
 </div>
 
-
-## 🛠️ Tested Environment
-
-The project has been successfully tested on the following setup:
-
-- **Processor**: Intel(R) Core(TM) i7-14700F @ 2.10 GHz
-- **GPU**: NVIDIA GeForce RTX 4060 Ti
-- **Operating System**: Windows 11
-- **Python Version**: 3.11.6
----
-- **Processor**: AMD Ryzen 9 7900X 12-Core Processor @ 4.70 GHz
-- **GPU**: DUEL GPU: "NVIDIA GeForce RTX 4060 Ti" "AMD Radeon"
-- **Operating System**: Windows 11
-- **Python Version**: 3.11.6 , 3.11.9
-
-### Works On
-- **Nvidia GPU**
-- **AMD GPU**
-- **CPU**
-- **Multiple Monitor Support**
-- **Mobile** support 
----
-
 ---
 ## - [CPU-Setup](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_cpu_script/dist/README.md)
 ## - [AMD-Setup](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_amd_scripts/dist/readme.md)
@@ -488,46 +465,26 @@ pause
 
 <div align="center">
 
-<div align="center">
+---
 
-# 🚀 Visual Studio 2022 Community Edition Installation Guide
+## 🛠️ Tested Environment
 
-This guide will help you download and install **Visual Studio 2022 Community Edition** with the **Desktop Development with C++** workload for C and C++ development.
+The project has been successfully tested on the following setup:
 
-</div>
+- **Processor**: Intel(R) Core(TM) i7-14700F @ 2.10 GHz
+- **GPU**: NVIDIA GeForce RTX 4060 Ti
+- **Operating System**: Windows 11
+- **Python Version**: 3.11.6
+---
+- **Processor**: AMD Ryzen 9 7900X 12-Core Processor @ 4.70 GHz
+- **GPU**: DUEL GPU: "NVIDIA GeForce RTX 4060 Ti" "AMD Radeon"
+- **Operating System**: Windows 11
+- **Python Version**: 3.11.6 , 3.11.9
 
-## 📥 Step 1: Download Visual Studio
-
-Click the following link to download **Visual Studio 2022 Community Edition**:  
-👉 [Download Visual Studio 2022 Community Edition](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false)
-
-## 🛠 Step 2: Installing Visual Studio
-
-1. Once the installer is downloaded, **run the installer**.
-2. In the **Visual Studio Installer**, select the **Workloads** tab.
-
-## 🖥 Step 3: Select Workload for C++ Development
-
-To set up **C++ development**, ensure you select the **Desktop development with C++** workload:
-
-1. In the **Workloads** tab, check the option **Desktop development with C++**.
-   - This will install the necessary tools for C++ programming, including compilers, libraries, and debugging tools.
-2. Click **Install** to begin the installation process.
-
-## 🛠 System Requirements Visual Studio 2022
-
-Make sure your system meets the minimum requirements for Visual Studio 2022:
-- **OS**: Windows 10 or higher.
-- **Processor**: Quad-core processor or better.
-- **RAM**: 8 GB of RAM (16 GB recommended).
-- **Disk Space**: Minimum 20 GB free space.
-
-## 🛑 Troubleshooting
-
-If you encounter any issues during installation, refer to the official troubleshooting guide:  
-- [Visual Studio Installation Troubleshooting](https://docs.microsoft.com/en-us/visualstudio/install/troubleshooting-installation-issues?view=vs-2022)
-
-</div>
-
-## Now you're ready to start developing C and C++ applications in Visual Studio 2022! 🎉
+### Works On
+- **Nvidia GPU**
+- **AMD GPU**
+- **CPU**
+- **Multiple Monitor Support**
+- **Mobile** support 
 ---
