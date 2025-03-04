@@ -172,7 +172,8 @@ This guide explains how to install and run **assistive aimguide** on your system
 ## 1. Install Python 3.11.9
 
 - **Download & Install:**
-  - Download Python version **3.11.9** from the [official Python website](https://www.python.org/downloads/).
+  - Download Python version **3.11.9** from the `use the python3119.bat`
+  - DONT RUN AS ADMIN , JUST DOUBLE CLICK ON THE `.BAT`
   - Follow the installation instructions for your operating system.
 
 - **Verify Installation:**
