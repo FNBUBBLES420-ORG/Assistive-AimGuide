@@ -14,14 +14,29 @@ def run_command(command):
         sys.exit(result.returncode)
 
 def detect_gpu():
-    """Detects GPU type by calling WMIC and checking output."""
+    """Detects GPU type by first using WMIC and falling back to PowerShell if needed."""
     print("Detecting GPU...")
+    output_str = ""
+    # Try WMIC command
     try:
         output = subprocess.check_output('wmic path win32_VideoController get name', shell=True)
         output_str = output.decode(errors='ignore').upper()
     except Exception as e:
-        print("Error detecting GPU:", e)
-        output_str = ""
+        print("WMIC not available or error encountered:", e)
+    
+    # If WMIC fails or returns nothing, fallback to PowerShell
+    if not output_str.strip():
+        try:
+            # Use PowerShell's Get-CimInstance to get GPU names
+            output = subprocess.check_output(
+                'powershell "Get-CimInstance -ClassName Win32_VideoController | Select-Object -ExpandProperty Name"', 
+                shell=True
+            )
+            output_str = output.decode(errors='ignore').upper()
+        except Exception as e:
+            print("Error detecting GPU with PowerShell:", e)
+            output_str = ""
+    
     if "NVIDIA" in output_str:
         gpu_type = "NVIDIA"
     elif "AMD" in output_str:
@@ -32,7 +47,7 @@ def detect_gpu():
     return gpu_type
 
 def main():
-    # Since we're running Python, it's assumed Python is in PATH.
+    # Ensure Python is in PATH by printing its location.
     print(f"Python detected at: {sys.executable}\n")
     
     # Detect GPU type
@@ -88,28 +103,31 @@ def main():
         print("   C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v11.8\\extras\\CUPTI\\lib64")
         print("==============================================\n")
 
+    # Use sys.executable to ensure pip uses the current Python interpreter
+    python_cmd = f'"{sys.executable}"'
+
     # Install Dependencies
     print("Installing required dependencies...")
     if gpu_type == "NVIDIA":
         print("Installing NVIDIA CUDA-enabled packages...")
-        run_command('python -m pip install torch==2.6.0+cu118 torchvision==0.21.0+cu118 torchaudio==2.6.0+cu118 --index-url https://download.pytorch.org/whl/cu118')
-        run_command('python -m pip install "https://github.com/cupy/cupy/releases/download/v13.4.0/cupy_cuda11x-13.4.0-cp311-cp311-win_amd64.whl"')
+        run_command(f'{python_cmd} -m pip install torch==2.6.0+cu118 torchvision==0.21.0+cu118 torchaudio==2.6.0+cu118 --index-url https://download.pytorch.org/whl/cu118')
+        run_command(f'{python_cmd} -m pip install "https://github.com/cupy/cupy/releases/download/v13.4.0/cupy_cuda11x-13.4.0-cp311-cp311-win_amd64.whl"')
         print("Installing TensorRT for Python...")
-        run_command('python -m pip install "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v11.8\\python\\tensorrt-8.6.1-cp311-none-win_amd64.whl"')
+        run_command(f'{python_cmd} -m pip install "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v11.8\\python\\tensorrt-8.6.1-cp311-none-win_amd64.whl"')
         print("Installing NVIDIA essential libraries...")
-        run_command('python -m pip install nvidia-ml-py3 nvidia-pyindex onnxruntime-gpu==1.20.1 onnx==1.17.0 tensorrt')
+        run_command(f'{python_cmd} -m pip install nvidia-ml-py3 nvidia-pyindex onnxruntime-gpu==1.20.1 onnx==1.17.0 tensorrt')
     
     if gpu_type == "AMD":
         print("Installing AMD-compatible libraries...")
-        run_command('python -m pip install torch torchvision torchaudio torch-directml numpy opencv-python comtypes pandas cupy bettercam psutil colorama ultralytics PyAutoGUI PyGetWindow pywin32 pyyaml tqdm matplotlib seaborn requests ipython dxcam onnx onnx-simplifier onnxruntime onnxruntime-directml pyarmor dill serial')
+        run_command(f'{python_cmd} -m pip install torch torchvision torchaudio torch-directml numpy opencv-python comtypes pandas cupy bettercam psutil colorama ultralytics PyAutoGUI PyGetWindow pywin32 pyyaml tqdm matplotlib seaborn requests ipython dxcam onnx onnx-simplifier onnxruntime onnxruntime-directml pyarmor dill serial')
     
     if gpu_type == "CPU":
         print("Installing CPU-only dependencies...")
-        run_command('python -m pip install torch torchvision torchaudio numpy opencv-python pyautogui pygetwindow pandas pywin32 pyyaml tqdm matplotlib seaborn requests ipython psutil dxcam onnxruntime serial bettercam pyarmor ultralytics onnx')
+        run_command(f'{python_cmd} -m pip install torch torchvision torchaudio numpy opencv-python pyautogui pygetwindow pandas pywin32 pyyaml tqdm matplotlib seaborn requests ipython psutil dxcam onnxruntime serial bettercam pyarmor ultralytics onnx')
     
     # Install general Python packages (applies to all)
     print("Installing general Python packages...")
-    run_command('python -m pip install numpy opencv-python comtypes pandas bettercam psutil colorama ultralytics PyAutoGUI PyGetWindow pywin32 pyyaml tqdm matplotlib seaborn requests ipython dxcam onnx onnxruntime onnx-simplifier pyarmor dill serial')
+    run_command(f'{python_cmd} -m pip install numpy opencv-python comtypes pandas bettercam psutil colorama ultralytics PyAutoGUI PyGetWindow pywin32 pyyaml tqdm matplotlib seaborn requests ipython dxcam onnx onnxruntime onnx-simplifier pyarmor dill serial')
     
     print("==============================================")
     print("✅ Installation complete! Python, dependencies, and required libraries are installed.")
