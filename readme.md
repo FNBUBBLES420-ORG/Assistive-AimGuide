@@ -160,8 +160,9 @@ The project has been successfully tested on the following setup:
 ---
 
 ---
-### - [CPU-Setup](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_cpu_script/dist/README.md)
-### - [AMD-Setup](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_amd_scripts/dist/readme.md)
+## - [CPU-Setup](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_cpu_script/dist/README.md)
+## - [AMD-Setup](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_amd_scripts/dist/readme.md)
+# [CLICK HERE FOR NVIDIA INSTALLATION SETUP GUIDE IS A MUST FOR NVIDIA USERS](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Nvidia-Cuda.md)
 
 # Assistive Aimguide Installation Instructions
 
@@ -314,8 +315,6 @@ Modify settings in the `config.py` file to customize bot behavior:
 
 ---
 <div align="center">
-
-# [CLICK HERE FOR NVIDIA INSTALLATION SETUP GUIDE IS A MUST FOR NVIDIA USERS](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Nvidia-Cuda.md)
 
 ## 🛠 Run Script `run.bat`
 
