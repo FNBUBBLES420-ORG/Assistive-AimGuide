@@ -163,12 +163,74 @@ The project has been successfully tested on the following setup:
 ### - [CPU-Setup](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_cpu_script/dist/README.md)
 ### - [AMD-Setup](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_amd_scripts/dist/readme.md)
 
-## 🛠 Installation
-----	
-2. **Install dependencies:** Ensure you have Python and pip installed. Then run:
-```
-pip install -r nvidia_requirements.txt
-```
+# Assistive Aimguide Installation Instructions
+
+This guide explains how to install and run **assistive aimguide** on your system.
+
+---
+
+## 1. Install Python 3.11.9
+
+- **Download & Install:**
+  - Download Python version **3.11.9** from the [official Python website](https://www.python.org/downloads/).
+  - Follow the installation instructions for your operating system.
+
+- **Verify Installation:**
+  - Open your command prompt or terminal.
+  - Run the command:
+    ```bash
+    python --version
+    ```
+  - Ensure the output reads:
+    ```
+    Python 3.11.9
+    ```
+
+---
+
+## 2. Install NVIDIA-Specific Dependencies (For NVIDIA GPU Users)
+
+- **Navigate to the Project Folder:**
+  - Open your command prompt or terminal and change directory to your **assistive aimguide** folder:
+    ```bash
+    cd path/to/assistive_aimguide
+    ```
+    *Replace `path/to/assistive_aimguide` with the actual path to your folder.*
+
+- **Install Dependencies:**
+  - Run the following command:
+    ```bash
+    pip install -r nvidia_requirements.txt
+    ```
+
+---
+
+## 3. Running the Application
+
+### Using TensorRT
+
+- Navigate to the `main_tensorrt_script` folder.
+- Run the `launcher.bat` file:
+  - You can either double-click the file or run it from the command prompt.
+
+### Using ONNX
+
+- Navigate to the `onnx` folder.
+- Run the `launcher.bat` file similarly by double-clicking it or running it from the command prompt.
+
+---
+
+## 4. Adjusting Your Configuration
+
+- **Edit Configuration:**
+  - Run the `config-launcher.bat` file. This action will open `config.py` in Notepad.
+  - Edit the configuration settings as needed.
+  - Save your changes after editing.
+
+---
+
+Follow these steps to set up and run **assistive aimguide** on your system. If you encounter any issues, double-check that all paths are correct and that you have the necessary permissions to run these scripts.
+
    
 ### 3. Configure settings:
 Open the `config.py` file and adjust the following settings according to your preferences:
