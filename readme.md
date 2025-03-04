@@ -108,17 +108,6 @@ Click the link to read [**Instructions**](https://www.gitprojects.fnbubbles420.o
 - `update_ultralytics.bat` **ALWAYS CHECK FOR UPDATES COUPLE TIME EVERY FEW WEEKS !!**
 
 ---
-## 🛠 Requirements
-
-To run the bot, ensure the following dependencies are installed:
-
-- **Python 3.11.9** – The required Python version for compatibility.
-- **OpenCV** – For handling image capture and processing (`pip install opencv-python`).
-- **PyTorch** – For deep learning and model inference (`pip install torch`).
-- **Cupy** – For utilizing CUDA-based GPU acceleration (`pip install cupy-cuda11x`).
-- **BetterCam** – For capturing and processing live game frames. `Enhanced Advanced`
-- **Comtypes** – For interacting with the Windows API (`pip install comtypes`).
-----
 <div align="center">
 
 # LICENSE
@@ -135,6 +124,99 @@ This image, including its design, text, and visual elements, is protected under 
 ---
 ---
 - Follow these steps to set up and run **assistive aimguide** on your system. If you encounter any issues, double-check that all paths are correct and that you have the necessary permissions to run these scripts.
+
+# Assistive Aimguide Installation Instructions
+
+This guide explains how to install and run **assistive aimguide** on your system.
+
+---
+
+## 1. Install Python 3.11.9
+
+- **Download & Install:**
+  - Download Python version **3.11.9** from the `use the python3119.bat`
+  - DONT RUN AS ADMIN , JUST DOUBLE CLICK ON THE `.BAT`
+  - Follow the installation instructions for your operating system.
+
+- **Verify Installation:**
+  - Open your command prompt or terminal.
+  - Run the command:
+    ```bash
+    python --version
+    ```
+  - Ensure the output reads:
+    ```
+    Python 3.11.9
+    ```
+
+---
+
+## 2. Install NVIDIA-Specific Dependencies (For NVIDIA GPU Users)
+
+- **Navigate to the Project Folder:**
+  - Open your command prompt or terminal and change directory to your **assistive aimguide** folder:
+    ```bash
+    cd path/to/assistive_aimguide
+    ```
+    *Replace `path/to/assistive_aimguide` with the actual path to your folder.*
+
+- **Install Dependencies:**
+  - Run the following command:
+    ```bash
+    pip install -r nvidia_requirements.txt
+    ```
+
+---
+
+## 3. Running the Application
+
+### Using TensorRT
+
+- Navigate to the `main_tensorrt_script` folder.
+- Run the `launcher.bat` file:
+  - You can either double-click the file or run it from the command prompt.
+
+### Using ONNX
+
+- Navigate to the `onnx` folder.
+- Run the `launcher.bat` file similarly by double-clicking it or running it from the command prompt.
+
+### 4. Run the Bot:
+
+After configuring the bot, navigate to the respective folder and start it by running:
+
+- For the **TensorRT** bot, navigate to the `main_tensorrt_script/dist/` folder and run:
+
+```
+cd main_tensorrt_script/dist/
+python main_tensorrt.py
+```
+
+- For the **ONNX** bot, navigate to the `main_onnx_script/dist/` folder and run:
+
+```
+cd main_onnx_script/dist/
+python main_onnx.py
+```
+
+## 4. Adjusting Your Configuration
+
+- **Edit Configuration:**
+  - Run the `config-launcher.bat` file. This action will open `config.py` in Notepad.
+  - Edit the configuration settings as needed.
+  - Save your changes after editing.
+
+## 🛠 Requirements
+
+To run the bot, ensure the following dependencies are installed:
+
+- **Python 3.11.9** – The required Python version for compatibility.
+- **OpenCV** – For handling image capture and processing (`pip install opencv-python`).
+- **PyTorch** – For deep learning and model inference (`pip install torch`).
+- **Cupy** – For utilizing CUDA-based GPU acceleration (`pip install cupy-cuda11x`).
+- **BetterCam** – For capturing and processing live game frames. `Enhanced Advanced`
+- **Comtypes** – For interacting with the Windows API (`pip install comtypes`).
+----
 
 ### 3. Configure settings:
 Open the `config.py` file and adjust the following settings according to your preferences:
