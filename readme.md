@@ -103,9 +103,11 @@ Click the link to read [**Instructions**](https://www.gitprojects.fnbubbles420.o
 - ***[Nvidia_Supported_Languages](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/tree/main/Supported_Languages/Nvidia-Supported_Languages)***
 2. **AMD**
 - ***[AMD_Supported_Languages](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/tree/main/Supported_Languages/AMD-Supported_Languages)***
-----
+---
+
 - `update_ultralytics.bat` **ALWAYS CHECK FOR UPDATES COUPLE TIME EVERY FEW WEEKS !!**
-----
+
+---
 ## 🛠 Requirements
 
 To run the bot, ensure the following dependencies are installed:
@@ -132,7 +134,7 @@ This image, including its design, text, and visual elements, is protected under 
 </div>
 ---
 ---
-Follow these steps to set up and run **assistive aimguide** on your system. If you encounter any issues, double-check that all paths are correct and that you have the necessary permissions to run these scripts.
+- Follow these steps to set up and run **assistive aimguide** on your system. If you encounter any issues, double-check that all paths are correct and that you have the necessary permissions to run these scripts.
 
 ### 3. Configure settings:
 Open the `config.py` file and adjust the following settings according to your preferences:
