@@ -150,6 +150,10 @@ This guide explains how to install and run **assistive aimguide** on your system
     ```
 
 ---
+# - [CLICK HERE FOR CPU USERS INSTALLATION SETUP GUIDE IS A MUST FOR CPU USERS](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_cpu_script/dist/README.md)
+# - [CLICK HERE FOR AMD USERS INSTALLATION SETUP GUIDE IS A MUST FOR AMD USERS](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_amd_scripts/dist/readme.md)
+# - [CLICK HERE FOR NVIDIA USERS INSTALLATION SETUP GUIDE IS A MUST FOR NVIDIA USERS](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Nvidia-Cuda.md)
+---
 
 ## 2. Install NVIDIA-Specific Dependencies (For NVIDIA GPU Users)
 
@@ -277,10 +281,6 @@ Modify settings in the `config.py` file to customize bot behavior:
 - This tool is intended for educational and accessibility purposes within environments that support inclusivity.
 - We do not endorse or promote cheating. Use of this tool in violation of game terms may result in bans or penalties.
 - For any concerns about compatibility with game policies, consult game developers.
----
-# - [CLICK HERE FOR CPU USERS INSTALLATION SETUP GUIDE IS A MUST FOR CPU USERS](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_cpu_script/dist/README.md)
-# - [CLICK HERE FOR AMD USERS INSTALLATION SETUP GUIDE IS A MUST FOR AMD USERS](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_amd_scripts/dist/readme.md)
-# - [CLICK HERE FOR NVIDIA USERS INSTALLATION SETUP GUIDE IS A MUST FOR NVIDIA USERS](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Nvidia-Cuda.md)
 ---
 ## 🛠️ Tested Environment
 
