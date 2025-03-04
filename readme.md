@@ -131,12 +131,6 @@ To run the bot, ensure the following dependencies are installed:
 This image, including its design, text, and visual elements, is protected under copyright law. Unauthorized use, reproduction, distribution, or modification without the express written permission of Bubbles The Dev and FNBUBBLES420ORG is prohibited. For licensing or usage inquiries, please contact [media@fnbubbles420.org](mailto:media@fnbubbles420.org).
 </div>
 ---
-## 4. Adjusting Your Configuration
-
-- **Edit Configuration:**
-  - Run the `config-launcher.bat` file. This action will open `config.py` in Notepad.
-  - Edit the configuration settings as needed.
-  - Save your changes after editing.
 ---
 Follow these steps to set up and run **assistive aimguide** on your system. If you encounter any issues, double-check that all paths are correct and that you have the necessary permissions to run these scripts.
 
