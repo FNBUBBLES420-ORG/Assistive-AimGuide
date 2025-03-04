@@ -28,5 +28,4 @@ currently being supported with security updates.
 - `Cuda 11.8`
 
 - Visual Studio 2022 
-- Python 3.11.6
 - Python 3.11.9
