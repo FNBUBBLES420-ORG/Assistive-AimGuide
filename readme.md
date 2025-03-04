@@ -287,7 +287,7 @@ Modify settings in the `config.py` file to customize bot behavior:
 ---
 # - [CLICK HERE FOR CPU USERS INSTALLATION SETUP GUIDE IS A MUST FOR CPU USERS](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_cpu_script/dist/README.md)
 # - [CLICK HERE FOR AMD USERS INSTALLATION SETUP GUIDE IS A MUST FOR AMD USERS](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_amd_scripts/dist/readme.md)
-# [CLICK HERE FOR NVIDIA USERS INSTALLATION SETUP GUIDE IS A MUST FOR NVIDIA USERS](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Nvidia-Cuda.md)
+# - [CLICK HERE FOR NVIDIA USERS INSTALLATION SETUP GUIDE IS A MUST FOR NVIDIA USERS](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Nvidia-Cuda.md)
 ---
 ## 🛠️ Tested Environment
 
