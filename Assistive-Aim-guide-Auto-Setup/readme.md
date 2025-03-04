@@ -25,7 +25,7 @@ Welcome to the **Fnbubbles420 Org - Assistive Aim-guide Auto Setup**! This scrip
 
 ## 🔧 Installation Guide
 ### 1️⃣ Run the Script
-- **Double-click** `Assistive-Aim-guide-Auto-Setup.bat`
+- **Double-click** `python3119.bat`
 - **Type `Y` and press Enter** to begin installation
 
 ### 2️⃣ Python Installation 🐍
@@ -33,12 +33,76 @@ If Python **is not installed**, the script will:
 - Download & Install **Python 3.11.9**
 - Automatically **add Python to PATH**
 
-If Python **is already installed**, it will **skip this step**. ✅
+---
 
-### 3️⃣ GPU Detection 🎮
-- The script will detect if you have an **NVIDIA, AMD, or CPU-only system**.
-- Based on your GPU, it will install the correct **Python dependencies**.
+# AutoSetup Script
 
+This repository contains a Python script that automates the installation of required dependencies and sets up the environment based on the detected GPU type. It is designed for Windows systems and leverages WMIC for GPU detection.
+
+## Features
+
+- **GPU Detection:**  
+  Uses WMIC to detect if your system has an NVIDIA or AMD GPU. Defaults to CPU mode if neither is detected.
+
+- **Manual Installation Prompts:**  
+  - **NVIDIA Users:**  
+    - Instructs you to register for a free NVIDIA Developer account.
+    - Guides you through installing CUDA 11.8, cuDNN, TensorRT, and Visual Studio 2022 Community Edition (with C++ support).
+  - **AMD Users:**  
+    - Prompts you to install Visual Studio 2022 Community Edition for DirectML support.
+
+- **Environment Configuration:**  
+  For NVIDIA GPUs, the script updates the `PATH` environment variable to include essential CUDA directories for proper operation.
+
+- **Dependency Installation:**  
+  Installs GPU-specific and general Python packages:
+  - **NVIDIA:**  
+    - Installs CUDA-enabled versions of PyTorch, TorchVision, TorchAudio, and additional NVIDIA libraries.
+  - **AMD:**  
+    - Installs AMD-compatible libraries including support for torch-directml.
+  - **CPU-only:**  
+    - Installs CPU-compatible versions of the packages.
+  - Additionally, installs a common set of Python packages required by your project.
+
+## Prerequisites
+
+- **Operating System:** Windows  
+- **Python:** Ensure Python is installed and added to your system's `PATH`.
+- **WMIC:** The script uses WMIC for GPU detection (note that WMIC is deprecated on newer versions of Windows).
+
+## Getting Started
+
+### Run the Script
+
+- Open a Command Prompt, navigate to the repository folder, and run:
+
+```
+python autosetup.py
+```
+
+## Follow On-Screen Prompts
+
+- The script will display your detected GPU type.
+- For NVIDIA and AMD GPUs, it will prompt you with manual installation steps (e.g., installing CUDA, cuDNN, Visual Studio).
+- Press **Enter** when prompted after completing any manual steps.
+
+## Installation Process
+
+- The script installs the necessary Python packages based on your system’s configuration. If any command fails, the script will exit with an error message.
+
+## Completion
+
+- Once complete, the script will display a message confirming that Python, dependencies, and required libraries are installed.
+
+## Troubleshooting
+
+- WMIC Compatibility:
+If WMIC is not available or is deprecated on your system, consider alternative methods for GPU detection.
+
+- Installation Errors:
+Ensure you have the necessary permissions and that all manual installation steps have been followed before re-running the script.
+
+---
 ---
 
 ## 🔹 NVIDIA Users (⚠️ Manual Steps Required)
