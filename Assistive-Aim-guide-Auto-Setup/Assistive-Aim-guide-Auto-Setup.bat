@@ -173,4 +173,4 @@ echo ✅ Installation complete! Python, NVIDIA/AMD/CPU dependencies, and require
 echo ==============================================
 
 pause
-exit /b 0
+cmd /k
