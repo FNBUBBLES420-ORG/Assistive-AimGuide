@@ -242,6 +242,22 @@ Open the `config.py` file and adjust the following settings according to your pr
 - **device:** Set to `'cpu'` or `'cuda'` depending on whether you're running on CPU or GPU.
 - **fp16:** Set to `True` to use FP16 for faster inference on supported GPUs.
 
+## 🔧 Configuration Options
+Modify settings in the `config.py` file to customize bot behavior:
+- **Auto Aim Movement**: Change the `aaMovementAmp` value to control how smoothly the bot adjusts aim.
+- **Headshot Mode**: Toggle headshot prioritization with `headshot_mode`.
+- **Screen Resolution**: Adjust the aim area using `screenShotWidth` and `screenShotHeight`.
+- **Masking**: Configure `useMask`, `maskSide`, `maskWidth`, and `maskHeight` to ignore certain screen areas.
+- **Quit Key**: Set `aaQuitKey` to customize the key used to quit the bot (default is 8).
+- **Activation Key**: Use Caps Lock to toggle the bot on/off.
+- **Confidence Level**: Adjust the target detection confidence using the `confidence` setting.
+- **Visual Feedback**: Enable visual overlays with `visuals` to see what the bot detects.
+- **Center Targeting**: Use `centerOfScreen` to prioritize center-screen targets.
+- **ONNX Provider**: Choose between AMD or NVIDIA execution with `onnxChoice`.
+- **Model Path**: Specify the model file path in `model_path`, supporting `.engine` or `.onnx`.
+- **Device**: Set execution to 'cpu' or 'cuda' with `device`.
+- **FP16 Mode**: Enable `fp16` for faster processing on compatible GPUs.
+
 ## Usage Instructions
 
 ### Activation
@@ -260,22 +276,6 @@ Open the `config.py` file and adjust the following settings according to your pr
 
 ### Quitting
 - **Exit**: Press the '8' key to stop and exit the bot.
-
-## 🔧 Configuration Options
-Modify settings in the `config.py` file to customize bot behavior:
-- **Auto Aim Movement**: Change the `aaMovementAmp` value to control how smoothly the bot adjusts aim.
-- **Headshot Mode**: Toggle headshot prioritization with `headshot_mode`.
-- **Screen Resolution**: Adjust the aim area using `screenShotWidth` and `screenShotHeight`.
-- **Masking**: Configure `useMask`, `maskSide`, `maskWidth`, and `maskHeight` to ignore certain screen areas.
-- **Quit Key**: Set `aaQuitKey` to customize the key used to quit the bot (default is 8).
-- **Activation Key**: Use Caps Lock to toggle the bot on/off.
-- **Confidence Level**: Adjust the target detection confidence using the `confidence` setting.
-- **Visual Feedback**: Enable visual overlays with `visuals` to see what the bot detects.
-- **Center Targeting**: Use `centerOfScreen` to prioritize center-screen targets.
-- **ONNX Provider**: Choose between AMD or NVIDIA execution with `onnxChoice`.
-- **Model Path**: Specify the model file path in `model_path`, supporting `.engine` or `.onnx`.
-- **Device**: Set execution to 'cpu' or 'cuda' with `device`.
-- **FP16 Mode**: Enable `fp16` for faster processing on compatible GPUs.
 
 ## 🚨 Legal and Compliance
 - This tool is intended for educational and accessibility purposes within environments that support inclusivity.
