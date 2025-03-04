@@ -4,10 +4,6 @@
 
 ## DO `EVERY STEP AND FOLLOW EVERY STEP` OF THE NVIDIA INSTALLATION GUIDE OR IT WON'T WORK PROPERLY
 
-- **FOR `AMD USERS` MAKE SURE YOU `FOLLOW` THE GUIDE FOR `AMD GPUS`**
-
-## For `AMD GPU SUPPORT` [click here](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_amd_scripts/dist/readme.md)
-
 </div>
 
 ----
@@ -144,3 +140,45 @@ print(torch.version.cuda)  # This will print the CUDA version being used
 print(torch.cuda.get_device_name(0))  # This will print the name of the GPU, e.g., 'NVIDIA GeForce RTX GPU Model'
 ```
 run the `get_device.py` to see if you installed it correctly 
+
+
+# 🚀 Visual Studio 2022 Community Edition Installation Guide
+
+This guide will help you download and install **Visual Studio 2022 Community Edition** with the **Desktop Development with C++** workload for C and C++ development.
+
+</div>
+
+## 📥 Step 1: Download Visual Studio
+
+Click the following link to download **Visual Studio 2022 Community Edition**:  
+👉 [Download Visual Studio 2022 Community Edition](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false)
+
+## 🛠 Step 2: Installing Visual Studio
+
+1. Once the installer is downloaded, **run the installer**.
+2. In the **Visual Studio Installer**, select the **Workloads** tab.
+
+## 🖥 Step 3: Select Workload for C++ Development
+
+To set up **C++ development**, ensure you select the **Desktop development with C++** workload:
+
+1. In the **Workloads** tab, check the option **Desktop development with C++**.
+   - This will install the necessary tools for C++ programming, including compilers, libraries, and debugging tools.
+2. Click **Install** to begin the installation process.
+
+## 🛠 System Requirements Visual Studio 2022
+
+Make sure your system meets the minimum requirements for Visual Studio 2022:
+- **OS**: Windows 10 or higher.
+- **Processor**: Quad-core processor or better.
+- **RAM**: 8 GB of RAM (16 GB recommended).
+- **Disk Space**: Minimum 20 GB free space.
+
+## 🛑 Troubleshooting
+
+If you encounter any issues during installation, refer to the official troubleshooting guide:  
+- [Visual Studio Installation Troubleshooting](https://docs.microsoft.com/en-us/visualstudio/install/troubleshooting-installation-issues?view=vs-2022)
+
+</div>
+
+## Now you're ready to start developing C and C++ applications in Visual Studio 2022! 🎉
