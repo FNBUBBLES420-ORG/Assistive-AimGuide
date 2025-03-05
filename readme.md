@@ -14,10 +14,33 @@
 
 # 🚨 READ THE ENTIRE README.MD & ALL DOCUMENTS EVERYTHING CAREFULLY !!! 🚨
 
-----
+---
+# LICENSE
+## ***This project is proprietary and all rights are reserved by the author.***
+## ***Unauthorized copying, distribution, or modification of this project is strictly prohibited.***
+## ***Unless You have written permission from the Developer or the FNBUBBLES420 ORG.***
+
+# Copyright Notice
+
+© 2024 Bubbles The Dev and FNBUBBLES420ORG. All rights reserved.
+
+This image, including its design, text, and visual elements, is protected under copyright law. Unauthorized use, reproduction, distribution, or modification without the express written permission of Bubbles The Dev and FNBUBBLES420ORG is prohibited. For licensing or usage inquiries, please contact [media@fnbubbles420.org](mailto:media@fnbubbles420.org).
+
+## 🚨 Legal and Compliance
+- This tool is intended for educational and accessibility purposes within environments that support inclusivity.
+- We do not endorse or promote cheating. Use of this tool in violation of game terms may result in bans or penalties.
+- For any concerns about compatibility with game policies, consult game developers.
+
+## 🚨**Important**🚨: Please ensure you read the following documents before using the tool:
+- **[Readme.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/readme.md)**
+- **[License.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/LICENSE.md)**
+- **[Code_of_Conduct.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/CODE_OF_CONDUCT.md)**
+- **[Security.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/SECURITY.md)**
+---
+
 
 # 🌟 [Funding](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/.github/FUNDING.yml) 🌟
----
+
 ---
 ## Support the Project ⭐
 
@@ -30,12 +53,6 @@
 ## Introduction
 Welcome to the **Assistive AimGuide** project!  
 This tool is designed to enhance accessibility for gamers with **physical disabilities** by providing advanced AI-driven aiming assistance. It helps to level the playing field, allowing everyone to enjoy competitive and casual gaming environments.
-
-## 🚨**Important**🚨: Please ensure you read the following documents before using the tool:
-- **[Readme.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/readme.md)**
-- **[License.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/LICENSE.md)**
-- **[Code_of_Conduct.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/CODE_OF_CONDUCT.md)**
-- **[Security.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/SECURITY.md)**
 
 ## 🚀 Features
 - 🎯 **Adaptive Aim Assistance**: Tailors aiming assistance to the specific needs of gamers with physical disabilities, using `YOLOv5` and `YOLOv8` and `YOLOv11` detection models.
