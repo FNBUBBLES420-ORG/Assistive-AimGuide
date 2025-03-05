@@ -1,6 +1,6 @@
 @echo off
 
-REM Install PyTorch 2.5.1, TorchVision 0.20.1, and Torchaudio 2.5.1 for CPU-only
+REM Install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0 for CPU-only
 
 python --version >nul 2>&1
 if %errorlevel% neq 0 (
@@ -10,7 +10,7 @@ if %errorlevel% neq 0 (
 
 echo Installing PyTorch, TorchVision, and Torchaudio for CPU-only...
 
-pip3 install torch==2.5.1 torchvision==0.20.1 torchaudio==2.5.1 --index-url https://download.pytorch.org/whl/cpu
+pip3 install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cpu
 
 if %errorlevel% neq 0 (
     echo Installation failed.
