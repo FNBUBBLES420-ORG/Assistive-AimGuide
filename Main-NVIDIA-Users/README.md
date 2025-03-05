@@ -69,8 +69,7 @@ python main_onnx.py
 
 ## DO `EVERY STEP AND FOLLOW EVERY STEP` OF THE NVIDIA INSTALLATION GUIDE OR IT WON'T WORK PROPERLY
 
-</div>
-----
+---
 ### 1. **Download the NVIDIA CUDA Toolkit 11.8**
 
 First, download the CUDA Toolkit 11.8 from the official NVIDIA website:
