@@ -59,7 +59,7 @@ We **advocate for fair play** and accessibility in gaming and do **not endorse c
 Use of this tool in online games is at your own risk. Please consult with game developers if unsure about compatibility with game policies.  
 This tool should be used primarily as an assistive device in environments that support inclusivity.
 
-- **[PLEASE READ IMPORTANT](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/PLEASE-READ-IMPORTANT.md)**
+- **[Assistive-AimGuide-Feedback](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Assistive-AimGuide-Feedback.md)**
 
 
 ---
@@ -150,25 +150,10 @@ This guide explains how to install and run **assistive aimguide** on your system
     ```
 
 ---
-# - [CLICK HERE FOR CPU USERS INSTALLATION SETUP GUIDE IS A MUST FOR CPU USERS](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_cpu_script/dist/README.md)
-# - [CLICK HERE FOR AMD USERS INSTALLATION SETUP GUIDE IS A MUST FOR AMD USERS](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_amd_scripts/dist/readme.md)
-# - [CLICK HERE FOR NVIDIA USERS INSTALLATION SETUP GUIDE IS A MUST FOR NVIDIA USERS](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Nvidia-Cuda.md)
+# - [CLICK HERE FOR CPU USERS INSTALLATION SETUP GUIDE IS A MUST FOR CPU USERS](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/tree/main/Main-CPU-Users/main_cpu_script/dist)
+# - [CLICK HERE FOR AMD USERS INSTALLATION SETUP GUIDE IS A MUST FOR AMD USERS](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/tree/main/Main-AMD-Users/main_amd_scripts/dist)
+# - [CLICK HERE FOR NVIDIA USERS INSTALLATION SETUP GUIDE IS A MUST FOR NVIDIA USERS](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/tree/main/Main-NVIDIA-Users)
 ---
-
-## 2. Install NVIDIA-Specific Dependencies (For NVIDIA GPU Users)
-
-- **Navigate to the Project Folder:**
-  - Open your command prompt or terminal and change directory to your **assistive aimguide** folder:
-    ```bash
-    cd path/to/assistive_aimguide
-    ```
-    *Replace `path/to/assistive_aimguide` with the actual path to your folder.*
-
-- **Install Dependencies:**
-  - Run the following command:
-    ```bash
-    pip install -r nvidia_requirements.txt
-    ```
 
 ---
 
