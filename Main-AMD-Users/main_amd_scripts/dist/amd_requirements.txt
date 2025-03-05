@@ -1,0 +1,30 @@
+torch
+torchvision
+torchaudio
+torch-directml  # For AMD GPUs with DirectML support
+onnx  # ONNX package
+onnx-simplifier  # Simplify ONNX models
+onnxruntime  # General ONNX runtime
+onnxruntime-directml  # For Windows with DirectML support (AMD GPUs)
+numpy
+opencv-python
+comtypes
+pandas
+cupy
+bettercam
+psutil
+colorama
+ultralytics
+PyAutoGUI
+PyGetWindow
+pywin32
+pyyaml
+tqdm
+matplotlib
+seaborn
+requests
+ipython
+dxcam
+pyarmor
+dill
+serial

@@ -1,0 +1,3 @@
+# for AMD GPU
+
+python .\export.py --weights .\your_model_path.pt --include onnx --imgsz 320 320
