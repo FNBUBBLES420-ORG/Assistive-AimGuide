@@ -61,7 +61,6 @@ This tool should be used primarily as an assistive device in environments that s
 
 - **[Assistive-AimGuide-Feedback](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Assistive-AimGuide-Feedback.md)**
 
-
 ---
 
 ## Bubbles Advanced AI Anti Cheat Engine
@@ -69,7 +68,6 @@ This tool should be used primarily as an assistive device in environments that s
 ### ***[BAAACE](https://github.com/KernFerm/Bubbles-Advanced-Ai-Anti-Cheat-Engine)***
 
 ---
-
 ## 🌟 About Us
 
 At **[FNBubbles420 Org](https://github.com/FNBUBBLES420-ORG)**, we are dedicated to supporting **disabled gamers, developers, veterans, and streamers** through various initiatives. One of our primary programs is **[Game Vision Aid](https://github.com/FNBUBBLES420-ORG/game-vision-aid)**, which aims to enhance accessibility and performance for gamers with visual impairments.  
@@ -79,24 +77,19 @@ At **[FNBubbles420 Org](https://github.com/FNBUBBLES420-ORG)**, we are dedicated
 While the **Assistive AimGuide** is a separate project, it embodies our organization's dedication to leveraging innovative technologies to enhance accessibility and equality in gaming for those with disabilities. This commitment underlines our ongoing efforts to serve and uplift the community.
 
 ---
-
 ### 💬 Words to Live By  
 *"Life is a journey best traveled together; when we lift each other up, we rise as a community, stronger and more united. Every small act of kindness creates ripples that can change the world."*  
 – **Bubbles**
 
 ---
-
 To learn more about what drives us, visit our **[Mission Page](https://www.fnbubbles420.org/ourmission)**.  
 If you'd like to get involved or learn more about volunteering, visit our **[Volunteer Page](https://www.fnbubbles420.org/volunteer)**.
 
 ---
-
 ## 📥 How to Download the Repo (First-Time Users)
 
 Click the link to read [**Instructions**](https://www.gitprojects.fnbubbles420.org/how-to-download-repos) 📄.
 
-----
-# For AMD GPU SUPPORT [click here](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_amd_scripts/dist/readme.md)
 ----
 ### Supported Languages on Readme.md
 1. **Nvidia**
@@ -106,30 +99,11 @@ Click the link to read [**Instructions**](https://www.gitprojects.fnbubbles420.o
 ---
 
 - `update_ultralytics.bat` **ALWAYS CHECK FOR UPDATES COUPLE TIME EVERY FEW WEEKS !!**
-
 ---
-<div align="center">
 
-# LICENSE
-## ***This project is proprietary and all rights are reserved by the author.***
-## ***Unauthorized copying, distribution, or modification of this project is strictly prohibited.***
-## ***Unless You have written permission from the Developer or the FNBUBBLES420 ORG.***
-
-# Copyright Notice
-
-© 2024 Bubbles The Dev and FNBUBBLES420ORG. All rights reserved.
-
-This image, including its design, text, and visual elements, is protected under copyright law. Unauthorized use, reproduction, distribution, or modification without the express written permission of Bubbles The Dev and FNBUBBLES420ORG is prohibited. For licensing or usage inquiries, please contact [media@fnbubbles420.org](mailto:media@fnbubbles420.org).
-</div>
----
----
+## Assistive Aimguide Installation Instructions
 - Follow these steps to set up and run **assistive aimguide** on your system. If you encounter any issues, double-check that all paths are correct and that you have the necessary permissions to run these scripts.
-
-# Assistive Aimguide Installation Instructions
-
-This guide explains how to install and run **assistive aimguide** on your system.
-
----
+- This guide explains how to install and run **assistive aimguide** on your system.
 
 ## 1. Install Python 3.11.9
 
@@ -148,13 +122,10 @@ This guide explains how to install and run **assistive aimguide** on your system
     ```
     Python 3.11.9
     ```
-
 ---
 # - [CLICK HERE FOR CPU USERS INSTALLATION SETUP GUIDE IS A MUST FOR CPU USERS](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/tree/main/Main-CPU-Users/main_cpu_script/dist)
 # - [CLICK HERE FOR AMD USERS INSTALLATION SETUP GUIDE IS A MUST FOR AMD USERS](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/tree/main/Main-AMD-Users/main_amd_scripts/dist)
 # - [CLICK HERE FOR NVIDIA USERS INSTALLATION SETUP GUIDE IS A MUST FOR NVIDIA USERS](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/tree/main/Main-NVIDIA-Users)
----
-
 ---
 
 ## 3. Running the Application
@@ -262,10 +233,6 @@ Modify settings in the `config.py` file to customize bot behavior:
 ### Quitting
 - **Exit**: Press the '8' key to stop and exit the bot.
 
-## 🚨 Legal and Compliance
-- This tool is intended for educational and accessibility purposes within environments that support inclusivity.
-- We do not endorse or promote cheating. Use of this tool in violation of game terms may result in bans or penalties.
-- For any concerns about compatibility with game policies, consult game developers.
 ---
 ## 🛠️ Tested Environment
 
@@ -286,5 +253,22 @@ The project has been successfully tested on the following setup:
 - **AMD GPU**
 - **CPU**
 - **Multiple Monitor Support**
-- **Mobile** support 
+- **Mobile** support
+- 
 ---
+
+# LICENSE
+## ***This project is proprietary and all rights are reserved by the author.***
+## ***Unauthorized copying, distribution, or modification of this project is strictly prohibited.***
+## ***Unless You have written permission from the Developer or the FNBUBBLES420 ORG.***
+
+# Copyright Notice
+
+© 2024 Bubbles The Dev and FNBUBBLES420ORG. All rights reserved.
+
+This image, including its design, text, and visual elements, is protected under copyright law. Unauthorized use, reproduction, distribution, or modification without the express written permission of Bubbles The Dev and FNBUBBLES420ORG is prohibited. For licensing or usage inquiries, please contact [media@fnbubbles420.org](mailto:media@fnbubbles420.org).
+
+## 🚨 Legal and Compliance
+- This tool is intended for educational and accessibility purposes within environments that support inclusivity.
+- We do not endorse or promote cheating. Use of this tool in violation of game terms may result in bans or penalties.
+- For any concerns about compatibility with game policies, consult game developers.
