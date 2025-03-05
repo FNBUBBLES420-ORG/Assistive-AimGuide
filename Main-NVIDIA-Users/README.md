@@ -205,12 +205,10 @@ print(torch.cuda.get_device_name(0))  # This will print the name of the GPU, e.g
 ```
 run the `get_device.py` to see if you installed it correctly 
 
-
+---
 # 🚀 Visual Studio 2022 Community Edition Installation Guide
 
 This guide will help you download and install **Visual Studio 2022 Community Edition** with the **Desktop Development with C++** workload for C and C++ development.
-
-</div>
 
 ## 📥 Step 1: Download Visual Studio
 
@@ -243,13 +241,8 @@ Make sure your system meets the minimum requirements for Visual Studio 2022:
 If you encounter any issues during installation, refer to the official troubleshooting guide:  
 - [Visual Studio Installation Troubleshooting](https://docs.microsoft.com/en-us/visualstudio/install/troubleshooting-installation-issues?view=vs-2022)
 
-</div>
-
 ## Now you're ready to start developing C and C++ applications in Visual Studio 2022! 🎉
-
-
-<div align="center">
-
+---
 ## 🛠 Run Script `run.bat`
 
 The `run.bat` script is a batch file to help you install all the required dependencies for this project. Below is the content of the file and the steps it will execute:
@@ -406,7 +399,7 @@ pause
 1. **Download the Required Files:**
 
    - Ensure you have downloaded the WHL file for CuPy from the following link:
-     [Download CuPy WHL](https://github.com/cupy/cupy/releases/download/v12.0.0b1/cupy_cuda11x-12.0.0b1-cp311-cp311-win_amd64.whl)
+     [Download CuPy WHL](https://github.com/cupy/cupy/releases/download/v13.4.0/cupy_cuda11x-13.4.0-cp311-cp311-win_amd64.whl)
 
 2. **Run the Batch File:**
 
@@ -419,5 +412,3 @@ pause
    ```
    ./run.bat
    ```
-
-<div align="center">
