@@ -144,6 +144,8 @@ Click the link to read [**Instructions**](https://www.gitprojects.fnbubbles420.o
 # - [CLICK HERE FOR AMD USERS INSTALLATION SETUP GUIDE IS A MUST FOR AMD USERS](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/tree/main/Main-AMD-Users/main_amd_scripts/dist)
 # - [CLICK HERE FOR NVIDIA USERS INSTALLATION SETUP GUIDE IS A MUST FOR NVIDIA USERS](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/tree/main/Main-NVIDIA-Users)
 # - [FNBubbles420 Org Auto Setup](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/tree/main/Assistive-Aim-guide-Auto-Setup)
+# GOT ISSUES ??
+## [GOT ISSUES CLICK HERE](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/GOT-ISSUES%3F.MD)
 ---
 
 ## 3. Running the Application
