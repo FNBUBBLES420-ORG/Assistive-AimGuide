@@ -251,6 +251,9 @@ Modify settings in the `config.py` file to customize bot behavior:
 ### Quitting
 - **Exit**: Press the '8' key to stop and exit the bot.
 
+# GOT ISSUES ??
+## [GOT ISSUES CLICK HERE](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/GOT-ISSUES%3F.MD)
+
 ---
 ## 🛠️ Tested Environment
 
