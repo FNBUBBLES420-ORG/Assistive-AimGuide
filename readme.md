@@ -122,23 +122,6 @@ Click the link to read [**Instructions**](https://www.gitprojects.fnbubbles420.o
 - Follow these steps to set up and run **assistive aimguide** on your system. If you encounter any issues, double-check that all paths are correct and that you have the necessary permissions to run these scripts.
 - This guide explains how to install and run **assistive aimguide** on your system.
 
-## 1. Install Python 3.11.9
-
-- **Download & Install:**
-  - Download Python version **3.11.9** from the `use the python3119.bat`
-  - DONT RUN AS ADMIN , JUST DOUBLE CLICK ON THE `.BAT`
-  - Follow the installation instructions for your operating system.
-
-- **Verify Installation:**
-  - Open your command prompt or terminal.
-  - Run the command:
-    ```bash
-    python --version
-    ```
-  - Ensure the output reads:
-    ```
-    Python 3.11.9
-    ```
 ---
 # - [CLICK HERE FOR CPU USERS INSTALLATION SETUP GUIDE IS A MUST FOR CPU USERS](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/tree/main/Main-CPU-Users/main_cpu_script/dist)
 # - [CLICK HERE FOR AMD USERS INSTALLATION SETUP GUIDE IS A MUST FOR AMD USERS](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/tree/main/Main-AMD-Users/main_amd_scripts/dist)
