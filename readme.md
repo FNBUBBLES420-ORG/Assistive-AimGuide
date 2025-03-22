@@ -148,43 +148,9 @@ Click the link to read [**Instructions**](https://www.gitprojects.fnbubbles420.o
 ## [GOT ISSUES CLICK HERE](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/GOT-ISSUES%3F.MD)
 ---
 
-## 3. Running the Application
-
-### Using TensorRT
-
-- Navigate to the `main_tensorrt_script` folder.
-- Run the `launcher.bat` file:
-  - You can either double-click the file or run it from the command prompt.
-
-### Using ONNX
-
-- Navigate to the `onnx` folder.
-- Run the `launcher.bat` file similarly by double-clicking it or running it from the command prompt.
-
-### 4. Run the Bot:
-
-After configuring the bot, navigate to the respective folder and start it by running:
-
-- For the **TensorRT** bot, navigate to the `main_tensorrt_script/dist/` folder and run:
-
-```
-cd main_tensorrt_script/dist/
-python main_tensorrt.py
-```
-
-- For the **ONNX** bot, navigate to the `main_onnx_script/dist/` folder and run:
-
-```
-cd main_onnx_script/dist/
-python main_onnx.py
-```
-
-## 4. Adjusting Your Configuration
-
-- **Edit Configuration:**
-  - Run the `config-launcher.bat` file. This action will open `config.py` in Notepad.
-  - Edit the configuration settings as needed.
-  - Save your changes after editing.
+---
+# If you Support us make sure to follow [https://github.com/FNBUBBLES420-ORG](https://github.com/FNBUBBLES420-ORG)
+---
 
 ## 🛠 Requirements
 
