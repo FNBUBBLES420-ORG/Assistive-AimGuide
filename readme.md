@@ -44,7 +44,7 @@ This image, including its design, text, and visual elements, is protected under 
 ---
 ## Support the Project ⭐
 
-# **If you find this project useful, Please Join Our Discord , We Have Lots to Offer, great community , supportive community, mental health support, and more [Click To Join](https://discord.fnbubbles420.org/)** your support is appreciated.
+# **If you find this project useful, Please Join Our Discord , We Have Lots to Offer, great community , supportive community, mental health support, and more [CLICK TO JOIN DISCORD SERVER](https://discord.gg/8kbgcEugQu)** your support is appreciated.
 ## FNBubbles420 Org is committed to creating an inclusive environment that supports all individuals, especially those dealing with mental health issues or physical disabilities. Our efforts are focused on providing adaptive technology, mental health resources, peer support groups, and creating educational programs that promote accessibility and mental wellness.
 
 
@@ -65,7 +65,7 @@ This tool is designed to enhance accessibility for gamers with **physical disabi
 ## Discord Support
 Join our Discord channel **Assistive AimGuide** for assistance, support, or to share your experience.  
 
-- **[Discord Link](https://discord.fnbubbles420.org/invite)**
+- **[CLICK TO JOIN DISCORD SERVER](https://discord.gg/8kbgcEugQu)**
 - or Join to Support Fnbubbles420 Org & The Mission.
 - Our community is growing be apart of something BIG!!
 ---
