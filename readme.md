@@ -107,6 +107,14 @@ If you'd like to get involved or learn more about volunteering, visit our **[Vol
 
 Click the link to read [**Instructions**](https://www.gitprojects.fnbubbles420.org/how-to-download-repos) 📄.
 
+### Download ZIP:
+1. 📥 Click the green `"Code"` button at the top right of the repository page.
+2. 📂 Choose `"Download ZIP"` from the dropdown menu.
+3. 📁 This will download a `ZIP file` with the entire repository.
+### Extract the ZIP File:
+1. 🗂 Find the downloaded `ZIP file` on your computer.
+2. 🔧 `Extract` it using your computer's built-in extraction tool or a third-party tool like `WinRAR` or `7-Zip`.
+
 ----
 ### Supported Languages on Readme.md
 1. **Nvidia**
