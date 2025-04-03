@@ -1,55 +1,59 @@
 # ⚠️ WARNING: NMS Time Limit Exceeded
 
-## What This Means
-You're seeing the following warning during execution:
+## ❓ What Does This Warning Mean?
+
+You may encounter the following message during runtime:
 
 ```
 WARNING NMS time limit 0.550s exceeded
 ```
 
-
-This message is triggered when Non-Maximum Suppression (NMS), the post-processing step in object detection, takes longer than 0.550 seconds to complete. NMS is used to filter overlapping detection boxes and keep only the most confident ones.
-
----
-
-## ❓ Why Is This Happening?
-
-You're currently using a YOLOv5 model trained on **Fortnite** gameplay, but applying it to a **different game: Mini Royale** (a toy soldier-style FPS).
-
-Because the model wasn't trained on Mini Royale visuals:
-- It may detect **irrelevant objects** (like terrain, buildings, or props).
-- It may produce **too many overlapping boxes**, overwhelming the NMS step.
-- It may identify the **wrong class** or produce **false positives**.
+This message indicates that **Non-Maximum Suppression (NMS)** — a step that filters overlapping object detections — took longer than the preset time limit (0.550 seconds). It doesn’t stop the program but may indicate performance slowdowns in certain scenarios.
 
 ---
 
-## ✅ The Fix: Use a Correctly Trained Model
+## 🧠 Why This Happens
 
-To eliminate this warning and improve detection performance:
-1. **Collect gameplay screenshots** from Mini Royale.
-2. **Label enemies** using a tool like [LabelImg](https://github.com/tzutalin/labelImg).
-3. **Train or fine-tune a YOLOv5 model** specifically on Mini Royale content.
-4. **Convert the trained `.pt` or `.onnx` model into `.engine` format** for use with TensorRT.
+This warning may appear due to:
 
----
-
-## 🧪 Temporary Workaround
-
-If you're not ready to train a new model:
-- You can safely ignore this warning for now.
-- It **does not break the script**, but may slightly delay responses in-game.
-- Try adjusting the `confidence` threshold and `mask` settings in `config.py` to reduce the number of false detections.
+- A high number of overlapping detections in the screenshot region.
+- The model being used in a visual environment it wasn’t specifically trained for.
+- A low confidence threshold allowing more boxes through.
+- Complex or cluttered scenes increasing NMS workload.
 
 ---
 
-## 📌 Summary
+## ✅ What You Can Do (Without Modifying Source Code)
 
-- You're using a Fortnite model on Mini Royale.
-- The warning is due to mismatch in game visuals.
-- Everything is still functional.
-- Training a proper model will solve it long-term.
+The following changes can be made in your `config.py`:
 
----
+### 1. **Raise the Confidence Threshold**
+- Filter out weak predictions to reduce the load on NMS.
 
-🧠 You're doing great. Keep building, testing, and learning!  
-This system is already 90% there — the right model will make it elite. 🎯
+```python
+confidence = 0.80  # Try increasing from 0.75 if needed
+```
+
+2. Reduce Screenshot Area
+- A smaller region means fewer objects detected, improving speed.
+
+```
+screenShotHeight = 280
+screenShotWidth = 280
+```
+
+3. Use a Mask to Block Irrelevant Visuals
+- This helps avoid detections in unnecessary screen areas (like your weapon).
+
+```
+useMask = True
+maskSide = "left"  # or "right"
+maskWidth = 110
+maskHeight = 230
+```
+
+## 🆗 Is It Okay to Ignore?
+Yes! This warning does not affect functionality and your system will continue running.
+It simply means NMS took a little longer than expected — often due to visual complexity or model mismatch.
+
+# 📌 Note: If you're using a model not trained for the exact visuals being processed, occasional false positives and warnings like this are expected.
