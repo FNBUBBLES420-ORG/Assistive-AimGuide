@@ -137,6 +137,7 @@ Click the link to read [**Instructions**](https://www.gitprojects.fnbubbles420.o
 # - [FNBubbles420 Org Auto Setup](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/tree/main/Assistive-Aim-guide-Auto-Setup)
 # GOT ISSUES ??
 ## [GOT ISSUES CLICK HERE](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/GOT-ISSUES%3F.MD)
+# [Not-Using-Correct-Model - getting a warning??](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Not-Using-Correct-Model.md)
 ---
 
 ---
