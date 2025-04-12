@@ -17,7 +17,7 @@ This message indicates that **Non-Maximum Suppression (NMS)** — a step that fi
 This warning may appear due to:
 
 - A high number of overlapping detections in the screenshot region.
-- The model being used in a visual environment it wasn’t specifically trained for.
+- The model being used in a visual environment it wasn’t specifically trained for. `MAKE SURE TO HAVE THE CORRECT MODEL YOU ARE USING FOR THE GAME`
 - A low confidence threshold allowing more boxes through.
 - Complex or cluttered scenes increasing NMS workload.
 
