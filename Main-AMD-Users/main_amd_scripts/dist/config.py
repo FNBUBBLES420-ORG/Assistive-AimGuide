@@ -46,7 +46,7 @@ onnxChoice = 2  # Set to 2 for AMD GPUs using DirectML
 # model_path = 'v5.engine'
 
 # For ONNX model (for AMD GPUs & NVIDIA GPUs)
-model_path = 'v5.onnx'
+model_path = 'onnx-models/v5.onnx'
 
 # Device can be 'cpu' or 'dml' (DirectML for AMD GPUs)
 device = 'dml'  # For AMD GPUs, use DirectML
