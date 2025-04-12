@@ -35,7 +35,7 @@ centerOfScreen = True
 # Choose your model configuration here:
 # model_path = 'v5.engine'  # For TensorRT engine model
 # model_path = 'v5.onnx'    # For ONNX model (ONNXRuntime)
-model_path = 'v5.pt'        # For PyTorch model
+model_path = 'pt-models/v5.pt'        # For PyTorch model
 
 # Device can be 'cpu' or 'cuda' (for GPU)
 device = 'cpu'
