@@ -47,7 +47,7 @@ onnxChoice = 3
 # model_path = 'v5.engine'
 
 # For ONNX model
-model_path = 'v5.onnx'
+model_path = 'onnx-models/v5.onnx'
 
 # Device can be 'cpu' or 'cuda' (for GPU)
 device = 'cuda'
