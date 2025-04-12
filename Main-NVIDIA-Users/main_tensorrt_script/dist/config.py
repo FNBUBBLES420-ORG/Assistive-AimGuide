@@ -44,7 +44,7 @@ onnxChoice = 3
 # Uncomment the appropriate model path depending on which model you're using put # in front of the model_path
 
 # For TensorRT engine model
-model_path = 'v5.engine'
+model_path = 'engine-models/v5.engine'
 
 # For ONNX model
 # model_path = 'v5.onnx'
