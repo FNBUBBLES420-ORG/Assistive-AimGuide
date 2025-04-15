@@ -134,6 +134,7 @@ Click the link to read [**Instructions**](https://www.gitprojects.fnbubbles420.o
 # GOT ISSUES ??
 ## [GOT ISSUES CLICK HERE](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/GOT-ISSUES%3F.MD)
 # [Not-Using-Correct-Model - getting a warning??](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Not-Using-Correct-Model.md)
+# [Updated](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Main_Script/dist/README.MD)
 ---
 
 ---
@@ -151,42 +152,6 @@ To run the bot, ensure the following dependencies are installed:
 - **BetterCam** – For capturing and processing live game frames. `Enhanced Advanced`
 - **Comtypes** – For interacting with the Windows API (`pip install comtypes`).
 ----
-
-### 3. Configure settings:
-Open the `config.py` file and adjust the following settings according to your preferences:
-
-- **screenShotHeight** and **screenShotWidth:** Define the portion of the screen to be captured around the center.
-- **useMask, maskSide, maskWidth, and maskHeight:** Set these to mask parts of the screen where a model or object might interfere (useful in third-person games or for large weapons).
-- **aaMovementAmp:** Controls how smooth the aim is. Adjust based on your preference and game type.
-- **aaQuitKey:** Default is `8`, press this key to quit and shut down the auto-aim.
-- **aaActivateKey** = `CapsLock`, press to toggle the autoaim
-- **confidence:** Adjust detection confidence level for the target (default is `0.4`).
-- **headshot_mode:** Set to `True` to aim slightly upwards towards the head.
-- **cpsDisplay:** Set to `True` if you want to display corrections per second in the terminal (for debugging purposes).
-- **visuals:** Set to `True` to display what the bot "sees" (bounding boxes, etc.).
-- **centerOfScreen:** Prioritize targets near the center of the screen for smarter target selection.
-- **onnxChoice:** Choose between `2` (AMD for nvidia), or `3` (NVIDIA) when using ONNX models.
-- **model_path:** Uncomment the correct path based on whether you're using a TensorRT engine or ONNX model.
-  - Use `v5.engine` for TensorRT.
-  - Use `v5.onnx` for ONNX.
-- **device:** Set to `'cpu'` or `'cuda'` depending on whether you're running on CPU or GPU.
-- **fp16:** Set to `True` to use FP16 for faster inference on supported GPUs.
-
-## 🔧 Configuration Options
-Modify settings in the `config.py` file to customize bot behavior:
-- **Auto Aim Movement**: Change the `aaMovementAmp` value to control how smoothly the bot adjusts aim.
-- **Headshot Mode**: Toggle headshot prioritization with `headshot_mode`.
-- **Screen Resolution**: Adjust the aim area using `screenShotWidth` and `screenShotHeight`.
-- **Masking**: Configure `useMask`, `maskSide`, `maskWidth`, and `maskHeight` to ignore certain screen areas.
-- **Quit Key**: Set `aaQuitKey` to customize the key used to quit the bot (default is 8).
-- **Activation Key**: Use Caps Lock to toggle the bot on/off.
-- **Confidence Level**: Adjust the target detection confidence using the `confidence` setting.
-- **Visual Feedback**: Enable visual overlays with `visuals` to see what the bot detects.
-- **Center Targeting**: Use `centerOfScreen` to prioritize center-screen targets.
-- **ONNX Provider**: Choose between AMD or NVIDIA execution with `onnxChoice`.
-- **Model Path**: Specify the model file path in `model_path`, supporting `.engine` or `.onnx`.
-- **Device**: Set execution to 'cpu' or 'cuda' with `device`.
-- **FP16 Mode**: Enable `fp16` for faster processing on compatible GPUs.
 
 ## Usage Instructions
 
