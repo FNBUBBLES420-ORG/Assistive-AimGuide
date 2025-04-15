@@ -32,11 +32,8 @@ Use the included `python3119.bat` script to install Python 3.11.9:
   ```
 
 ### 2. Installing Required Dependencies
-Open a terminal in the `Main_Script/dist/` folder and run:
-```bash
-pip install -r requirements.txt
-```
 Alternatively, use `amd-requirements.zip`, `cpu-requirements.zip`, or `nvidia-requirements.zip` depending on your hardware to install dependencies faster.
+- Located in the `Setup` folder.
 
 ### 3. Launching the Application
 To run the launcher:
