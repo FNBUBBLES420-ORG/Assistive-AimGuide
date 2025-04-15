@@ -1,3 +1,0 @@
-# CPU export command 
-
-python .\export.py --weights .\your_model_path.pt --include onnx --device cpu --imgsz 320 320
