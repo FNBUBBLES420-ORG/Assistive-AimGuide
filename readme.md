@@ -102,6 +102,11 @@ While the **Assistive AimGuide** is a separate project, it embodies our organiza
 To learn more about what drives us, visit our **[Mission Page](https://www.fnbubbles420.org/ourmission)**.  
 If you'd like to get involved or learn more about volunteering, visit our **[Volunteer Page](https://www.fnbubbles420.org/volunteer)**.
 
+# GOT ISSUES ??
+## [GOT ISSUES CLICK HERE](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/GOT-ISSUES%3F.MD)
+# [Not-Using-Correct-Model - getting a warning??](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Not-Using-Correct-Model.md)
+# [Updated](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Main_Script/dist/README.MD)
+
 ---
 ## 📥 How to Download the Repo (First-Time Users)
 
@@ -130,11 +135,6 @@ Click the link to read [**Instructions**](https://www.gitprojects.fnbubbles420.o
 - Follow these steps to set up and run **assistive aimguide** on your system. If you encounter any issues, double-check that all paths are correct and that you have the necessary permissions to run these scripts.
 - This guide explains how to install and run **assistive aimguide** on your system.
 
----
-# GOT ISSUES ??
-## [GOT ISSUES CLICK HERE](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/GOT-ISSUES%3F.MD)
-# [Not-Using-Correct-Model - getting a warning??](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Not-Using-Correct-Model.md)
-# [Updated](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/Main_Script/dist/README.MD)
 ---
 
 ---
@@ -196,7 +196,7 @@ The project has been successfully tested on the following setup:
 - **CPU**
 - **Multiple Monitor Support**
 - **Mobile** support
-- 
+
 ---
 
 # LICENSE
