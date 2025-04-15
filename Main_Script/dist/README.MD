@@ -35,6 +35,11 @@ Use the included `python3119.bat` script to install Python 3.11.9:
 Alternatively, use `amd-requirements.zip`, `cpu-requirements.zip`, or `nvidia-requirements.zip` depending on your hardware to install dependencies faster.
 - Located in the `Setup` folder.
 
+## This is for the `GUI` to be able to run properly.
+```
+pip install customtkinter
+```
+
 ### 3. Launching the Application
 To run the launcher:
 ```bash
