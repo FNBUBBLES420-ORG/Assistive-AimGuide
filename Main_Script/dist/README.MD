@@ -121,7 +121,7 @@ device = 'cuda'
 fp16 = True
 ```
 
-To edit, double-click `config.py` or use the "Open Main Config" button in the launcher.
+To edit, click `config button` or use the "Open Main Config" button in the launcher.
 
 ---
 
