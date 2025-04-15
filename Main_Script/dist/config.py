@@ -24,11 +24,11 @@ aaActivateKey = "CapsLock"
 headshot_mode = True
 
 # Displays the Corrections per second in the terminal
-# Irrelevant 
+# Irrelevant DONT NEED
 cpsDisplay = False
 
 # Set to True if you want to get the visuals
-# Irrelevant 
+# Irrelevant DONT NEED
 visuals = False
 
 # Smarter selection of people
@@ -43,11 +43,14 @@ onnxChoice = 3
 # Model Configuration
 # Uncomment the appropriate model path depending on which model you're using put # in front of the model_path
 
-# For TensorRT engine model
-model_path = 'engine-models/v5.engine'
+# Choose your model configuration here:
+# model_path = 'engine-models/v5.engine'  # For TensorRT engine model
+model_path = 'onnx-models/v5.onnx'    # For ONNX model (ONNXRuntime)
+# model_path = 'pt-models/v5.pt'        # For PyTorch model
 
-# For ONNX model
-# model_path = 'onnx-models/v5.onnx'
+# Device can be 'cpu' or 'dml' (DirectML for AMD GPUs)
+# IF you have AMD GPU uncomment the line below
+# device = 'dml'  # For AMD GPUs, use DirectML
 
 # Device can be 'cpu' or 'cuda' (for GPU)
 device = 'cuda'
