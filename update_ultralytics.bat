@@ -2,7 +2,7 @@
 echo Regularly check for updated Ultralytics versions.
 echo.
 pause
-echo press enter to continue.
+
 REM Check if Python is installed
 python --version >nul 2>&1
 if %errorlevel% neq 0 (
