@@ -7,24 +7,24 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 2.0.134   | :white_check_mark: |
+| 2.1.807   | :white_check_mark: |
 
 
 
 
 | Version | Supported          |
 | ------- | ------------------ |
-|   2.6.0+cu118 | :white_check_mark: |    
-|   0.21.0+cu118 |:white_check_mark: |
-|   2.6.0+cu118 | :white_check_mark: |
+|   2.7.0+cu118 | :white_check_mark: |    
+|   0.22.0+cu118 |:white_check_mark: |
+|   2.7.0+cu118 | :white_check_mark: |
 | Visual Studio 2022 | :white_check_mark: |
 | Python 3.11.6 | nope |
 | Python 3.11.9 | :white_check_mark: |
 ------------------------------------------------------------
 
-- `torch= 2.6.0`
-- `torchvision= 0.21.0`
-- `torchaudio= 2.6.0`
+- `torch= 2.7.0`
+- `torchvision= 0.22.0`
+- `torchaudio= 2.7.0`
 - `Cuda 11.8`
 
 - Visual Studio 2022 
