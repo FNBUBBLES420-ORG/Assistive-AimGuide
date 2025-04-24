@@ -24,11 +24,9 @@ aaActivateKey = "CapsLock"
 headshot_mode = True
 
 # Displays the Corrections per second in the terminal
-# Irrelevant DONT NEED
 cpsDisplay = False
 
 # Set to True if you want to get the visuals
-# Irrelevant DONT NEED
 visuals = False
 
 # Smarter selection of people
