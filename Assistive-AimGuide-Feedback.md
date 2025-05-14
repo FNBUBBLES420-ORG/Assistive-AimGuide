@@ -8,7 +8,7 @@ We kindly ask you to provide feedback regarding your experience with the **Assis
 Your feedback is valuable for understanding the tool's impact and further enhancing its effectiveness. Please join our Discord and share your detailed experience in the **assistive-aim-guide** channel.
 
 **Discord link:**  
-[https://www.discord.fnbubbles420.org/invite](https://www.discord.fnbubbles420.org/invite)
+[https://discord.gg/eCGpWUf5aR](https://discord.gg/eCGpWUf5aR)
 
 ---
 
@@ -22,7 +22,7 @@ Solicitamos que forneça um depoimento sobre sua experiência com o **Assistive 
 Seu feedback é essencial para entendermos o impacto da ferramenta e aprimorar sua eficácia. Junte-se ao nosso Discord e compartilhe sua experiência detalhada no canal **assistive-aim-guide**.
 
 **Link do Discord:**  
-[https://www.discord.fnbubbles420.org/invite](https://www.discord.fnbubbles420.org/invite)
+[https://discord.gg/eCGpWUf5aR](https://discord.gg/eCGpWUf5aR)
 
 ---
 
@@ -36,7 +36,7 @@ Seu feedback é essencial para entendermos o impacto da ferramenta e aprimorar s
 Ваш отзыв важен для понимания воздействия инструмента и дальнейшего повышения его эффективности. Присоединяйтесь к нашему Discord и поделитесь своим подробным опытом на канале **assistive-aim-guide**.
 
 **Ссылка на Discord:**  
-[https://www.discord.fnbubbles420.org/invite](https://www.discord.fnbubbles420.org/invite)
+[https://discord.gg/eCGpWUf5aR](https://discord.gg/eCGpWUf5aR)
 
 ---
 
@@ -50,7 +50,7 @@ Chúng tôi kính đề nghị bạn cung cấp phản hồi về trải nghiệ
 Phản hồi của bạn rất có giá trị trong việc hiểu rõ tác động của công cụ và nâng cao hiệu quả của nó. Vui lòng tham gia Discord của chúng tôi và chia sẻ trải nghiệm chi tiết của bạn trong kênh **assistive-aim-guide**.
 
 **Liên kết Discord:**  
-[https://www.discord.fnbubbles420.org/invite](https://www.discord.fnbubbles420.org/invite)
+[https://discord.gg/eCGpWUf5aR](https://discord.gg/eCGpWUf5aR)
 
 ---
 
@@ -64,7 +64,7 @@ Phản hồi của bạn rất có giá trị trong việc hiểu rõ tác độ
 您的反馈对我们了解工具的影响并进一步提高其有效性非常重要。请加入我们的 Discord，并在 **assistive-aim-guide** 频道中分享您的详细经验。
 
 **Discord 链接:**  
-[https://www.discord.fnbubbles420.org/invite](https://www.discord.fnbubbles420.org/invite)
+[https://discord.gg/eCGpWUf5aR](https://discord.gg/eCGpWUf5aR)
 
 ---
 
@@ -78,7 +78,7 @@ Phản hồi của bạn rất có giá trị trong việc hiểu rõ tác độ
 您的回饋對我們了解工具的影響並進一步提高其有效性非常重要。請加入我們的 Discord，並在 **assistive-aim-guide** 頻道中分享您的詳細經驗。
 
 **Discord 連結:**  
-[https://www.discord.fnbubbles420.org/invite](https://www.discord.fnbubbles420.org/invite)
+[https://discord.gg/eCGpWUf5aR](https://discord.gg/eCGpWUf5aR)
 
 ---
 
@@ -92,7 +92,7 @@ Nous vous prions de bien vouloir fournir un retour d'expérience concernant l'ut
 Vos retours sont précieux pour comprendre l'impact de cet outil et améliorer son efficacité. Veuillez rejoindre notre Discord et partager votre expérience détaillée dans le canal **assistive-aim-guide**.
 
 **Lien Discord:**  
-[https://www.discord.fnbubbles420.org/invite](https://www.discord.fnbubbles420.org/invite)
+[https://discord.gg/eCGpWUf5aR](https://discord.gg/eCGpWUf5aR)
 
 ---
 
@@ -106,7 +106,7 @@ Molimo vas da pružite povratne informacije o vašem iskustvu s korištenjem **A
 Vaše povratne informacije su važne za razumijevanje učinka alata i daljnje poboljšanje njegove učinkovitosti. Pridružite nam se na Discordu i podijelite svoje iskustvo u kanalu **assistive-aim-guide**.
 
 **Discord link:**  
-[https://www.discord.fnbubbles420.org/invite](https://www.discord.fnbubbles420.org/invite)
+[https://discord.gg/eCGpWUf5aR](https://discord.gg/eCGpWUf5aR)
 
 ---
 
@@ -120,7 +120,7 @@ Vaše povratne informacije su važne za razumijevanje učinka alata i daljnje po
 귀하의 피드백은 도구의 영향을 이해하고 그 효과를 더욱 향상시키는 데 매우 중요합니다. Discord에 참여하시고 **assistive-aim-guide** 채널에서 귀하의 경험을 자세히 공유해 주세요.
 
 **Discord 링크:**  
-[https://www.discord.fnbubbles420.org/invite](https://www.discord.fnbubbles420.org/invite)
+[https://discord.gg/eCGpWUf5aR](https://discord.gg/eCGpWUf5aR)
 
 ---
 
@@ -134,4 +134,4 @@ Lütfen **Assistive AimGuide** ile ilgili deneyiminiz hakkında geri bildirimde 
 Geri bildiriminiz, aracın etkisini anlamak ve etkinliğini artırmak için değerlidir. Lütfen Discord’a katılın ve ayrıntılı deneyiminizi **assistive-aim-guide** kanalında paylaşın.
 
 **Discord bağlantısı:**  
-[https://www.discord.fnbubbles420.org/invite](https://www.discord.fnbubbles420.org/invite)
+[https://discord.gg/eCGpWUf5aR](https://discord.gg/eCGpWUf5aR)
