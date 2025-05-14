@@ -7,7 +7,7 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 2.1.807   | :white_check_mark: |
+| 2.2.0692dw7e   | :white_check_mark: |
 
 
 
@@ -18,7 +18,6 @@ currently being supported with security updates.
 |   0.22.0+cu118 |:white_check_mark: |
 |   2.7.0+cu118 | :white_check_mark: |
 | Visual Studio 2022 | :white_check_mark: |
-| Python 3.11.6 | nope |
 | Python 3.11.9 | :white_check_mark: |
 ------------------------------------------------------------
 
