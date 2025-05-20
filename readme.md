@@ -65,7 +65,7 @@ This tool is designed to enhance accessibility for gamers with **physical disabi
 ## Discord Support
 Join our Discord channel **Assistive AimGuide** for assistance, support, or to share your experience.  
 
-- **[CLICK TO JOIN DISCORD SERVER](https://discord.gg/8kbgcEugQu)**
+- **[CLICK TO JOIN DISCORD SERVER](https://discord.gg/FxJd3PxXbc)**
 - or Join to Support Fnbubbles420 Org & The Mission.
 - Our community is growing be apart of something BIG!!
 ---
