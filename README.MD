@@ -10,6 +10,8 @@
 ### 🌟 Our Mission 🌟
 At FNBUBBLES420 Org, we are a nonprofit charity dedicated to empowering and uplifting gamers 🎮, streamers 📹, developers 💻, and veterans 🎖️. Our mission focuses on supporting individuals with disabilities ♿, autism spectrum disorders 🧩, PTSD 🧠, mental health challenges 💚, physical challenges 💪, and service-related injuries. We are committed to building a supportive, inclusive, and dynamic community where everyone can unlock their full potential. 🌟
 
+We are actively seeking sponsorships, grants, and donations to create a fully accessible game center. This space will be designed to accommodate and support all gamers, developers, and veterans, regardless of their physical or mental challenges, fostering a welcoming environment for everyone.
+
 ### 🌟 Core Values
 - ✨ Positivity: Embrace challenges with a positive attitude. 😊
 - 🏆 Achievement: Strive to reach your goals and celebrate every success. 🏆
