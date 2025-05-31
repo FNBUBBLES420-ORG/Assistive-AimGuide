@@ -15,21 +15,16 @@
 # 🚨 READ THE ENTIRE README.MD & ALL DOCUMENTS EVERYTHING CAREFULLY !!! 🚨
 
 ---
-# LICENSE
-## ***This project is proprietary and all rights are reserved by the author.***
-## ***Unauthorized copying, distribution, or modification of this project is strictly prohibited.***
-## ***Unless You have written permission from the Developer or the FNBUBBLES420 ORG.***
+
+
+
+
 
 # Copyright Notice
 
 © 2024 Bubbles The Dev and FNBUBBLES420ORG. All rights reserved.
 
 This image, including its design, text, and visual elements, is protected under copyright law. Unauthorized use, reproduction, distribution, or modification without the express written permission of Bubbles The Dev and FNBUBBLES420ORG is prohibited. For licensing or usage inquiries, please contact [media@fnbubbles420.org](mailto:media@fnbubbles420.org).
-
-## 🚨 Legal and Compliance
-- This tool is intended for educational and accessibility purposes within environments that support inclusivity.
-- We do not endorse or promote cheating. Use of this tool in violation of game terms may result in bans or penalties.
-- For any concerns about compatibility with game policies, consult game developers.
 
 ## 🚨**Important**🚨: Please ensure you read the following documents before using the tool:
 - **[Readme.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/readme.md)**
@@ -54,13 +49,6 @@ This image, including its design, text, and visual elements, is protected under 
 Welcome to the **Assistive AimGuide** project!  
 This tool is designed to enhance accessibility for gamers with **physical disabilities** by providing advanced AI-driven aiming assistance. It helps to level the playing field, allowing everyone to enjoy competitive and casual gaming environments.
 
-## 🚀 Features
-- 🎯 **Adaptive Aim Assistance**: Tailors aiming assistance to the specific needs of gamers with physical disabilities, using `YOLOv5` and `YOLOv8` and `YOLOv11` detection models.
-- 🔫 **Precision Control**: Allows for fine-tuning of aiming settings to ensure accessibility without overpowering gameplay.
-- 🖼️ **Customizable Zones**: Enables users to define areas on the screen for the tool to assist with, adapting to various game layouts and preferences.
-- 💻 **Dynamic Performance Adjustment**: Manages resolution and processing based on system performance to maintain smooth gameplay.
-- 🤖 **Arduino Leonardo** (***RECOMMENDED***): Integrates with Arduino for additional customization and hardware-based controls.
----
 ---
 ## Discord Support
 Join our Discord channel **Assistive AimGuide** for assistance, support, or to share your experience.  
@@ -128,7 +116,6 @@ Click the link to read [**Instructions**](https://www.gitprojects.fnbubbles420.o
 - ***[AMD_Supported_Languages](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/tree/main/Supported_Languages/AMD-Supported_Languages)***
 ---
 
-- `update_ultralytics.bat` **ALWAYS CHECK FOR UPDATES COUPLE TIME EVERY FEW WEEKS !!**
 ---
 
 ## Assistive Aimguide Installation Instructions
@@ -141,61 +128,10 @@ Click the link to read [**Instructions**](https://www.gitprojects.fnbubbles420.o
 # If you Support us make sure to follow [https://github.com/FNBUBBLES420-ORG](https://github.com/FNBUBBLES420-ORG)
 ---
 
-## 🛠 Requirements
-
-To run the bot, ensure the following dependencies are installed:
-
-- **Python 3.11.9** – The required Python version for compatibility.
-- **OpenCV** – For handling image capture and processing (`pip install opencv-python`).
-- **PyTorch** – For deep learning and model inference (`pip install torch`).
-- **Cupy** – For utilizing CUDA-based GPU acceleration (`pip install cupy-cuda11x`).
-- **BetterCam** – For capturing and processing live game frames. `Enhanced Advanced`
-- **Comtypes** – For interacting with the Windows API (`pip install comtypes`).
 ----
-
-## Usage Instructions
-
-### Activation
-- **Start/Stop**: Use the `Caps Lock` key to toggle the bot on and off based on your game settings.
-
-### Adjustments
-- **Aim Adjustment**: The bot automatically detects targets and prioritizes those near the center of the screen. It adjusts the aim smoothly. Adjust aim behavior through `aaMovementAmp` and other settings in `config.py`.
-- **Speed Values for Aim Adjustment**:
-  - Slow: 0.2 - 0.4
-  - Medium: 0.5 - 0.7
-  - Fast: 0.8 - 1.0
-  - Very Fast: 1.1 - 1.5+
-
-### Special Modes
-- **Headshot Mode**: Enable this mode to make the bot aim slightly upwards to target heads by setting `headshot_mode` to True.
-
-### Quitting
-- **Exit**: Press the '8' key to stop and exit the bot.
 
 # GOT ISSUES ??
 ## [GOT ISSUES CLICK HERE](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/GOT-ISSUES%3F.MD)
-
----
-## 🛠️ Tested Environment
-
-The project has been successfully tested on the following setup:
-
-- **Processor**: Intel(R) Core(TM) i7-14700F @ 2.10 GHz
-- **GPU**: NVIDIA GeForce RTX 4060 Ti
-- **Operating System**: Windows 11
-- **Python Version**: 3.11.6
----
-- **Processor**: AMD Ryzen 9 7900X 12-Core Processor @ 4.70 GHz
-- **GPU**: DUEL GPU: "NVIDIA GeForce RTX 4060 Ti" "AMD Radeon"
-- **Operating System**: Windows 11
-- **Python Version**: 3.11.6 , 3.11.9
-
-### Works On
-- **Nvidia GPU**
-- **AMD GPU**
-- **CPU**
-- **Multiple Monitor Support**
-- **Mobile** support
 
 ---
 
@@ -209,8 +145,3 @@ The project has been successfully tested on the following setup:
 © 2024 Bubbles The Dev and FNBUBBLES420ORG. All rights reserved.
 
 This image, including its design, text, and visual elements, is protected under copyright law. Unauthorized use, reproduction, distribution, or modification without the express written permission of Bubbles The Dev and FNBUBBLES420ORG is prohibited. For licensing or usage inquiries, please contact [media@fnbubbles420.org](mailto:media@fnbubbles420.org).
-
-## 🚨 Legal and Compliance
-- This tool is intended for educational and accessibility purposes within environments that support inclusivity.
-- We do not endorse or promote cheating. Use of this tool in violation of game terms may result in bans or penalties.
-- For any concerns about compatibility with game policies, consult game developers.
