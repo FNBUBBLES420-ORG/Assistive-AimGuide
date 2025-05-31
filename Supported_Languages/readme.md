@@ -1,2 +1,0 @@
-- some of the setup might still be the same , but i would use the updated readme.md.
-- will update supported languages md files in future.
