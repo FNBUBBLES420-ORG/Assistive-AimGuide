@@ -1,5 +1,3 @@
----
-
 # Join Discord 
 
 - `#assistive-aimguide` channel. updated
