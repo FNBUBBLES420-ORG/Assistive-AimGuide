@@ -1,9 +1,21 @@
-# Join Discord We Have Lots To Offer
-- ***Registered 501(c)(3)***
+🌟 Join Our Discord — So Much to Explore!
+✅ Officially Registered 501(c)(3) Nonprofit
 
-### check `#assistive-aimguide` channel. ***`updated`***
+🎯 Check out the #assistive-aimguide channel — now updated with new tools!
+🛠️ Exclusive Access to:
 
-### **[https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)**
+Cutting-edge projects
+
+Assistive tech for gamers & streamers
+
+Real-time updates & sneak peeks
+
+A community that cares
+
+🔗 Join Here ➜ discord.gg/FxJd3PxXbc
+
+🛍️ Coming soon to a store near you 👀
+💬 Be part of the mission. Grow with us. Support something that matters. ❤️
 
 ---
 
