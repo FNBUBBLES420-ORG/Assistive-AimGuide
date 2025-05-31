@@ -1,7 +1,7 @@
 # Join Discord We Have Lots To Offer
 - ***Registered 501(c)(3)***
 
-### `#assistive-aimguide` channel. ***`updated`***
+### check `#assistive-aimguide` channel. ***`updated`***
 
 ### **[https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)**
 
