@@ -1,21 +1,24 @@
-🌟 Join Our Discord — So Much to Explore!
-✅ Officially Registered 501(c)(3) Nonprofit
+# `Files have been removed for this repo`
 
-🎯 Check out the `#assistive-aimguide` channel — now updated with new tools!
-🛠️ Exclusive Access to:
 
-Cutting-edge projects
+# 🌟 Join Our Discord — So Much to Explore!
+## ✅ Officially Registered 501(c)(3) Nonprofit
 
-Assistive tech for gamers & streamers
+- 🎯 Check out the `#assistive-aimguide` channel — now updated with new tools!
+### 🛠️ Exclusive Access to:
 
-Real-time updates & sneak peeks
+- Cutting-edge projects
 
-A community that cares
+- Assistive tech for gamers & streamers
 
-🔗 Join Here ➜ [https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
+- Real-time updates & sneak peeks
 
-🛍️ Coming soon to a store near you 👀
-💬 Be part of the mission. Grow with us. Support something that matters. ❤️
+- A community that cares
+
+## 🔗 Join Here ➜ [https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
+
+- 🛍️ Coming soon to a store near you 👀
+- 💬 Be part of the mission. Grow with us. Support something that matters. ❤️
 
 ---
 
