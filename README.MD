@@ -21,6 +21,7 @@
 - 💬 `Be part of the mission. Grow with us. Support something that matters.` ❤️
 
 - [UPDATES.MD](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/UPDATES.MD)
+- [INFO.MD](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/INFO.MD)
 
 ---
 
