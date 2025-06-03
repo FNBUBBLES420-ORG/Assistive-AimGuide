@@ -20,6 +20,8 @@
 - 🛍️ `Coming soon to a store near you` 👀
 - 💬 `Be part of the mission. Grow with us. Support something that matters.` ❤️
 
+- [UPDATES.MD](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/UPDATES.MD)
+
 ---
 
 ### 🌟 Our Mission 🌟
