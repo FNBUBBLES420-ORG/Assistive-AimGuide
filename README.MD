@@ -4,7 +4,7 @@
 # 🌟 Join Our Discord — So Much to Explore!
 ## ✅ Officially Registered 501(c)(3) Nonprofit
 
-- 🎯 Check out the `#assistive-aimguide` channel — now updated with new tools!
+- 🎯 Check out the `#disability-assistant-tool` channel — now updated with new tools!
 ### 🛠️ Exclusive Access to:
 
 - `Cutting-edge projects`
