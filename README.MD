@@ -15,7 +15,7 @@
 
 - `A community that cares`
 
-## 🔗 Join Here ➜ [https://fnbubbles420.org/discordinvite](https://fnbubbles420.org/discordinvite)
+## 🔗 Join Here ➜ [![](https://invidget.switchblade.xyz/zQbJJgwbUv)](https://discord.gg/zQbJJgwbUv)
 
 - 🛍️ `Coming soon to a store near you` 👀
 - 💬 `Be part of the mission. Grow with us. Support something that matters.` ❤️
